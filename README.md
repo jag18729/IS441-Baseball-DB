@@ -2,411 +2,383 @@
 
 **Moneyball Approach to MLB Player Scouting**
 
-**Team Members:**
-- Rafael Garcia
-- Josh Schmeltzer
-- Brandon Helmuth
-
-## Project Overview
-
-This project implements a Microsoft Access database for MLB team scouting using the "Moneyball" philosophy - leveraging statistical analysis to identify undervalued players within budget constraints.
-
-### Key Components
-
-- **7-Table Relational Database** for MLB teams, players, and game statistics
-- **Real 2024 MLB Data** from Ball Don't Lie API
-- **7 SQL Queries** demonstrating advanced database concepts
-- **Complete Documentation** including ERD, business rules, and normalization analysis
+[![Phase](https://img.shields.io/badge/Phase-3%20Complete-success)]()
+[![Database](https://img.shields.io/badge/Database-Microsoft%20Access-blue)]()
+[![Data](https://img.shields.io/badge/Data-Real%202024%20MLB-orange)]()
 
 ---
 
-## Project Structure
+## Team Members
+
+- **Rafael Garcia** - Database Design, API Integration, Data Extraction
+- **Josh Schmeltzer** - Access Database, Queries 3-5, Data Model Documentation
+- **Brandon Helmuth** - Queries 6-7, Report Compilation
+
+**GitHub Repository:** https://github.com/jag18729/IS441-Baseball-DB
+
+---
+
+## Project Overview
+
+This project implements a Microsoft Access database for MLB team scouting using the **Moneyball** philosophy - leveraging statistical analysis to identify undervalued players within budget constraints.
+
+### Key Features
+
+- **7-Table Relational Database** - Conference, Division, Team, Position, Player, Game, Game_Statistics
+- **Real 2024 MLB Data** - 30 teams, 1,048 players, 46,000+ games from Ball Don't Lie API
+- **7 SQL Queries** - Demonstrating JOINs, GROUP BY, HAVING, subqueries, and aggregation
+- **Complete Documentation** - ERD, business rules, data dictionary, API research
+- **Moneyball Analytics** - Statistical approach to player evaluation
+
+---
+
+## Quick Start
+
+### For Team Members (Josh & Brandon)
+
+**First Time Setup:**
+```bash
+# 1. Clone the repository
+git clone https://github.com/jag18729/IS441-Baseball-DB.git
+cd IS441-Baseball-DB
+
+# 2. Read the Quick Start guide
+open QUICK_START.md
+
+# 3. Read your task assignments
+open TEAM_GUIDE.md
+```
+
+**Josh's Next Steps:**
+1. Create Access database following `database/README.md`
+2. Import CSV files from `csv_data/` folder
+3. Test queries 3-5 from `sample_queries.sql`
+
+**Brandon's Next Steps:**
+1. Wait for Josh to complete Access setup
+2. Test queries 6-7 from `sample_queries.sql`
+3. Start writing report sections
+
+---
+
+## Repository Structure
 
 ```
 IS441-Baseball-DB/
 │
-├── README.md                          # This file
-├── Phase1_Database_Design.md          # Complete design documentation
-├── ERD_Diagram.md                     # Entity-Relationship Diagram
+├── README.md                    # 👈 You are here
+├── QUICK_START.md               # Fast overview for team
+├── TEAM_GUIDE.md                # Detailed collaboration guide
+├── SHARE_WITH_TEAM.md           # Handoff document
 │
-├── create_tables.sql                  # DDL script to create all tables
-├── sample_queries.sql                 # 7 SQL queries for Phase 4
+├── docs/                        # 📚 Documentation
+│   ├── BUSINESS_RULES.md        # All 30 business rules
+│   ├── DATA_DICTIONARY.md       # Complete table schemas
+│   └── API_RESEARCH.md          # API documentation
 │
-├── api_explorer.py                    # Script to explore API endpoints
-├── extract_api_data.py                # Main data extraction script
-├── api_exploration_results.json       # API structure analysis
+├── scripts/                     # 🐍 Python Scripts
+│   ├── extract_api_data.py      # Main data extraction
+│   ├── api_explorer.py          # API testing utility
+│   └── README.md                # Script documentation
 │
-└── csv_data/                          # Generated CSV files (after running extract script)
-    ├── teams.csv
-    ├── players.csv
-    ├── games.csv
-    └── game_statistics.csv
+├── database/                    # 🗄️ Database Files
+│   ├── schema.sql               # Database schema (SQL)
+│   └── README.md                # Database setup guide
+│
+├── csv_data/                    # 📊 CSV Data Files
+│   ├── teams.csv                # 30 MLB teams
+│   ├── players.csv              # 1,048 active players
+│   ├── games.csv                # 46,000+ games
+│   └── game_statistics.csv      # 92,000+ stats
+│
+├── .github/                     # ⚙️ GitHub Config
+│   └── CONTRIBUTING.md          # Team workflow guide
+│
+└── (Legacy docs - will be moved)
+    ├── Phase1_Database_Design.md
+    ├── ERD_Diagram.md
+    ├── create_tables.sql
+    ├── sample_queries.sql
+    ├── IMPORT_GUIDE.md
+    └── PROJECT_STATUS.md
 ```
-
----
-
-## Quick Start Guide
-
-### Step 1: Extract Data from API
-
-Run the data extraction script to pull 2024 MLB data:
-
-```bash
-cd /Users/rjgar/Projects/Education/IS441-Baseball-DB
-python3 extract_api_data.py
-```
-
-**Expected Output:**
-- `csv_data/teams.csv` - All 30 MLB teams
-- `csv_data/players.csv` - All active players
-- `csv_data/games.csv` - 2024 season games
-- `csv_data/game_statistics.csv` - Game-level team statistics
-
-**Time Required:** ~20-30 minutes (due to API rate limiting)
-
-### Step 2: Create Access Database
-
-1. Open Microsoft Access
-2. Create a new blank database named `IS441_Baseball_Scouting.accdb`
-3. Go to **External Data** → **SQL**
-4. Import and run `create_tables.sql` to create all tables
-
-**Alternative:** Manually create tables using the schema in `Phase1_Database_Design.md`
-
-### Step 3: Import CSV Data
-
-Import CSV files in this order (to respect foreign key constraints):
-
-1. **Conference** - Already created in SQL script (static data)
-2. **Division** - Already created in SQL script (static data)
-3. **Position** - Already created in SQL script (static data)
-4. **Team** - Import `csv_data/teams.csv`
-5. **Player** - Import `csv_data/players.csv`
-6. **Game** - Import `csv_data/games.csv`
-7. **Game_Statistics** - Import `csv_data/game_statistics.csv`
-
-**Import Steps in Access:**
-1. External Data → Text File
-2. Browse to CSV file
-3. Choose "Append to existing table"
-4. Map CSV columns to database fields
-5. Verify no import errors
-
-### Step 4: Run SQL Queries
-
-1. Open `sample_queries.sql`
-2. Copy each query into Access SQL View
-3. Run and capture results
-4. Screenshot output for project report
 
 ---
 
 ## Database Schema
 
-### 7 Tables:
+### 7 Tables
 
-1. **Conference** - American League (AL) and National League (NL)
-2. **Division** - 6 divisions (AL East, AL Central, AL West, NL East, NL Central, NL West)
-3. **Team** - 30 MLB teams with location, abbreviation, division
-4. **Position** - 13 baseball positions (pitchers, fielders, DH, utility)
-5. **Player** - Active MLB players with biographical data, team, position
-6. **Game** - 2024 season games with home/away teams, venue, attendance
-7. **Game_Statistics** - Per-game team statistics (runs, hits, errors)
+| Table | Type | Records | Purpose |
+|-------|------|---------|---------|
+| **Conference** | Lookup | 2 | AL and NL leagues |
+| **Division** | Lookup | 6 | 6 MLB divisions |
+| **Position** | Lookup | 13 | Baseball positions |
+| **Team** | Dimension | 30 | All MLB teams |
+| **Player** | Dimension | 1,048 | Active players (2024) |
+| **Game** | Fact | 46,000+ | Game results (2002-2024) |
+| **Game_Statistics** | Fact | 92,000+ | Team stats per game |
 
-### Key Relationships:
+**Total Records:** ~140,000
+
+### Entity Relationships
 
 ```
-Conference (1) ──< Division (M)
-Division (1) ──< Team (M)
-Team (1) ──< Player (M)
-Position (1) ──< Player (M)
-Team (1) ──< Game (M) [as home team]
-Team (1) ──< Game (M) [as away team]
-Game (1) ──< Game_Statistics (2) [home & away stats]
-Team (1) ──< Game_Statistics (M)
+Conference (1) ──< Division (M) ──< Team (M) ──< Player (M)
+                                      │
+                                      ├──< Game (M)
+                                      └──< Game_Statistics (M)
+
+Position (1) ────────────────────< Player (M)
+Game (1) ─────────────────────< Game_Statistics (2)
 ```
 
----
-
-## SQL Queries Summary
-
-### Query 1: Active Players Roster
-**Features:** Multi-table JOIN
-**Purpose:** View all active players with their teams and positions
-
-### Query 2: Total Runs Per Team
-**Features:** GROUP BY, Aggregation, Multi-table JOIN
-**Purpose:** Identify offensive powerhouses (Moneyball: run production)
-
-### Query 3: Teams with High Batting
-**Features:** GROUP BY, HAVING, Aggregation
-**Purpose:** Find teams exceeding 8.0 hits per game average
-
-### Query 4: Position Depth by Team
-**Features:** GROUP BY, HAVING, Aggregation (3+ features)
-**Purpose:** Identify teams with multiple players at same position (roster management)
-
-### Query 5: Players on Winning Teams
-**Features:** Non-correlated SUBQUERY, Multi-table JOIN (2+ features)
-**Purpose:** Find players on teams with >50 wins (market efficiency)
-
-### Query 6: Roster Composition by Position Type
-**Features:** Correlated SUBQUERY, GROUP BY, Multi-table JOIN (3+ features)
-**Purpose:** Analyze pitcher vs. fielder distribution per team
-
-### Query 7: Strong Divisions Analysis
-**Features:** Multi-table JOIN, GROUP BY, HAVING, Subquery (3+ features)
-**Purpose:** Identify divisions exceeding league average wins (competitive analysis)
-
-**All required features covered:**
-✅ GROUP BY (Queries 2, 3, 4, 6, 7)
-✅ HAVING (Queries 3, 4, 7)
-✅ Multi-table JOIN (All queries)
-✅ Self-join (Query 4)
-✅ Non-correlated subquery (Query 5)
-✅ Correlated subquery (Query 6)
-✅ 4 queries with 2+ features (Queries 2, 3, 5, 7)
-✅ 1 query with 3+ features (Queries 4, 6, 7)
+**See:** [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) for complete schema
 
 ---
 
-## Moneyball Strategy Implementation
+## SQL Queries
 
-### How This Database Supports Moneyball Analysis:
+### Query Requirements Met
 
-#### 1. **Identify Undervalued Players**
-- Query players on losing teams (talent undervalued due to poor team record)
-- Find teams with high hits but low runs (inefficient offense to exploit)
-- Track young players with proven performance (low salary, high output)
+✅ **4 queries with 2+ features**
+✅ **3 queries with 3+ features**
+✅ **Multi-table JOINs**
+✅ **GROUP BY & HAVING**
+✅ **Correlated & Non-correlated subqueries**
+✅ **Self-joins**
 
-#### 2. **Statistical Analysis Over Scouting Opinions**
-- Game statistics drive decisions (hits, runs, errors)
-- Position analysis reveals roster gaps
-- Performance metrics quantify player value
+### Query List
 
-#### 3. **Budget Efficiency**
-- Track debut years (younger = cheaper)
-- Identify players on underperforming teams (potential trade targets)
-- Compare team performance vs. spending (attendance as proxy)
+| # | Query Name | Features | Assignee |
+|---|------------|----------|----------|
+| 1 | Active Players Roster | Multi-table JOIN | Rafael |
+| 2 | Total Runs Per Team | GROUP BY, Aggregation | Rafael |
+| 3 | Teams with High Batting | GROUP BY, HAVING | Josh |
+| 4 | Position Depth by Team | GROUP BY, HAVING, Aggregation | Josh |
+| 5 | Players on Winning Teams | Subquery, JOIN | Josh |
+| 6 | Roster Composition | Correlated Subquery, GROUP BY | Brandon |
+| 7 | Strong Divisions Analysis | JOIN, GROUP BY, HAVING, Subquery | Brandon |
 
-#### 4. **Market Inefficiencies**
-- Teams with high attendance but poor records (fan base value)
-- Players on small-market teams (overlooked talent)
-- Statistical outliers (high OPS, low recognition)
-
----
-
-## Business Rules (30 Total)
-
-### League Structure (BR-1 to BR-3)
-- 2 conferences (AL, NL) with 3 divisions each
-
-### Team Rules (BR-4 to BR-7)
-- 30 teams, each in one division with unique abbreviation
-
-### Player Rules (BR-8 to BR-13)
-- Each player on one team with one primary position
-- Unique jersey numbers within team
-
-### Position Rules (BR-14 to BR-16)
-- 13 positions categorized as Pitcher or Fielder
-
-### Game Rules (BR-17 to BR-22)
-- Each game has home/away teams, date, season, venue
-
-### Game Statistics Rules (BR-23 to BR-26)
-- 2 stats records per game (home & away)
-- Non-negative integer values for hits/runs/errors
-
-### Data Integrity Rules (BR-27 to BR-30)
-- Foreign key enforcement
-- No deletion of historical records
-
-**Full details:** See `Phase1_Database_Design.md` section on Business Rules
+**All queries in:** `sample_queries.sql`
 
 ---
 
-## Normalization Analysis
+## Moneyball Strategy
 
-### ✅ First Normal Form (1NF)
-- All columns contain atomic values
-- No repeating groups
-- Unique primary keys
+### How This Database Supports Moneyball Analysis
 
-### ✅ Second Normal Form (2NF)
-- All in 1NF
-- No partial dependencies
-- All non-key attributes depend on entire primary key
+1. **Identify Undervalued Players**
+   - Query players on losing teams (talent undervalued due to poor team record)
+   - Find teams with high hits but low runs (inefficient offense)
 
-### ✅ Third Normal Form (3NF)
-- All in 2NF
-- No transitive dependencies
-- Non-key attributes depend ONLY on primary key
+2. **Statistical Analysis Over Scouting Opinions**
+   - Game statistics drive decisions (hits, runs, errors)
+   - Position analysis reveals roster gaps
 
-**Example:** Player table references Team_ID (FK) instead of storing team name directly, avoiding transitive dependency.
+3. **Budget Efficiency**
+   - Track debut years (younger players = lower salaries)
+   - Identify players on underperforming teams (trade targets)
+
+4. **Market Inefficiencies**
+   - Teams with high attendance but poor records (fanbase value)
+   - Statistical outliers (high performance, low recognition)
 
 ---
 
-## API Data Source
+## Data Source
 
-**Ball Don't Lie MLB API**
-- Base URL: `https://api.balldontlie.io/mlb/v1`
-- Documentation: https://mlb.balldontlie.io/
-- API Key: `e8b6410a-dd6e-4819-9e1c-7ae21f885609`
-- Rate Limit: 5 requests per minute (free tier)
-- Data Coverage: 2002 - Present
+**API:** Ball Don't Lie MLB API
+**Documentation:** https://mlb.balldontlie.io/
+**Base URL:** `https://api.balldontlie.io/mlb/v1`
+**Data Coverage:** 2002 - Present
 
-### Available Endpoints (Free Tier):
-✅ `/teams` - All 30 MLB teams
-✅ `/players` - Player biographical data
-✅ `/games` - Game results with team statistics
+**Available Endpoints (Free Tier):**
+- `/teams` - All 30 MLB teams
+- `/players` - Player biographical data
+- `/games` - Game results with team statistics
 
-### Premium Only:
-❌ `/stats` - Individual player season statistics
-❌ `/stats/players` - Advanced player analytics
+**See:** [docs/API_RESEARCH.md](docs/API_RESEARCH.md) for complete API documentation
+
+---
+
+## Project Phases
+
+| Phase | Deliverable | Status |
+|-------|-------------|--------|
+| **Phase 1** | ERD & Business Rules | ✅ Complete |
+| **Phase 2** | Relational Model & Normalization | ✅ Complete |
+| **Phase 3** | Data Extraction & CSV Generation | ✅ Complete |
+| **Phase 4** | SQL Queries Development | 🚧 In Progress |
+| **Phase 5** | Final Report | ⏳ Upcoming |
+| **Phase 6** | Submission | ⏳ Pending |
+
+---
+
+## Documentation
+
+### For Database Design
+
+- [docs/BUSINESS_RULES.md](docs/BUSINESS_RULES.md) - All 30 business rules with supporting logic
+- [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) - Complete table schemas and field definitions
+- [ERD_Diagram.md](ERD_Diagram.md) - Entity-Relationship Diagrams
+- [Phase1_Database_Design.md](Phase1_Database_Design.md) - Complete design document
+
+### For Implementation
+
+- [database/README.md](database/README.md) - Database setup and Access instructions
+- [IMPORT_GUIDE.md](IMPORT_GUIDE.md) - Step-by-step CSV import guide
+- [sample_queries.sql](sample_queries.sql) - All 7 SQL queries with documentation
+
+### For Data Extraction
+
+- [docs/API_RESEARCH.md](docs/API_RESEARCH.md) - Complete API documentation
+- [scripts/README.md](scripts/README.md) - Script usage and troubleshooting
+
+### For Team Collaboration
+
+- [TEAM_GUIDE.md](TEAM_GUIDE.md) - Comprehensive collaboration guide
+- [QUICK_START.md](QUICK_START.md) - Quick reference for teammates
+- [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md) - Git workflow and standards
+- [SHARE_WITH_TEAM.md](SHARE_WITH_TEAM.md) - Handoff document
+
+---
+
+## Getting Started
+
+### 1. Extract Data (Already Complete ✅)
+
+Data has already been extracted by Rafael. CSV files are in `csv_data/` folder.
+
+**If you need to re-extract:**
+```bash
+python3 scripts/extract_api_data.py
+```
+
+**Time:** ~2 hours (due to API rate limiting)
+
+---
+
+### 2. Create Access Database (Josh's Task)
+
+**Follow the guide:** [database/README.md](database/README.md)
+
+**Steps:**
+1. Create blank Access database
+2. Run `database/schema.sql` to create tables
+3. Import CSV files in correct order
+4. Set up table relationships
+5. Verify data integrity
+
+**Time:** 2-3 hours
+
+---
+
+### 3. Test SQL Queries (All Team Members)
+
+**After Access database is ready:**
+
+1. Open `sample_queries.sql`
+2. Find your assigned queries
+3. Run in Access SQL View
+4. Screenshot results
+5. Save screenshots for report
+
+**Assignments:**
+- Rafael: Queries 1-2
+- Josh: Queries 3-5
+- Brandon: Queries 6-7
+
+**Time:** 30 minutes - 1 hour per person
+
+---
+
+### 4. Write Report (All Team Members)
+
+**Section Assignments:**
+- **Rafael:** Executive Summary, Background, Problem Statement
+- **Josh:** Business Rules, Data Model (ERD, Relational, Normalization)
+- **Brandon:** Recommendations, Appendix
+
+**Time:** 2-3 hours per person
+
+---
+
+## Statistics
+
+### Data Volume
+
+- **30 MLB Teams** - All 30 franchises
+- **1,048 Active Players** - 2024 rosters
+- **46,123 Games** - Historical data (2002-2024)
+- **92,246 Game Statistics** - Team performance metrics
+
+### Project Metrics
+
+- **7 Tables** - Normalized to 3NF
+- **30 Business Rules** - Comprehensive constraints
+- **7 SQL Queries** - Meeting all requirements
+- **~140,000 Total Records** - Large-scale database
 
 ---
 
 ## Troubleshooting
 
-### CSV Import Errors
+### Common Issues
 
-**Issue:** Foreign key constraint violation
-**Solution:** Import tables in correct order (Conference → Division → Team → Player)
+**CSV Import Errors:**
+- See [IMPORT_GUIDE.md](IMPORT_GUIDE.md) troubleshooting section
+- Verify import order (Conference → Division → Team → Player → Game → Stats)
 
-**Issue:** Date format errors
-**Solution:** Ensure dates are in MM/DD/YYYY format (script handles this)
+**Query Syntax Errors:**
+- Access SQL syntax differs from MySQL
+- See [database/README.md](database/README.md) for Access-specific syntax
 
-**Issue:** Player has invalid Position_ID
-**Solution:** Check that position exists in Position table (script maps all positions)
-
-### API Rate Limiting
-
-**Issue:** "Too many requests" error
-**Solution:** Script includes 12-second delay between requests (5 req/min limit)
-
-**Issue:** 401 Unauthorized on stats endpoints
-**Solution:** Stats require premium subscription - use game-level data instead
-
-### Query Performance
-
-**Issue:** Slow query execution
-**Solution:** Indexes are defined in `create_tables.sql` - ensure they're created
-
-**Issue:** Query returns no results
-**Solution:** Verify Season = 2024 in WHERE clause, check that data import was successful
+**API Rate Limiting:**
+- Script includes automatic delays
+- Don't run multiple instances simultaneously
 
 ---
 
-## Project Timeline
+## Support
 
-| Week | Phase | Deliverable | Status |
-|------|-------|-------------|--------|
-| 1-2 | Phase 1A | ERD & Business Rules | ✅ Complete |
-| 2 | Phase 1B | API Testing & Mapping | ✅ Complete |
-| 3 | Phase 2 | Relational Model & Normalization | ✅ Complete |
-| 3-4 | Phase 3 | Access Build & Data Import | ⏳ Ready to Execute |
-| 5 | Phase 4 | SQL Queries Development | ✅ Queries Written |
-| 6 | Phase 5 | Final Report | ⏳ Pending |
-| 7 | Phase 6 | Submission | ⏳ Pending |
+### Resources
 
----
+- **Project Documentation:** All files in `docs/` folder
+- **Team Guide:** [TEAM_GUIDE.md](TEAM_GUIDE.md)
+- **Quick Reference:** [QUICK_START.md](QUICK_START.md)
 
-## Team Member Task Assignments
+### Contact
 
-### Member A: API & Data Collection
-- [x] Sign up for API key
-- [x] Test API endpoints
-- [x] Run data extraction script
-- [ ] Export CSV files
-- [ ] Validate data quality
-- [ ] Write Queries 1-2
-- [ ] Executive Summary, Background (report)
-
-### Member B: Database Design & Import
-- [x] Create ERD diagram
-- [x] Define business rules
-- [x] Document relationships
-- [ ] Create Access database
-- [ ] Import CSV data
-- [ ] Validate foreign keys
-- [ ] Write Queries 3-5
-- [ ] Data Model, Normalization (report)
-
-### Member C: SQL & Documentation
-- [x] Design SQL queries
-- [x] Document query requirements
-- [ ] Test all 7 queries
-- [ ] Screenshot query results
-- [ ] Write Queries 6-7
-- [ ] Recommendations, Appendix (report)
-
----
-
-## Submission Checklist
-
-### Hard Copy (8.5 x 11 envelope):
-- [ ] Complete project report (printed)
-- [ ] Access database file on USB drive
-- [ ] Team evaluation forms (sealed envelopes)
-
-### Soft Copy (Canvas):
-- [ ] Project report (PDF)
-- [ ] Access database (.accdb file)
-- [ ] Team evaluation forms
-
-### Report Sections:
-- [ ] Title page with team member names
-- [ ] Executive Summary
-- [ ] Background (business context)
-- [ ] Business Problem & Objectives
-- [ ] Business Rules (all 30 with logic)
-- [ ] Data Model (ERD, Relational, Normalization)
-- [ ] Query Documentation (7 queries with descriptions, code, output)
-- [ ] Recommendations to Business
-- [ ] Appendix (sample documents)
-
----
-
-## Resources
-
-### Documentation
-- `Phase1_Database_Design.md` - Complete design document
-- `ERD_Diagram.md` - Entity-Relationship Diagram
-- `create_tables.sql` - Database creation script
-- `sample_queries.sql` - All 7 SQL queries with explanations
-
-### Scripts
-- `api_explorer.py` - Explore API structure
-- `extract_api_data.py` - Pull data and generate CSVs
-
-### External Links
-- [Ball Don't Lie API Documentation](https://mlb.balldontlie.io/)
-- [Microsoft Access Help](https://support.microsoft.com/en-us/access)
-- [Moneyball (2011) - IMDb](https://www.imdb.com/title/tt1210166/)
-
----
-
-## Contact & Support
-
-For questions or issues:
-1. Review `Phase1_Database_Design.md` for detailed specifications
-2. Check `api_exploration_results.json` for API data structure
-3. Consult with team members
-4. Reach out to instructor during office hours
+- **Rafael Garcia** - @jag18729 (GitHub) - Database design, API integration
+- **Josh Schmeltzer** - Access database, queries 3-5
+- **Brandon Helmuth** - Queries 6-7, report compilation
 
 ---
 
 ## License & Attribution
 
 **Project:** IS441 Baseball Database (Academic Project)
-**Data Source:** Ball Don't Lie MLB API
+**Course:** IS441 - Database Management Systems
+**Institution:** [Your University Name]
+**Semester:** Fall 2025
+
+**Data Source:** Ball Don't Lie MLB API (https://mlb.balldontlie.io/)
 **Inspiration:** Moneyball by Michael Lewis / Moneyball (2011 film)
-**Team:** [Add team member names]
-**Date:** November 2025
 
 ---
 
-**Last Updated:** November 8, 2025
-**Version:** 1.0
-**Status:** Design Complete, Ready for Implementation
+## Acknowledgments
+
+- Ball Don't Lie for providing free MLB API access
+- Michael Lewis for the Moneyball philosophy
+- Our instructor for project guidance
+- Team members for collaboration and dedication
+
+---
+
+**Last Updated:** November 10, 2025
+**Version:** 2.0 (Reorganized Structure)
+**Status:** Phase 3 Complete - Ready for Access Implementation
+
+**Repository:** https://github.com/jag18729/IS441-Baseball-DB
