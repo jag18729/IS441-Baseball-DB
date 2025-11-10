@@ -1,0 +1,31 @@
+Team_ID,Team_Name,Team_Location,Team_Abbreviation,Division_ID
+1,Diamondbacks,Arizona,ARI,6
+20,Athletics,Oakland,OAK,3
+2,Braves,Atlanta,ATL,4
+3,Orioles,Baltimore,BAL,1
+4,Red Sox,Boston,BOS,1
+5,Cubs,Chicago,CHC,5
+6,White Sox,Chicago,CHW,2
+7,Reds,Cincinnati,CIN,5
+8,Guardians,Cleveland,CLE,2
+9,Rockies,Colorado,COL,6
+10,Tigers,Detroit,DET,2
+11,Astros,Houston,HOU,3
+12,Royals,Kansas City,KC,2
+13,Angels,Los Angeles,LAA,3
+14,Dodgers,Los Angeles,LAD,6
+15,Marlins,Miami,MIA,4
+16,Brewers,Milwaukee,MIL,5
+17,Twins,Minnesota,MIN,2
+18,Mets,New York,NYM,4
+19,Yankees,New York,NYY,1
+21,Phillies,Philadelphia,PHI,4
+22,Pirates,Pittsburgh,PIT,5
+23,Padres,San Diego,SD,6
+24,Giants,San Francisco,SF,6
+25,Mariners,Seattle,SEA,3
+26,Cardinals,St. Louis,STL,5
+27,Rays,Tampa Bay,TB,1
+28,Rangers,Texas,TEX,3
+29,Blue Jays,Toronto,TOR,1
+30,Nationals,Washington,WSH,4

@@ -1,0 +1,1049 @@
+Player_ID,First_Name,Last_Name,Full_Name,Jersey_Number,Date_of_Birth,Birth_Place,Height,Weight,Bats_Throws,College,Debut_Year,Active_Status,Draft_Info,Team_ID,Position_ID
+1,Ryan,Thompson,Ryan Thompson,81,06/26/1992,"Turner, OR","6' 5""",210 lbs,Right/Right,,2020,1,"2014: Rd 23, Pk 676 (HOU)",1,2
+3,Gabriel,Moreno,Gabriel Moreno,14,02/14/2000,"Barquisimeto, Venezuela","5' 11""",195 lbs,Right/Right,,2022,1,,1,4
+4,Lourdes,Gurriel Jr.,Lourdes Gurriel Jr.,12,10/10/1993,"Sancti Spíritus, Cuba","6' 4""",215 lbs,Right/Right,,2018,1,,1,9
+5,Geraldo,Perdomo,Geraldo Perdomo,2,10/22/1999,"Santo Domingo, Dominican Republic","6' 2""",203 lbs,Both/Right,,2021,1,,1,8
+8,Joc,Pederson,Joc Pederson,3,04/21/1992,"Palo Alto, CA","6' 1""",220 lbs,Left/Left,,2014,1,"2010: Rd 11, Pk 352 (LAD)",28,12
+10,Ryne,Nelson,Ryne Nelson,19,02/01/1998,"Henderson, NV","6' 3""",184 lbs,Right/Right,Oregon,2022,1,,1,1
+11,Slade,Cecconi,Slade Cecconi,43,06/24/1999,"Oviedo, FL","6' 4""",219 lbs,Right/Right,Miami,2023,1,,8,1
+12,Blaze,Alexander,Blaze Alexander,9,06/11/1999,"Cape Coral, FL","5' 11""",160 lbs,Right/Right,,2024,1,"2018: Rd 11, Pk 339 (ARI)",1,8
+16,Yilber,Diaz,Yilber Diaz,45,08/19/2000,"Guatire, Venezuela","6' 0""",190 lbs,Right/Right,,2024,1,,1,1
+17,Jake,McCarthy,Jake McCarthy,31,07/30/1997,"Scranton, PA","6' 2""",215 lbs,Left/Left,Virginia,2021,1,"2018: Rd 1, Pk 39 (ARI)",1,10
+18,Jordan,Lawlar,Jordan Lawlar,10,07/17/2002,"Carrollton, TX","6' 1""",190 lbs,Right/Right,,2023,1,"2021: Rd 1, Pk 6 (ARI)",1,8
+19,Jorge,Barrosa,Jorge Barrosa,1,02/17/2001,"Puerto Cabello, Venezuela","5' 6""",165 lbs,Both/Left,,2024,1,,1,9
+21,Brandon,Pfaadt,Brandon Pfaadt,32,10/15/1998,"Louisville, KY","6' 4""",220 lbs,Right/Right,Bellarmine,2023,1,"2020: Rd 5, Pk 149 (ARI)",1,1
+22,Ketel,Marte,Ketel Marte,4,10/12/1993,"Nizao, Dominican Republic","6' 1""",210 lbs,Both/Right,,2015,1,,1,6
+23,Corbin,Carroll,Corbin Carroll,7,08/21/2000,"Seattle, WA","5' 10""",165 lbs,Left/Left,,2022,1,,1,10
+27,Adrian,Del Castillo,Adrian Del Castillo,25,09/27/1999,"Miami, FL","5' 10""",208 lbs,Left/Right,Miami,2024,1,,1,4
+29,Alek,Thomas,Alek Thomas,5,04/28/2000,"Chicago, IL","5' 11""",175 lbs,Left/Left,,2022,1,,1,10
+32,Eduardo,Rodriguez,Eduardo Rodriguez,57,04/07/1993,"Valencia, Venezuela","6' 2""",231 lbs,Left/Left,,2015,1,,1,1
+36,Grant,Anderson,Grant Anderson,65,06/21/1997,"Port Arthur, TX","6' 0""",180 lbs,Right/Right,McNeese,2023,1,"2018: Rd 21, Pk 628 (SEA)",16,2
+38,Zack,Kelly,Zack Kelly,76,03/03/1995,"Roanoke, VA","6' 3""",231 lbs,Right/Right,,2022,1,,4,2
+40,Cristopher,Sanchez,Cristopher Sanchez,61,12/12/1996,"La Romana, Dominican Republic","6' 1""",165 lbs,Left/Left,,2021,1,,21,1
+41,Tristan,Beck,Tristan Beck,43,06/24/1996,"Corona, CA","6' 4""",165 lbs,Right/Right,,2023,1,,24,2
+44,Dylan,Carlson,Dylan Carlson,10,10/23/1998,"Elk Grove, CA","6' 2""",200 lbs,Both/Left,,2020,1,"2016: Rd 1, Pk 33 (STL)",3,9
+46,Landon,Knack,Landon Knack,96,07/15/1997,"Johnson City, TN","6' 2""",220 lbs,Left/Right,East Tennessee State,2024,1,"2020: Rd 2, Pk 60 (LAD)",14,1
+47,Tyler,Fitzgerald,Tyler Fitzgerald,49,09/15/1997,"Springfield, IL","6' 1""",205 lbs,Right/Right,,2023,1,,24,8
+50,Ben,Rortvedt,Ben Rortvedt,30,09/25/1997,"Madison, WI","5' 9""",191 lbs,Left/Right,,2021,1,,14,4
+51,Jack,Leiter,Jack Leiter,35,04/21/2000,"Plantation, FL","6' 1""",205 lbs,Right/Right,Vanderbilt,2024,1,"2021: Rd 1, Pk 2 (TEX)",28,1
+52,Mason,Englert,Mason Englert,53,11/01/1999,"Forney, TX","6' 4""",206 lbs,Both/Right,,2023,1,"2018: Rd 4, Pk 119 (TEX)",27,2
+53,Keibert,Ruiz,Keibert Ruiz,20,07/20/1998,"Valencia, Venezuela","6' 0""",238 lbs,Both/Right,,2020,1,,30,4
+55,Nick,Mears,Nick Mears,25,10/07/1996,"Sacramento, CA","6' 2""",200 lbs,Right/Right,,2020,1,,16,2
+56,Cole,Ragans,Cole Ragans,55,12/12/1997,"Crawfordville, FL","6' 4""",190 lbs,Left/Left,,2022,1,"2016: Rd 1, Pk 30 (TEX)",12,1
+58,Jonathan,Aranda,Jonathan Aranda,62,05/23/1998,"Baja California, Mexico","6' 0""",210 lbs,Left/Right,,2022,1,,27,5
+59,Marco,Luciano,Marco Luciano,37,09/10/2001,"San Francisco de Macoris, Dominican Republic","6' 1""",178 lbs,Right/Right,,2023,1,,24,8
+60,Trevor,Megill,Trevor Megill,29,12/05/1993,"Long Beach, CA","6' 8""",255 lbs,Left/Right,Loyola Marymount,2021,1,"2015: Rd 7, Pk 207 (SD)",16,2
+61,John,Schreiber,John Schreiber,46,03/05/1994,"Wyandotte, MI","6' 2""",224 lbs,Right/Right,Northwestern Coll. OH (J.C.),2019,1,"2016: Rd 15, Pk 445 (DET)",12,2
+63,Antonio,Senzatela,Antonio Senzatela,49,01/21/1995,"Valencia, Venezuela","6' 1""",236 lbs,Right/Right,,2017,1,,9,1
+65,Casey,Schmitt,Casey Schmitt,10,03/01/1999,"San Diego, CA","6' 2""",215 lbs,Right/Right,San Diego State,2023,1,"2020: Rd 2, Pk 49 (SF)",24,6
+67,Brady,Singer,Brady Singer,51,08/04/1996,"Leesburg, FL","6' 5""",215 lbs,Right/Right,Florida,2020,1,"2018: Rd 1, Pk 18 (KC)",7,1
+69,Alex,Vesia,Alex Vesia,51,04/11/1996,"Alpine, CA","6' 1""",209 lbs,Left/Left,,2020,1,,14,2
+72,Jose,Caballero,Jose Caballero,7,08/30/1996,"Las Tablas, Panama","5' 9""",185 lbs,Right/Right,,2023,1,"2017: Rd 7, Pk 202 (ARI)",19,8
+73,CJ,Abrams,CJ Abrams,5,10/03/2000,"Alpharetta, GA","6' 2""",191 lbs,Left/Right,,2022,1,,30,8
+76,Victor,Vodnik,Victor Vodnik,38,10/09/1999,"Whittier, CA","6' 0""",200 lbs,Right/Right,,2023,1,,9,2
+77,Evan,Sisk,Evan Sisk,47,04/23/1997,"Chester, SC","6' 2""",209 lbs,Left/Left,Charleston,,1,"2016: Rd 16, Pk 483 (STL)",22,2
+79,Yoshinobu,Yamamoto,Yoshinobu Yamamoto,18,08/17/1998,"Okayama, Japan","5' 10""",176 lbs,Right/Right,,2024,1,,14,1
+81,Hunter,Goodman,Hunter Goodman,15,10/08/1999,"Arlington, TN","5' 11""",210 lbs,Right/Right,Memphis,2023,1,,9,4
+82,David,Robertson,David Robertson,37,04/09/1985,"Birmingham, AL","5' 11""",195 lbs,Right/Right,Alabama,2008,1,"2006: Rd 17, Pk 524 (NYY)",21,2
+83,Kumar,Rocker,Kumar Rocker,80,11/22/1999,"Watkinsville, GA","6' 5""",245 lbs,Right/Right,Vanderbilt,2024,1,"2022: Rd 1, Pk 3 (TEX)",28,1
+85,Drew,Romo,Drew Romo,3,08/29/2001,"Fountain Valley, CA","6' 1""",205 lbs,Both/Right,,2024,1,"2022: Rd 1, Pk 35 (COL)",9,4
+88,Junior,Caminero,Junior Caminero,13,07/05/2003,"Santo Domingo, Dominican Republic","6' 1""",220 lbs,Right/Right,,2023,1,,27,7
+89,Brenan,Hanifee,Brenan Hanifee,75,05/29/1998,"Harrisonburg, VA","6' 5""",215 lbs,Right/Right,,2023,1,"2016: Rd 4, Pk 121 (BAL)",10,2
+92,Yandy,Diaz,Yandy Diaz,2,08/08/1991,"Villa Clara, Cuba","6' 2""",215 lbs,Right/Right,,2017,1,,27,5
+94,Tobias,Myers,Tobias Myers,36,08/05/1998,"Winter Haven, FL","6' 1""",217 lbs,Right/Right,,2024,1,"2016: Rd 6, Pk 181 (BAL)",16,1
+96,Andres,Chaparro,Andres Chaparro,19,05/04/1999,"El Vigia, Venezuela","5' 11""",200 lbs,Right/Right,,2024,1,,30,5
+97,Joel,Payamps,Joel Payamps,31,04/07/1994,"Santiago, Dominican Republic","6' 2""",220 lbs,Right/Right,,2019,1,,2,2
+98,Tyler,Holton,Tyler Holton,87,06/13/1996,"Tallahassee, FL","6' 2""",200 lbs,Left/Left,Florida State,2022,1,"2018: Rd 9, Pk 279 (ARI)",10,2
+100,Brett,Wisely,Brett Wisely,0,05/08/1999,"Jacksonville, FL","5' 9""",180 lbs,Left/Right,,2023,1,,2,6
+102,Brant,Hurter,Brant Hurter,48,09/06/1998,"Canton, GA","6' 6""",250 lbs,Left/Left,,2024,1,,10,2
+103,Will,Smith,Will Smith,16,03/28/1995,"Louisville, KY","5' 10""",195 lbs,Right/Right,Louisville,2019,1,"2016: Rd 1, Pk 32 (LAD)",14,4
+105,Brandon,Lowe,Brandon Lowe,8,07/06/1994,"Suffolk, VA","5' 10""",185 lbs,Left/Right,Maryland,2018,1,"2015: Rd 3, Pk 87 (TB)",27,6
+106,Michael,Wacha,Michael Wacha,52,07/01/1991,"Iowa City, IA","6' 6""",215 lbs,Right/Right,Texas A&M,2013,1,"2012: Rd 1, Pk 19 (STL)",12,1
+107,Jerar,Encarnacion,Jerar Encarnacion,59,10/22/1997,"Bayaguana, Dominican Republic","6' 4""",250 lbs,Right/Right,,2022,1,,24,11
+111,Kyle,Wright,Kyle Wright,30,10/02/1995,"Huntsville, AL","6' 4""",215 lbs,Right/Right,Vanderbilt,2018,1,"2017: Rd 1, Pk 5 (ATL)",12,1
+114,Freddy,Peralta,Freddy Peralta,51,06/04/1996,"Moca, Dominican Republic","6' 0""",202 lbs,Right/Right,,2018,1,,16,1
+115,Luis,Matos,Luis Matos,29,01/28/2002,"Valera, Venezuela","5' 11""",160 lbs,Right/Right,,2023,1,,24,10
+116,Adael,Amador,Adael Amador,1,04/11/2003,"Santo Domingo, Dominican Republic","6' 0""",200 lbs,Both/Right,,2024,1,,9,6
+118,Mookie,Betts,Mookie Betts,50,10/07/1992,"Nashville, TN","5' 9""",180 lbs,Right/Right,,2014,1,"2011: Rd 5, Pk 172 (BOS)",14,8
+119,Angel,Zerpa,Angel Zerpa,61,09/27/1999,"Valle de la Pascua, Venezuela","6' 0""",220 lbs,Left/Left,,2021,1,,12,2
+121,Curtis,Mead,Curtis Mead,25,10/26/2000,"Adelaide, SA","6' 1""",171 lbs,Right/Right,,2023,1,,6,6
+122,Jonah,Heim,Jonah Heim,28,06/27/1995,"Buffalo, NY","6' 4""",220 lbs,Both/Right,,2020,1,"2013: Rd 4, Pk 129 (BAL)",28,4
+123,Ryan,McMahon,Ryan McMahon,24,12/14/1994,"Yorba Linda, CA","6' 2""",219 lbs,Left/Right,,2017,1,"2013: Rd 2, Pk 42 (COL)",19,7
+124,Colin,Rea,Colin Rea,48,07/01/1990,"Cascade, IA","6' 5""",220 lbs,Right/Right,Indiana State,2015,1,"2011: Rd 12, Pk 383 (SD)",5,1
+125,Luis,Garcia Jr.,Luis Garcia Jr.,2,05/16/2000,"New York, NY","6' 2""",216 lbs,Left/Right,,2020,1,,30,6
+126,Christopher,Morel,Christopher Morel,24,06/24/1999,"Santiago, Dominican Republic","5' 11""",145 lbs,Right/Right,,2022,1,,27,7
+127,Freddy,Fermin,Freddy Fermin,34,05/16/1995,"Puerto Ordaz, Venezuela","5' 9""",200 lbs,Right/Right,,2022,1,,23,4
+128,Carlos,Rodriguez,Carlos Rodriguez,0,11/27/2001,"Rivas, Nicaragua","6' 0""",206 lbs,Right/Right,,2024,1,,16,1
+129,Richie,Palacios,Richie Palacios,1,05/16/1997,"Brooklyn, NY","5' 10""",180 lbs,Left/Right,Towson,2022,1,"2018: Rd 3, Pk 103 (CLE)",27,6
+130,Freddie,Freeman,Freddie Freeman,5,09/12/1989,"Villa Park, CA","6' 5""",220 lbs,Left/Right,,2010,1,"2007: Rd 2, Pk 78 (ATL)",14,5
+132,Alex,Lange,Alex Lange,55,10/02/1995,"Riverside, CA","6' 3""",202 lbs,Right/Right,LSU,2021,1,"2017: Rd 1, Pk 30 (CHC)",10,2
+133,Grant,McCray,Grant McCray,58,12/07/2000,"Billings, MT","6' 2""",190 lbs,Left/Right,,2024,1,,24,10
+135,Abner,Uribe,Abner Uribe,45,06/20/2000,"Santo Domingo, Dominican Republic","6' 3""",215 lbs,Right/Right,,2023,1,,16,2
+136,Gavin,Lux,Gavin Lux,9,11/23/1997,"Kenosha, WI","6' 2""",190 lbs,Left/Right,,2019,1,"2016: Rd 1, Pk 20 (LAD)",7,6
+138,Trey,Lipscomb,Trey Lipscomb,38,06/14/2000,"Frederick, MD","6' 3""",202 lbs,Right/Right,Tennessee,2024,1,,30,7
+142,Max,Muncy,Max Muncy,13,08/25/1990,"Midland, TX","6' 0""",215 lbs,Left/Right,Baylor,2015,1,"2012: Rd 5, Pk 169 (OAK)",14,7
+144,Carter,Jensen,Carter Jensen,4,07/03/2003,"Kansas City, MO","6' 1""",210 lbs,Left/Right,,,1,"2021: Rd 3, Pk 78 (KC)",12,4
+145,Wade,Meckler,Wade Meckler,53,04/21/2000,"Anaheim, CA","5' 9""",178 lbs,Left/Right,,2023,1,,24,13
+147,Michael,Toglia,Michael Toglia,4,08/16/1998,"Phoenix, AZ","6' 5""",226 lbs,Both/Left,,2022,1,,9,5
+150,Salvador,Perez,Salvador Perez,13,05/10/1990,"Valencia, Venezuela","6' 3""",255 lbs,Right/Right,,2011,1,,12,4
+152,Huascar,Brazoban,Huascar Brazoban,43,10/15/1989,"Villa Mella, Dominican Republic","6' 3""",155 lbs,Right/Right,,2022,1,,18,2
+153,Ezequiel,Tovar,Ezequiel Tovar,14,08/01/2001,"Maracay, Venezuela","6' 0""",162 lbs,Right/Right,,2022,1,,9,8
+157,Heliot,Ramos,Heliot Ramos,17,09/07/1999,"Humacao, Puerto Rico","5' 11""",188 lbs,Right/Right,,2022,1,"2017: Rd 1, Pk 19 (SF)",24,10
+158,Ezequiel,Duran,Ezequiel Duran,20,05/22/1999,"San Juan de la Maguana, Dominican Republic","5' 11""",185 lbs,Right/Right,,2022,1,,28,7
+159,Casey,Mize,Casey Mize,12,05/01/1997,"Springville, AL","6' 3""",212 lbs,Right/Right,Auburn,2020,1,"2018: Rd 1, Pk 1 (DET)",10,1
+160,Tommy,Edman,Tommy Edman,25,05/09/1995,"Pontiac, MI","5' 10""",193 lbs,Both/Right,Stanford,2019,1,"2016: Rd 6, Pk 196 (STL)",14,10
+163,Keider,Montero,Keider Montero,54,07/06/2000,"Santa Teresa del Tuy, Venezuela","6' 1""",145 lbs,Right/Right,,2024,1,,10,1
+164,Nasim,Nunez,Nasim Nunez,26,08/18/2000,"Bronx, NY","5' 9""",165 lbs,Both/Right,,2024,1,,30,8
+166,Jordan,Beck,Jordan Beck,27,04/19/2001,"Hazel Green, AL","6' 2""",225 lbs,Right/Right,Tennessee,2024,1,"2022: Rd 1, Pk 38 (COL)",9,9
+168,William,Contreras,William Contreras,24,12/24/1997,"Puerto Cabello, Venezuela","5' 11""",212 lbs,Right/Right,,2020,1,,16,4
+169,Maikel,Garcia,Maikel Garcia,11,03/03/2000,"La Sabana, Venezuela","6' 0""",180 lbs,Right/Right,,2022,1,,12,7
+170,Justin,Foscue,Justin Foscue,56,03/02/1999,"Huntsville, AL","5' 11""",205 lbs,Right/Right,Mississippi State,2024,1,,28,5
+171,Jose,Butto,Jose Butto,70,03/19/1998,"Cumaná, Venezuela","6' 1""",202 lbs,Right/Right,,2022,1,,24,2
+176,Andy,Pages,Andy Pages,44,12/08/2000,"Havana, Cuba","6' 0""",212 lbs,Right/Right,,2024,1,,14,10
+178,Tarik,Skubal,Tarik Skubal,29,11/20/1996,"Hayward, CA","6' 3""",240 lbs,Right/Left,Seattle U,2020,1,,10,1
+180,Jose,Tena,Jose Tena,8,03/20/2001,"San Cristóbal, Dominican Republic","5' 11""",195 lbs,Left/Right,,2023,1,,30,7
+181,Josh,Jung,Josh Jung,6,02/12/1998,"San Antonio, TX","6' 2""",214 lbs,Right/Right,Texas Tech,2022,1,"2019: Rd 1, Pk 8 (TEX)",28,7
+183,Ildemaro,Vargas,Ildemaro Vargas,14,07/16/1991,"Caripito, Venezuela","6' 0""",202 lbs,Both/Right,,2017,1,,1,7
+184,Edwin,Diaz,Edwin Diaz,39,03/22/1994,"Naguabo, Puerto Rico","6' 3""",165 lbs,Right/Right,,2016,1,"2012: Rd 3, Pk 98 (SEA)",18,2
+185,Ryan,Fernandez,Ryan Fernandez,64,06/11/1998,"Tampa, FL","6' 0""",200 lbs,Right/Right,,2024,1,,26,2
+186,Jeferson,Quero,Jeferson Quero,76,10/08/2002,"Barquisimeto, Venezuela","5' 11""",215 lbs,Right/Right,,,1,,16,4
+188,Nick,Loftin,Nick Loftin,12,09/25/1998,"Corpus Christi, TX","6' 0""",180 lbs,Right/Right,Baylor,2023,1,,12,6
+192,Will,Vest,Will Vest,19,06/06/1995,"Houston, TX","6' 0""",180 lbs,Right/Right,Stephen F. Austin,2021,1,,10,2
+193,Gordon,Graceffo,Gordon Graceffo,67,03/17/2000,"Wayne, NJ","6' 4""",220 lbs,Right/Right,,2024,1,"2021: Rd 5, Pk 151 (STL)",26,1
+195,Nathaniel,Lowe,Nathaniel Lowe,30,07/07/1995,"Norfolk, VA","6' 4""",220 lbs,Left/Right,Mississippi State,2019,1,"2016: Rd 13, Pk 390 (TB)",4,5
+196,Josh,Lowe,Josh Lowe,15,02/02/1998,"Chesapeake, VA","6' 4""",205 lbs,Left/Right,,2021,1,"2016: Rd 1, Pk 13 (TB)",27,11
+197,Matt,Gage,Matt Gage,51,02/11/1993,"Johnstown, NY","6' 3""",265 lbs,Left/Left,Siena,2022,1,"2014: Rd 10, Pk 298 (SF)",24,2
+198,Kameron,Misner,Kameron Misner,26,01/08/1998,"Poplar Bluff, MO","6' 4""",218 lbs,Left/Left,Missouri,2024,1,,27,9
+200,Sonny,Gray,Sonny Gray,54,11/07/1989,"Smyrna, TN","5' 10""",190 lbs,Right/Right,Vanderbilt,2013,1,"2011: Rd 1, Pk 18 (OAK)",26,1
+201,Alex,Call,Alex Call,17,09/27/1994,"Burnsville, MN","5' 11""",189 lbs,Right/Right,Ball State,2022,1,"2016: Rd 3, Pk 86 (CHW)",14,11
+203,Dillon,Dingler,Dillon Dingler,38,09/17/1998,"Massillon, OH","6' 2""",210 lbs,Right/Right,Ohio State,2024,1,"2020: Rd 2, Pk 38 (DET)",10,4
+204,Michael,Massey,Michael Massey,19,03/22/1998,"Palos Park, IL","6' 0""",195 lbs,Left/Right,Illinois,2022,1,"2019: Rd 4, Pk 109 (KC)",12,6
+205,Reed,Garrett,Reed Garrett,75,01/02/1993,"Henrico, VA","6' 2""",195 lbs,Right/Right,Virginia Military,2019,1,"2014: Rd 16, Pk 486 (TEX)",18,2
+206,Brayan,Bello,Brayan Bello,66,05/17/1999,"Santa Barbara de Samana, Dominican Republic","6' 1""",195 lbs,Right/Right,,2022,1,,4,1
+207,Jake,Bauers,Jake Bauers,9,10/06/1995,"Newport Beach, CA","5' 11""",213 lbs,Left/Left,,2018,1,"2013: Rd 7, Pk 208 (SD)",16,5
+208,Shohei,Ohtani,Shohei Ohtani,17,07/05/1994,"Oshu, Japan","6' 4""",210 lbs,Left/Right,,2018,1,,14,12
+209,Brennan,Bernardino,Brennan Bernardino,83,01/15/1992,"Valencia, CA","6' 4""",180 lbs,Left/Left,,2022,1,"2014: Rd 26, Pk 785 (CIN)",4,2
+211,Jake,Rogers,Jake Rogers,34,04/18/1995,"Canyon, TX","6' 1""",201 lbs,Right/Right,Tulane,2019,1,"2016: Rd 3, Pk 97 (HOU)",10,4
+213,Andy,Ibanez,Andy Ibanez,77,04/03/1993,"Havana, Cuba","5' 10""",205 lbs,Right/Right,,2021,1,,10,6
+214,Vinnie,Pasquantino,Vinnie Pasquantino,9,10/10/1997,"Richmond, VA","6' 4""",245 lbs,Left/Left,Old Dominion,2022,1,"2019: Rd 11, Pk 319 (KC)",12,5
+218,Dylan,Crews,Dylan Crews,3,02/26/2002,"Altamonte Springs, FL","5' 11""",203 lbs,Right/Right,LSU,2024,1,"2023: Rd 1, Pk 2 (WSH)",30,11
+219,John,King,John King,47,09/14/1994,"Laredo, TX","6' 2""",215 lbs,Left/Left,,2020,1,,26,2
+220,Brenton,Doyle,Brenton Doyle,9,05/14/1998,"Warrenton, VA","6' 4""",220 lbs,Right/Right,,2023,1,,9,10
+221,Tyler,Black,Tyler Black,7,07/26/2000,"Toronto, ON","6' 1""",204 lbs,Left/Right,Wright State,2024,1,"2021: Rd 1, Pk 33 (MIL)",16,7
+222,Cam,Booser,Cam Booser,71,05/04/1992,"Seattle, WA","6' 3""",225 lbs,Left/Left,Oregon State,2024,1,,6,2
+223,Yanquiel,Fernandez,Yanquiel Fernandez,82,01/01/2003,"Havana, Cuba","6' 2""",198 lbs,Left/Left,,,1,,9,11
+225,Josh,Smith,Josh Smith,8,08/07/1997,"Baton Rouge, LA","5' 10""",172 lbs,Left/Right,LSU,2022,1,,28,7
+229,Jace,Jung,Jace Jung,17,10/04/2000,"San Antonio, TX","6' 0""",205 lbs,Left/Right,Texas Tech,2024,1,"2022: Rd 1, Pk 12 (DET)",10,7
+233,Kyle,Leahy,Kyle Leahy,62,06/04/1997,"Boulder, CO","6' 5""",225 lbs,Both/Right,,2023,1,,26,2
+236,Joey,Lucchesi,Joey Lucchesi,47,06/06/1993,"Newark, CA","6' 5""",225 lbs,Left/Left,Southeast Missouri State,2018,1,"2016: Rd 4, Pk 114 (SD)",24,1
+237,James,Wood,James Wood,29,09/17/2002,"Rockville, MD","6' 7""",234 lbs,Left/Right,,2024,1,"2021: Rd 2, Pk 62 (SD)",30,9
+239,Sean,Manaea,Sean Manaea,59,02/01/1992,"Valparaiso, IN","6' 5""",245 lbs,Right/Left,Indiana State,2016,1,"2013: Rd 1, Pk 34 (KC)",18,1
+240,Matthew,Liberatore,Matthew Liberatore,52,11/06/1999,"Peoria, AZ","6' 4""",215 lbs,Left/Left,,2022,1,"2018: Rd 1, Pk 16 (TB)",26,2
+241,Cooper,Criswell,Cooper Criswell,64,07/24/1996,"Carrollton, GA","6' 6""",200 lbs,Right/Right,North Carolina,2022,1,,4,1
+242,Yu,Darvish,Yu Darvish,11,08/16/1986,"Osaka, Japan","6' 5""",220 lbs,Right/Right,,2012,1,,23,1
+243,Rhys,Hoskins,Rhys Hoskins,12,03/17/1993,"Sacramento, CA","6' 4""",240 lbs,Right/Right,Sacramento State,2017,1,"2014: Rd 5, Pk 142 (PHI)",16,5
+244,Adolis,Garcia,Adolis Garcia,53,03/02/1993,"Ciego de Avila, Cuba","6' 1""",205 lbs,Right/Right,,2018,1,,28,11
+245,Bobby,Witt Jr.,Bobby Witt Jr.,7,06/14/2000,"Colleyville, TX","6' 1""",200 lbs,Right/Right,,2022,1,,12,8
+246,Colt,Keith,Colt Keith,33,08/14/2001,"Zanesville, OH","6' 2""",211 lbs,Left/Right,,2024,1,"2020: Rd 5, Pk 132 (DET)",10,6
+247,Ryan,Loutos,Ryan Loutos,68,01/29/1999,"Elk Grove Village, IL","6' 5""",240 lbs,Right/Right,,2024,1,,30,2
+249,Ryan,Kreidler,Ryan Kreidler,32,11/12/1997,"Davis, CA","6' 4""",208 lbs,Right/Right,,2022,1,,17,8
+250,Richard,Fitts,Richard Fitts,80,12/17/1999,"Helena, AL","6' 3""",230 lbs,Right/Right,Auburn,2024,1,,4,1
+251,Jeremiah,Estrada,Jeremiah Estrada,56,11/01/1998,"Indio, CA","6' 1""",185 lbs,Both/Right,,2022,1,"2017: Rd 6, Pk 195 (CHC)",23,2
+252,Dairon,Blanco,Dairon Blanco,44,04/26/1993,"Camaguey, Cuba","5' 11""",200 lbs,Right/Right,,2022,1,,12,9
+253,Jacob,Young,Jacob Young,30,07/27/1999,"Ponte Vedra, FL","5' 11""",192 lbs,Right/Right,Florida,2023,1,,30,10
+254,Dustin,Harris,Dustin Harris,38,07/08/1999,"Tampa, FL","6' 2""",185 lbs,Left/Right,Saint Petersburg FL (J.C.),2024,1,"2019: Rd 11, Pk 344 (OAK)",28,10
+256,Andruw,Monasterio,Andruw Monasterio,14,05/30/1997,"Caracas, Venezuela","5' 11""",196 lbs,Right/Right,,2023,1,,16,7
+258,Lake,Bachar,Lake Bachar,84,06/03/1995,"Winfield, IL","6' 2""",219 lbs,Right/Right,,2024,1,,15,2
+260,Joey,Ortiz,Joey Ortiz,3,07/14/1998,"Garden Grove, CA","5' 9""",183 lbs,Right/Right,New Mexico State,2023,1,,16,7
+261,Nolan,Jones,Nolan Jones,22,05/07/1998,"Langhorne, PA","6' 4""",195 lbs,Left/Right,,2022,1,"2016: Rd 2, Pk 55 (CLE)",8,9
+264,Wilkelman,Gonzalez,Wilkelman Gonzalez,92,03/25/2002,"Maracay, Venezuela","6' 0""",167 lbs,Right/Right,,,1,,6,1
+266,Brice,Turang,Brice Turang,2,11/21/1999,"Corona, CA","6' 0""",188 lbs,Left/Right,,2023,1,"2018: Rd 1, Pk 21 (MIL)",16,6
+268,Wyatt,Langford,Wyatt Langford,36,11/15/2001,"Trenton, FL","6' 0""",225 lbs,Right/Right,Florida,2024,1,"2023: Rd 1, Pk 4 (TEX)",28,9
+270,Kyle,Isbel,Kyle Isbel,28,03/03/1997,"Fontana, CA","5' 11""",190 lbs,Left/Right,UNLV,2021,1,"2018: Rd 3, Pk 94 (KC)",12,10
+271,Valente,Bellozo,Valente Bellozo,83,01/04/2000,"Mexicali, Mexico","5' 10""",208 lbs,Right/Right,,2024,1,,15,1
+272,Eric,Orze,Eric Orze,53,08/21/1997,"Elk Grove Village, IL","6' 4""",195 lbs,Right/Right,New Orleans,2024,1,,27,2
+274,Jackson,Chourio,Jackson Chourio,11,03/11/2004,"Maracaibo, Venezuela","6' 0""",198 lbs,Right/Right,,2024,1,,16,9
+275,Michael,McGreevy,Michael McGreevy,36,07/08/2000,"San Clemente, CA","6' 4""",220 lbs,Left/Right,UC Santa Barbara,2024,1,"2021: Rd 1, Pk 18 (STL)",26,1
+276,Kolby,Allard,Kolby Allard,49,08/13/1997,"Anaheim, CA","6' 1""",195 lbs,Left/Left,,2018,1,"2015: Rd 1, Pk 14 (ATL)",8,1
+279,David,Peterson,David Peterson,23,09/03/1995,"Denver, CO","6' 6""",240 lbs,Left/Left,Oregon,2020,1,"2017: Rd 1, Pk 20 (NYM)",18,1
+280,Bryan,Hoeing,Bryan Hoeing,78,10/19/1996,"Batesville, IN","6' 6""",210 lbs,Right/Right,Louisville,2022,1,"2019: Rd 7, Pk 201 (MIA)",23,2
+282,Bailey,Horn,Bailey Horn,78,01/15/1998,"Waco, TX","6' 2""",210 lbs,Left/Left,Auburn,2024,1,"2020: Rd 5, Pk 142 (CHW)",10,2
+283,Zach,McKinstry,Zach McKinstry,39,04/29/1995,"Toledo, OH","6' 0""",180 lbs,Left/Right,Central Michigan,2020,1,"2016: Rd 33, Pk 1,001 (LAD)",10,8
+284,Alek,Jacob,Alek Jacob,37,06/16/1998,"Spokane, WA","6' 3""",190 lbs,Left/Right,Gonzaga,2023,1,,23,2
+286,MJ,Melendez,MJ Melendez,1,11/29/1998,"Daytona Beach, FL","6' 1""",190 lbs,Left/Right,,2022,1,"2017: Rd 2, Pk 52 (KC)",12,9
+287,Kodai,Senga,Kodai Senga,34,01/30/1993,"Aichi, Japan","6' 1""",202 lbs,Left/Right,,2023,1,,18,1
+288,Isaac,Collins,Isaac Collins,6,07/22/1997,"Maple Grove, MN","5' 8""",185 lbs,Both/Right,,2024,1,,16,9
+289,Riley,O'Brien,Riley O'Brien,55,02/06/1995,"Seattle, WA","6' 4""",180 lbs,Right/Right,College of Idaho,2021,1,"2017: Rd 8, Pk 229 (TB)",26,2
+290,Jose,Alvarado,Jose Alvarado,46,05/21/1995,"Maracaibo, Venezuela","6' 2""",245 lbs,Left/Left,,2017,1,,21,2
+293,Andre,Pallante,Andre Pallante,53,09/18/1998,"Mission Viejo, CA","6' 0""",215 lbs,Right/Right,UC Irvine,2022,1,"2019: Rd 4, Pk 125 (STL)",26,1
+294,Trey,Sweeney,Trey Sweeney,27,04/24/2000,"Louisville, KY","6' 3""",212 lbs,Left/Right,Eastern Illinois,2024,1,"2021: Rd 1, Pk 20 (NYY)",10,8
+297,Sal,Frelick,Sal Frelick,10,04/19/2000,"Boston, MA","5' 8""",185 lbs,Left/Right,Boston College,2023,1,"2021: Rd 1, Pk 15 (MIL)",16,11
+298,Edward,Cabrera,Edward Cabrera,27,04/13/1998,"Santiago, Dominican Republic","6' 5""",217 lbs,Right/Right,,2021,1,,15,1
+299,Tanner,Banks,Tanner Banks,58,10/24/1991,"Riverton, UT","6' 1""",205 lbs,Right/Left,,2022,1,,21,2
+300,Spencer,Torkelson,Spencer Torkelson,20,08/26/1999,"Petaluma, CA","6' 0""",220 lbs,Right/Right,Arizona State,2022,1,"2020: Rd 1, Pk 1 (DET)",10,5
+303,Yuki,Matsui,Yuki Matsui,1,10/30/1995,"Yokohama, Japan","5' 8""",165 lbs,Left/Left,,2024,1,,23,2
+307,Brady,Basso,Brady Basso,66,10/08/1997,"Pearland, TX","6' 2""",213 lbs,Right/Left,Oklahoma State,2024,1,,20,2
+309,Kerry,Carpenter,Kerry Carpenter,30,09/02/1997,"Eustis, FL","6' 2""",220 lbs,Left/Right,,2022,1,,10,11
+310,Sem,Robberse,Sem Robberse,61,10/12/2001,"Zeist, Netherlands","6' 1""",195 lbs,Right/Right,,,1,,26,1
+312,JoJo,Romero,JoJo Romero,59,09/09/1996,"Camarillo, CA","5' 11""",215 lbs,Left/Left,Yavapai College,2020,1,"2016: Rd 4, Pk 107 (PHI)",26,2
+314,Osvaldo,Bido,Osvaldo Bido,45,10/18/1995,"Los Hidalgos, Dominican Republic","6' 3""",175 lbs,Right/Right,,2023,1,,20,1
+316,Calvin,Faucher,Calvin Faucher,53,09/22/1995,"Chula Vista, CA","6' 1""",190 lbs,Right/Right,UC Irvine,2022,1,,15,2
+317,Tyler,Gilbert,Tyler Gilbert,40,12/22/1993,"Santa Cruz, CA","6' 3""",223 lbs,Left/Left,USC,2021,1,"2015: Rd 6, Pk 174 (PHI)",6,2
+319,Adrian,Morejon,Adrian Morejon,50,02/27/1999,"Havana, Cuba","5' 11""",224 lbs,Left/Left,,2019,1,,23,2
+320,Riley,Greene,Riley Greene,31,09/28/2000,"Orlando, FL","6' 3""",200 lbs,Left/Left,,2022,1,"2019: Rd 1, Pk 5 (DET)",10,9
+323,Francisco,Alvarez,Francisco Alvarez,4,11/19/2001,"Guatire, Venezuela","5' 10""",233 lbs,Right/Right,,2022,1,,18,4
+324,Chris,Roycroft,Chris Roycroft,58,06/21/1997,"Dundee, IL","6' 8""",230 lbs,Right/Right,,2024,1,,26,2
+325,Anthony,Maldonado,Anthony Maldonado,52,02/06/1998,"Wellington, FL","6' 4""",220 lbs,Right/Right,Bethune-Cookman,2024,1,,20,2
+326,Joe,Boyle,Joe Boyle,35,08/14/1999,"O'Fallon, MO","6' 7""",240 lbs,Right/Right,Notre Dame,2023,1,,27,1
+327,Adam,Mazur,Adam Mazur,36,04/20/2001,"Woodbury, MN","6' 2""",180 lbs,Right/Right,Iowa,2024,1,,15,1
+329,Luis,Torrens,Luis Torrens,13,05/02/1996,"Valencia, Venezuela","5' 11""",217 lbs,Right/Right,,2017,1,,18,4
+330,Seth,Johnson,Seth Johnson,51,09/19/1998,"Concord, NC","6' 1""",205 lbs,Right/Right,Campbell,2024,1,,21,1
+331,Justyn-Henry,Malloy,Justyn-Henry Malloy,44,02/19/2000,"New York, NY","6' 1""",212 lbs,Right/Right,Georgia Tech,2024,1,,10,9
+332,Blake,Perkins,Blake Perkins,16,09/10/1996,"Litchfield Park, AZ","6' 0""",208 lbs,Both/Right,,2023,1,"2015: Rd 2, Pk 69 (WSH)",16,10
+333,Wandy,Peralta,Wandy Peralta,58,07/27/1991,"San Francisco de Macoris, Dominican Republic","6' 0""",227 lbs,Left/Left,,2016,1,,23,2
+335,Ryan,Tepera,Ryan Tepera,38,11/03/1987,"Houston, TX","6' 1""",195 lbs,Right/Right,Sam Houston,2015,1,"2009: Rd 19, Pk 580 (TOR)",26,2
+336,Sean,Reynolds,Sean Reynolds,25,04/19/1998,"Redondo Beach, CA","6' 8""",250 lbs,Left/Right,,2024,1,,23,2
+337,Drew,Waters,Drew Waters,6,12/30/1998,"Atlanta, GA","6' 1""",185 lbs,Both/Right,,2022,1,,12,11
+338,Luis,Perales,Luis Perales,93,04/14/2003,"Guacara, Venezuela","6' 1""",160 lbs,Right/Right,,,1,,4,1
+339,Joey,Estes,Joey Estes,68,10/08/2001,"Palmdale, CA","6' 2""",190 lbs,Right/Right,,2023,1,"2019: Rd 16, Pk 487 (ATL)",20,1
+340,Orion,Kerkering,Orion Kerkering,50,04/04/2001,"Huntington Beach, CA","6' 2""",204 lbs,Right/Right,South Florida,2023,1,,21,2
+341,Luisangel,Acuna,Luisangel Acuna,2,03/12/2002,"Caracas, Venezuela","5' 8""",181 lbs,Right/Right,,2024,1,,18,8
+343,Parker,Meadows,Parker Meadows,22,11/02/1999,"Atlanta, GA","6' 5""",205 lbs,Left/Right,,2023,1,,10,10
+344,Tyler,Ferguson,Tyler Ferguson,65,10/05/1993,"Fresno, CA","6' 4""",225 lbs,Right/Right,,2024,1,,20,2
+345,Robert,Suarez,Robert Suarez,75,03/01/1991,"Ciudad Bolivar, Venezuela","6' 2""",210 lbs,Right/Right,,2022,1,,23,2
+346,Quinn,Priester,Quinn Priester,68,09/16/2000,"Glendale Heights, IL","6' 3""",210 lbs,Right/Right,,2023,1,,16,1
+347,Max,Lazar,Max Lazar,60,06/03/1999,"Coral Springs, FL","6' 1""",200 lbs,Right/Right,,2024,1,,21,2
+348,Bryan,Abreu,Bryan Abreu,52,04/22/1997,"Santo Domingo, Dominican Republic","6' 1""",230 lbs,Right/Right,,2019,1,,11,2
+350,Eduard,Bazardo,Eduard Bazardo,83,09/01/1995,"Maracay, Venezuela","6' 0""",190 lbs,Right/Right,,2021,1,,25,2
+351,Randy,Vasquez,Randy Vasquez,98,11/03/1998,"Navarrete, Dominican Republic","6' 0""",165 lbs,Right/Right,,2023,1,,23,1
+353,Wenceel,Perez,Wenceel Perez,46,10/30/1999,"Azua Province, Dominican Republic","5' 10""",203 lbs,Both/Right,,2024,1,,10,11
+354,J.T.,Ginn,J.T. Ginn,70,05/20/1999,"Flowood, MS","6' 2""",200 lbs,Right/Right,Mississippi State,2024,1,,20,1
+356,Spencer,Arrighetti,Spencer Arrighetti,41,01/02/2000,"Albuquerque, NM","6' 2""",186 lbs,Right/Right,Louisiana,2024,1,"2021: Rd 6, Pk 178 (HOU)",11,1
+357,Brett,Baty,Brett Baty,22,11/13/1999,"Round Rock, TX","6' 2""",210 lbs,Left/Right,,2022,1,,18,7
+358,Chase,Shugart,Chase Shugart,61,10/24/1996,"Bridge City, TX","5' 10""",200 lbs,Left/Right,Texas,2024,1,,22,2
+359,Matt,Vierling,Matt Vierling,8,09/16/1996,"St. Louis, MO","6' 3""",205 lbs,Right/Right,,2021,1,"2018: Rd 5, Pk 137 (PHI)",10,10
+360,Hogan,Harris,Hogan Harris,63,12/26/1996,"Lafayette, LA","6' 3""",230 lbs,Right/Left,Lafayette,2023,1,"2018: Rd 3, Pk 85 (OAK)",20,1
+361,Michael,Mercado,Michael Mercado,63,04/15/1999,"Greenville, SC","6' 4""",205 lbs,Right/Right,,2024,1,"2017: Rd 2, Pk 40 (TB)",21,1
+363,Michael,Petersen,Michael Petersen,70,05/16/1994,"Middlesex, England","6' 7""",195 lbs,Right/Right,,2024,1,,15,2
+364,Ryan,Vilade,Ryan Vilade,50,02/18/1999,"Grapevine, TX","6' 2""",226 lbs,Right/Right,,2021,1,"2017: Rd 2, Pk 48 (COL)",7,9
+365,Willson,Contreras,Willson Contreras,40,05/13/1992,"Puerto Cabello, Venezuela","6' 1""",240 lbs,Right/Right,,2016,1,,26,4
+366,Matt,Waldron,Matt Waldron,61,09/26/1996,"Omaha, NE","6' 2""",185 lbs,Right/Right,Nebraska,2023,1,"2022: Rd 18, Pk 550 (CLE)",23,1
+368,Justin,Slaten,Justin Slaten,63,09/15/1997,"Longview, TX","6' 4""",222 lbs,Right/Right,New Mexico,2024,1,"2019: Rd 3, Pk 86 (TEX)",4,2
+369,Luis,Castillo,Luis Castillo,58,12/12/1992,"Bani, Dominican Republic","6' 2""",200 lbs,Right/Right,,2017,1,,25,1
+370,Luis,Campusano,Luis Campusano,12,09/29/1998,"Augusta, GA","5' 11""",232 lbs,Right/Right,,2020,1,"2017: Rd 2, Pk 39 (SD)",23,4
+371,Josh,Simpson,Josh Simpson,65,08/19/1997,"Stafford, CT","6' 2""",190 lbs,Left/Left,Columbia,,1,"2019: Rd 32, Pk 951 (MIA)",15,2
+372,Francisco,Lindor,Francisco Lindor,12,11/14/1993,"Caguas, Puerto Rico","5' 11""",190 lbs,Both/Right,,2015,1,"2011: Rd 1, Pk 8 (CLE)",18,8
+373,Aaron,Nola,Aaron Nola,27,06/04/1993,"Baton Rouge, LA","6' 2""",200 lbs,Right/Right,LSU,2015,1,"2014: Rd 1, Pk 7 (PHI)",21,1
+377,Greg,Weissert,Greg Weissert,57,02/04/1995,"Bay Shore, NY","6' 2""",235 lbs,Right/Right,,2022,1,,4,2
+378,Jeff,McNeil,Jeff McNeil,1,04/08/1992,"Santa Barbara, CA","6' 1""",195 lbs,Left/Right,Long Beach State,2018,1,"2013: Rd 12, Pk 356 (NYM)",18,6
+379,Hunter,Brown,Hunter Brown,58,08/29/1998,"Detroit, MI","6' 2""",220 lbs,Right/Right,,2022,1,,11,1
+382,Mark,Vientos,Mark Vientos,27,12/11/1999,"Norwalk, CT","6' 4""",185 lbs,Right/Right,,2022,1,"2017: Rd 2, Pk 59 (NYM)",18,7
+383,Jhonathan,Diaz,Jhonathan Diaz,74,09/13/1996,"Valencia, Venezuela","6' 0""",170 lbs,Left/Left,,2021,1,,25,2
+384,George,Soriano,George Soriano,62,03/24/1999,"San Pedro de Macoris, Dominican Republic","6' 2""",210 lbs,Right/Right,,2023,1,,15,2
+385,Ivan,Herrera,Ivan Herrera,48,06/01/2000,"Panama City, Panama","5' 11""",220 lbs,Right/Right,,2022,1,,26,4
+388,Xander,Bogaerts,Xander Bogaerts,2,10/01/1992,"Oranjestad, Aruba","6' 2""",218 lbs,Right/Right,,2013,1,,23,6
+389,Tyler,Phillips,Tyler Phillips,48,10/27/1997,"Lumberton, NJ","6' 5""",225 lbs,Right/Right,,2024,1,"2015: Rd 16, Pk 468 (TEX)",15,1
+391,Connor,Wong,Connor Wong,12,05/19/1996,"Houston, TX","6' 1""",190 lbs,Right/Right,,2021,1,"2017: Rd 3, Pk 100 (LAD)",4,4
+393,Logan,Gilbert,Logan Gilbert,36,05/05/1997,"Winter Park, FL","6' 6""",215 lbs,Right/Right,Stetson,2021,1,,25,1
+395,Will,Klein,Will Klein,64,11/28/1999,"Bloomington, IN","6' 5""",230 lbs,Right/Right,Eastern Illinois,2024,1,"2020: Rd 5, Pk 135 (KC)",14,2
+396,Pedro,Pages,Pedro Pages,43,09/17/1998,"Maracay, FL","6' 1""",245 lbs,Right/Right,,2024,1,,26,4
+399,Shawn,Dubin,Shawn Dubin,66,09/06/1995,"Allegany, NY","6' 0""",164 lbs,Right/Right,Buffalo,2023,1,,3,2
+402,Nolan,Arenado,Nolan Arenado,28,04/16/1991,"Newport Beach, CA","6' 2""",215 lbs,Right/Right,,2013,1,"2009: Rd 2, Pk 59 (COL)",26,7
+403,Jake,Cronenworth,Jake Cronenworth,9,01/21/1994,"Saint Clair, MI","6' 0""",187 lbs,Left/Right,Michigan,2020,1,"2015: Rd 7, Pk 208 (TB)",23,5
+405,Emerson,Hancock,Emerson Hancock,62,05/31/1999,"Cairo, GA","6' 4""",213 lbs,Right/Right,Georgia,2023,1,,25,1
+406,Ha-Seong,Kim,Ha-Seong Kim,7,10/17/1995,"Seoul, South Korea","5' 9""",168 lbs,Right/Right,,2021,1,,2,8
+409,Luis,Gil,Luis Gil,81,06/03/1998,"Azua Province, Dominican Republic","6' 2""",185 lbs,Right/Right,,2021,1,,19,1
+410,Rafael,Devers,Rafael Devers,11,10/24/1996,"Sanchez, Dominican Republic","6' 0""",235 lbs,Left/Right,,2017,1,,24,7
+411,Anthony,Veneziano,Anthony Veneziano,59,09/01/1997,"Hackettstown, NJ","6' 5""",205 lbs,Left/Left,,2023,1,,26,2
+412,Manny,Machado,Manny Machado,13,07/06/1992,"Miami, FL","6' 3""",218 lbs,Right/Right,,2012,1,"2010: Rd 1, Pk 3 (BAL)",23,7
+413,Matt,Strahm,Matt Strahm,25,11/12/1991,"West Fargo, ND","6' 2""",190 lbs,Right/Left,Neosho County CC KS,2016,1,"2012: Rd 21, Pk 643 (KC)",21,2
+414,Ryan,Weathers,Ryan Weathers,60,12/17/1999,"Loretto, TN","6' 1""",230 lbs,Right/Left,,2020,1,"2018: Rd 1, Pk 7 (SD)",15,1
+416,Ryan,Gusto,Ryan Gusto,67,03/11/1999,"Santa Rosa, CA","6' 4""",232 lbs,Right/Right,,2024,1,,15,2
+417,Mark,Leiter Jr.,Mark Leiter Jr.,38,03/13/1991,"Fort Lauderdale, FL","6' 0""",210 lbs,Right/Right,N.J.I.T.,2017,1,"2013: Rd 22, Pk 661 (PHI)",19,2
+418,George,Kirby,George Kirby,68,02/04/1998,"Rye, NY","6' 4""",215 lbs,Right/Right,,2022,1,"2019: Rd 1, Pk 20 (SEA)",25,1
+419,Jose,Fermin,Jose Fermin,15,03/29/1999,"Puerto Plata, Dominican Republic","5' 9""",198 lbs,Right/Right,,2023,1,,26,6
+420,Josh,Hader,Josh Hader,71,04/07/1994,"Millersville, MD","6' 3""",188 lbs,Left/Left,,2017,1,"2012: Rd 19, Pk 582 (BAL)",11,2
+422,Mason,Miller,Mason Miller,19,08/24/1998,"Pittsburgh, PA","6' 5""",200 lbs,Right/Right,Gardner-Webb,2023,1,,23,2
+423,Mickey,Gasper,Mickey Gasper,77,10/11/1995,"Merrimack, NH","5' 10""",205 lbs,Both/Right,,2024,1,,17,6
+424,Brandon,Nimmo,Brandon Nimmo,9,03/27/1993,"Cheyenne, WY","6' 3""",206 lbs,Left/Right,,2016,1,"2011: Rd 1, Pk 13 (NYM)",18,9
+425,Carlos,Rodon,Carlos Rodon,55,12/10/1992,"Miami, FL","6' 2""",255 lbs,Left/Left,NC State,2015,1,"2014: Rd 1, Pk 3 (CHW)",19,1
+426,Mason,McCoy,Mason McCoy,18,03/31/1995,"Peoria, IL","5' 11""",185 lbs,Right/Right,Iowa,2023,1,"2017: Rd 6, Pk 188 (BAL)",23,8
+427,Romy,Gonzalez,Romy Gonzalez,23,09/06/1996,"Miami, FL","6' 0""",215 lbs,Right/Right,,2021,1,,4,6
+428,Nick,Fortes,Nick Fortes,4,11/11/1996,"Miami, FL","5' 11""",198 lbs,Right/Right,,2021,1,,27,4
+433,Michel,Otanez,Michel Otanez,47,07/03/1997,"La Mata, Dominican Republic","6' 4""",218 lbs,Right/Right,,2024,1,,20,2
+434,JP,Sears,JP Sears,38,02/19/1996,"Sumter, SC","5' 11""",180 lbs,Right/Left,The Citadel,2022,1,,23,1
+436,Nolan,Gorman,Nolan Gorman,16,05/10/2000,"Phoenix, AZ","6' 1""",225 lbs,Left/Right,,2022,1,"2018: Rd 1, Pk 19 (STL)",26,6
+437,Bryce,Miller,Bryce Miller,50,08/23/1998,"Mount Pleasant, TX","6' 2""",200 lbs,Right/Right,Texas A&M,2023,1,"2021: Rd 4, Pk 113 (SEA)",25,1
+438,Bryan,King,Bryan King,74,11/05/1996,"Littleton, CO","6' 1""",205 lbs,Right/Left,,2024,1,,11,2
+440,Jhonny,Pereda,Jhonny Pereda,89,04/18/1996,"Cagua, Venezuela","6' 1""",202 lbs,Right/Right,,2024,1,,17,4
+441,Freddy,Tarnok,Freddy Tarnok,62,11/24/1998,"Brandon, FL","6' 3""",185 lbs,Right/Right,,2022,1,"2017: Rd 3, Pk 80 (ATL)",15,2
+442,Andres,Munoz,Andres Munoz,75,01/16/1999,"Los Mochis, Mexico","6' 2""",222 lbs,Right/Right,,2019,1,,25,2
+448,David,Hamilton,David Hamilton,70,09/29/1997,"San Marcos, TX","5' 10""",188 lbs,Left/Right,Texas,2023,1,,4,8
+449,Bryce,Johnson,Bryce Johnson,27,10/27/1995,"Cypress, TX","6' 1""",195 lbs,Both/Right,,2022,1,"2017: Rd 6, Pk 186 (SF)",23,11
+450,Tyrone,Taylor,Tyrone Taylor,15,01/22/1994,"Torrance, CA","6' 1""",218 lbs,Right/Right,,2019,1,"2012: Rd 2, Pk 92 (MIL)",18,11
+451,Thomas,Saggese,Thomas Saggese,25,04/10/2002,"Carlsbad, CA","5' 11""",185 lbs,Right/Right,,2024,1,,26,6
+452,Ceddanne,Rafaela,Ceddanne Rafaela,43,09/18/2000,"Willemstad, Curacao","5' 9""",165 lbs,Right/Right,,2023,1,,4,8
+453,Mitch,Spence,Mitch Spence,40,05/06/1998,"Kirkland, WA","6' 1""",185 lbs,Right/Right,,2024,1,,20,1
+454,Agustin,Ramirez,Agustin Ramirez,96,09/10/2001,"Santo Domingo, Dominican Republic","6' 0""",210 lbs,Right/Right,,,1,,15,4
+455,Nick,Sogard,Nick Sogard,75,09/09/1997,"Los Angeles, CA","6' 0""",189 lbs,Both/Right,,2024,1,,4,6
+457,Samuel,Aldegheri,Samuel Aldegheri,66,09/19/2001,"Verona, Italy","6' 1""",180 lbs,Left/Left,,2024,1,,13,1
+458,Ken,Waldichuk,Ken Waldichuk,30,01/08/1998,"San Diego, CA","6' 4""",220 lbs,Left/Left,Saint Mary's,2022,1,,20,1
+459,Taijuan,Walker,Taijuan Walker,99,08/13/1992,"Shreveport, LA","6' 4""",235 lbs,Right/Right,,2013,1,"2010: Rd 1, Pk 43 (SEA)",21,1
+462,Shea,Langeliers,Shea Langeliers,23,11/18/1997,"Portland, OR","6' 0""",205 lbs,Right/Right,Baylor,2022,1,"2019: Rd 1, Pk 9 (ATL)",20,4
+463,Masyn,Winn,Masyn Winn,0,03/21/2002,"Katy, TX","5' 11""",185 lbs,Right/Right,,2023,1,,26,8
+465,Brandon,Lockridge,Brandon Lockridge,28,03/14/1997,"Pensacola, FL","6' 0""",185 lbs,Right/Right,,2024,1,,16,11
+467,Trevor,Story,Trevor Story,10,11/15/1992,"Irving, TX","6' 2""",209 lbs,Right/Right,,2016,1,"2011: Rd 1, Pk 45 (COL)",4,8
+468,Tayler,Saucedo,Tayler Saucedo,60,06/18/1993,"Honolulu, HI","6' 4""",205 lbs,Left/Left,,2021,1,,25,2
+475,Rafael,Marchan,Rafael Marchan,13,02/25/1999,"San Cristóbal, Venezuela","5' 9""",170 lbs,Both/Right,,2020,1,,21,4
+477,Gabe,Speier,Gabe Speier,55,04/12/1995,"Santa Barbara, CA","5' 11""",200 lbs,Left/Left,,2019,1,"2013: Rd 19, Pk 563 (BOS)",25,2
+478,Alec,Burleson,Alec Burleson,41,11/25/1998,"Charlotte, NC","6' 2""",225 lbs,Left/Left,East Carolina,2022,1,"2020: Rd 2, Pk 70 (STL)",26,11
+480,Jackson,Merrill,Jackson Merrill,3,04/19/2003,"Baltimore, MD","6' 3""",195 lbs,Left/Right,,2024,1,"2021: Rd 1, Pk 27 (SD)",23,10
+482,Brendan,Donovan,Brendan Donovan,33,01/16/1997,"Enterprise, AL","6' 1""",210 lbs,Left/Right,,2022,1,,26,9
+484,Jose,Trevino,Jose Trevino,39,11/28/1992,"Corpus Christi, TX","5' 10""",215 lbs,Right/Right,Oral Roberts,2018,1,"2014: Rd 6, Pk 186 (TEX)",7,4
+485,Troy,Taylor,Troy Taylor,59,09/09/2001,"Fontana, CA","6' 0""",205 lbs,Right/Right,,2024,1,,25,2
+486,Wilyer,Abreu,Wilyer Abreu,52,06/24/1999,"Maracaibo, Venezuela","5' 10""",215 lbs,Left/Left,,2023,1,,4,11
+487,Sam,Bachman,Sam Bachman,40,09/30/1999,"Indianapolis, IN","6' 1""",235 lbs,Right/Right,Miami (OH),2023,1,"2021: Rd 1, Pk 9 (LAA)",13,2
+488,Tirso,Ornelas,Tirso Ornelas,79,03/11/2000,"Tijuana, Mexico","6' 3""",200 lbs,Left/Right,,,1,,23,9
+489,Vidal,Brujan,Vidal Brujan,17,02/09/1998,"San Pedro de Macoris, Dominican Republic","5' 10""",180 lbs,Both/Right,,2021,1,,2,8
+491,Garrett,Stubbs,Garrett Stubbs,21,05/26/1993,"San Diego, CA","5' 10""",170 lbs,Left/Right,USC,2019,1,"2015: Rd 8, Pk 229 (HOU)",21,4
+492,Fernando,Tatis Jr.,Fernando Tatis Jr.,23,01/02/1999,"San Pedro de Macoris, Dominican Republic","6' 3""",217 lbs,Right/Right,,2019,1,,23,11
+494,Nick,Allen,Nick Allen,10,10/08/1998,"San Diego, CA","5' 8""",166 lbs,Right/Right,,2022,1,"2017: Rd 3, Pk 81 (OAK)",2,8
+495,Alec,Bohm,Alec Bohm,28,08/03/1996,"Omaha, NE","6' 5""",218 lbs,Right/Right,Wichita State,2020,1,"2018: Rd 1, Pk 3 (PHI)",21,7
+496,Brock,Burke,Brock Burke,46,08/04/1996,"Chicago, IL","6' 4""",210 lbs,Left/Left,,2019,1,"2014: Rd 3, Pk 96 (TB)",13,2
+497,Jarren,Duran,Jarren Duran,16,09/05/1996,"Corona, CA","6' 2""",205 lbs,Left/Right,Long Beach State,2021,1,,4,10
+499,Jake,Burger,Jake Burger,36,04/10/1996,"St. Louis, MO","6' 2""",230 lbs,Right/Right,Missouri State,2021,1,"2017: Rd 1, Pk 11 (CHW)",28,7
+500,Lars,Nootbaar,Lars Nootbaar,21,09/08/1997,"El Segundo, CA","6' 3""",205 lbs,Left/Right,,2021,1,,26,11
+502,Xavier,Edwards,Xavier Edwards,63,08/09/1999,"Mineola, NY","5' 10""",175 lbs,Both/Right,,2023,1,"2018: Rd 1, Pk 38 (SD)",15,8
+504,Yainer,Diaz,Yainer Diaz,21,09/21/1998,"Azua Province, Dominican Republic","6' 0""",195 lbs,Right/Right,,2022,1,,11,4
+505,Caden,Dana,Caden Dana,36,12/17/2003,"Warwick, NY","6' 4""",215 lbs,Left/Right,,2024,1,,13,1
+506,Austin,Wells,Austin Wells,28,07/12/1999,"Scottsdale, AZ","6' 2""",220 lbs,Left/Right,Arizona,2023,1,,19,4
+508,Victor,Scott II,Victor Scott II,11,02/12/2001,"Atlanta, GA","5' 11""",190 lbs,Left/Left,,2024,1,,26,10
+509,Carlos,Vargas,Carlos Vargas,54,10/13/1999,"Moca, Dominican Republic","6' 4""",210 lbs,Right/Right,,2023,1,,25,2
+510,Otto,Lopez,Otto Lopez,61,10/01/1998,"Santo Domingo, Dominican Republic","5' 10""",185 lbs,Right/Right,,2021,1,,15,6
+511,Kody,Clemens,Kody Clemens,2,05/15/1996,"Houston, TX","6' 1""",200 lbs,Left/Right,Texas,2022,1,"2018: Rd 3, Pk 79 (DET)",17,5
+513,Zack,Gelof,Zack Gelof,20,10/19/1999,"Rehoboth Beach, DE","6' 2""",205 lbs,Right/Right,Virginia,2023,1,"2021: Rd 2, Pk 60 (OAK)",20,6
+514,Masataka,Yoshida,Masataka Yoshida,7,07/15/1993,"Fukui, Japan","5' 8""",192 lbs,Left/Right,,2023,1,,4,9
+515,Bryce,Harper,Bryce Harper,3,10/16/1992,"Las Vegas, NV","6' 3""",210 lbs,Left/Right,Southern Nevada,2012,1,"2010: Rd 1, Pk 1 (WSH)",21,5
+516,Cesar,Salazar,Cesar Salazar,18,03/15/1996,"Hermosillo, Mexico","5' 8""",198 lbs,Left/Right,Arizona,2023,1,,11,4
+518,Jazz,Chisholm Jr.,Jazz Chisholm Jr.,13,02/01/1998,"Nassau, Bahamas","5' 11""",184 lbs,Left/Right,,2020,1,,19,7
+520,Connor,Norby,Connor Norby,24,06/08/2000,"Brooklyn Park, MN","5' 10""",180 lbs,Right/Right,East Carolina,2024,1,,15,7
+522,Michael,Siani,Michael Siani,63,07/16/1999,"Glenside, PA","6' 1""",195 lbs,Left/Left,,2022,1,"2018: Rd 4, Pk 109 (CIN)",26,10
+523,Graham,Pauley,Graham Pauley,22,09/24/2000,"Alpharetta, GA","6' 1""",200 lbs,Left/Right,Duke,2024,1,,15,7
+525,Brett,Harris,Brett Harris,77,06/24/1998,"Arlington Heights, IL","6' 2""",208 lbs,Right/Right,,2024,1,,20,7
+528,Jose,Altuve,Jose Altuve,27,05/06/1990,"Maracay, Venezuela","5' 6""",167 lbs,Right/Right,,2011,1,,11,6
+529,Bryan,Woo,Bryan Woo,22,01/30/2000,"Oakland, CA","6' 2""",205 lbs,Right/Right,Cal Poly,2023,1,,25,1
+531,Jack,Kochanowicz,Jack Kochanowicz,64,12/22/2000,"Philadelphia, PA","6' 7""",228 lbs,Left/Right,,2024,1,"2019: Rd 3, Pk 92 (LAA)",13,1
+533,Andrew,Abbott,Andrew Abbott,41,06/01/1999,"Lynchburg, VA","6' 0""",192 lbs,Left/Left,Virginia,2023,1,,7,1
+534,Sean,Burke,Sean Burke,59,12/18/1999,"Worcester, MA","6' 6""",230 lbs,Right/Right,Maryland,2024,1,"2021: Rd 3, Pk 94 (CHW)",6,2
+536,Javier,Sanoja,Javier Sanoja,86,09/03/2002,"Maracay, Venezuela","5' 7""",150 lbs,Right/Right,,2024,1,,15,6
+537,Darell,Hernaiz,Darell Hernaiz,2,08/03/2001,"San Juan, Puerto Rico","5' 11""",190 lbs,Right/Right,,2024,1,,20,7
+539,Jordan,Walker,Jordan Walker,18,05/22/2002,"Stone Mountain, GA","6' 6""",250 lbs,Right/Right,,2023,1,,26,11
+540,Anthony,Volpe,Anthony Volpe,11,04/28/2001,"New York, NY","5' 9""",180 lbs,Right/Right,,2023,1,,19,8
+543,Braxton,Ashcraft,Braxton Ashcraft,67,10/05/1999,"Waco, TX","6' 5""",195 lbs,Left/Right,,,1,"2018: Rd 2, Pk 51 (PIT)",22,2
+544,Jasson,Dominguez,Jasson Dominguez,89,02/07/2003,"Esperanza, Dominican Republic","5' 9""",190 lbs,Both/Right,,2023,1,,19,9
+545,Edmundo,Sosa,Edmundo Sosa,33,03/06/1996,"Panama City, Panama","6' 0""",210 lbs,Right/Right,,2018,1,,21,8
+546,Jonathan,Cannon,Jonathan Cannon,48,07/19/2000,"Alpharetta, GA","6' 6""",225 lbs,Right/Right,Georgia,2024,1,,6,1
+548,Cal,Raleigh,Cal Raleigh,29,11/26/1996,"Cullowhee, NC","6' 3""",235 lbs,Both/Right,Florida State,2021,1,"2018: Rd 3, Pk 90 (SEA)",25,4
+549,Fernando,Cruz,Fernando Cruz,63,03/28/1990,"Bayamon, Puerto Rico","6' 2""",237 lbs,Right/Right,,2022,1,"2007: Rd 6, Pk 186 (KC)",19,2
+550,Griffin,Conine,Griffin Conine,56,07/11/1997,"Plantation, FL","6' 1""",210 lbs,Left/Right,Duke,2024,1,"2018: Rd 2, Pk 52 (TOR)",15,11
+553,Max,Schuemann,Max Schuemann,12,06/11/1997,"Portage, MI","5' 11""",186 lbs,Right/Right,Eastern Michigan,2024,1,,20,8
+555,Garrett,Crochet,Garrett Crochet,45,06/21/1999,"Ocean Springs, MS","6' 6""",245 lbs,Left/Left,Tennessee,2020,1,"2020: Rd 1, Pk 11 (CHW)",4,1
+556,David,Bednar,David Bednar,51,10/10/1994,"Pittsburgh, PA","6' 0""",225 lbs,Left/Right,Lafayette,2019,1,"2016: Rd 35, Pk 1,044 (SD)",19,2
+557,Bryson,Stott,Bryson Stott,5,10/06/1997,"Las Vegas, NV","6' 3""",200 lbs,Left/Right,UNLV,2022,1,,21,6
+558,Mike,Burrows,Mike Burrows,53,11/08/1999,"Waterford, CT","6' 1""",190 lbs,Right/Right,,2024,1,"2018: Rd 11, Pk 324 (PIT)",22,1
+559,Enyel,De Los Santos,Enyel De Los Santos,62,12/25/1995,"San Pedro de Macoris, Dominican Republic","6' 3""",235 lbs,Right/Right,,2018,1,,11,2
+560,Bailey,Falter,Bailey Falter,26,04/24/1997,"Chino Hills, CA","6' 4""",205 lbs,Right/Left,,2021,1,,12,1
+561,Tyler,Soderstrom,Tyler Soderstrom,21,11/24/2001,"Turlock, CA","6' 2""",200 lbs,Left/Right,,2023,1,"2020: Rd 1, Pk 26 (OAK)",20,5
+563,Jake,Eder,Jake Eder,46,10/09/1998,"Boynton Beach, FL","6' 4""",215 lbs,Left/Left,Vanderbilt,2024,1,,30,2
+565,Jeremy,Pena,Jeremy Pena,3,09/22/1997,"Santo Domingo, Dominican Republic","6' 0""",202 lbs,Right/Right,Maine,2022,1,"2015: Rd 39, Pk 1,170 (ATL)",11,8
+567,Derek,Hill,Derek Hill,58,12/30/1995,"Des Moines, IA","6' 1""",206 lbs,Right/Right,,2020,1,"2014: Rd 1, Pk 23 (DET)",6,10
+568,J.P.,Crawford,J.P. Crawford,3,01/11/1995,"Long Beach, CA","6' 2""",202 lbs,Left/Right,,2017,1,"2013: Rd 1, Pk 16 (PHI)",25,8
+569,Aaron,Judge,Aaron Judge,99,04/26/1992,"Linden, CA","6' 7""",282 lbs,Right/Right,Fresno State,2016,1,"2013: Rd 1, Pk 32 (NYY)",19,10
+570,Trea,Turner,Trea Turner,7,06/30/1993,"Boynton Beach, FL","6' 2""",185 lbs,Right/Right,NC State,2015,1,"2014: Rd 1, Pk 13 (SD)",21,8
+571,Colin,Holderman,Colin Holderman,35,10/08/1995,"Bourbonnais, IL","6' 4""",230 lbs,Right/Right,,2022,1,"2016: Rd 9, Pk 280 (NYM)",22,2
+573,Victor,Mesa Jr.,Victor Mesa Jr.,64,09/08/2001,"Havana, Cuba","6' 0""",195 lbs,Left/Left,,,1,,15,10
+574,Jacob,Wilson,Jacob Wilson,5,03/30/2002,"Los Angeles, CA","6' 2""",190 lbs,Right/Right,Grand Canyon,2024,1,"2023: Rd 1, Pk 6 (OAK)",20,8
+575,Giancarlo,Stanton,Giancarlo Stanton,27,11/08/1989,"Panorama City, CA","6' 6""",245 lbs,Right/Right,,2010,1,"2007: Rd 2, Pk 76 (FLA)",19,12
+577,Tyler,Locklear,Tyler Locklear,27,11/24/2000,"Baltimore, MD","6' 2""",210 lbs,Right/Right,VCU,2024,1,,1,5
+578,Fraser,Ellard,Fraser Ellard,61,11/06/1997,"Roswell, GA","6' 4""",220 lbs,Left/Left,,2024,1,,6,2
+583,Leo,Rivas,Leo Rivas,76,10/10/1997,"Maracay, Venezuela","5' 8""",150 lbs,Both/Right,,2024,1,,25,8
+584,Jairo,Iriarte,Jairo Iriarte,52,12/15/2001,"La Guaira, Venezuela","6' 2""",160 lbs,Right/Right,,2024,1,,6,2
+585,Nick,Castellanos,Nick Castellanos,8,03/04/1992,"Hialeah, FL","6' 4""",203 lbs,Right/Right,,2013,1,"2010: Rd 1, Pk 44 (DET)",21,11
+586,Shay,Whitcomb,Shay Whitcomb,10,09/28/1998,"Thousand Oaks, CA","6' 0""",202 lbs,Right/Right,UC San Diego,2024,1,,11,8
+588,Mitch,Keller,Mitch Keller,23,04/04/1996,"Cedar Rapids, IA","6' 3""",220 lbs,Right/Right,,2019,1,"2014: Rd 2, Pk 64 (PIT)",22,1
+589,Isaac,Mattson,Isaac Mattson,64,07/14/1995,"Erie, PA","6' 2""",205 lbs,Right/Right,,2021,1,"2017: Rd 19, Pk 565 (LAA)",22,2
+591,Hunter,Greene,Hunter Greene,21,08/06/1999,"Los Angeles, CA","6' 5""",242 lbs,Right/Right,,2022,1,"2017: Rd 1, Pk 2 (CIN)",7,1
+592,Dane,Myers,Dane Myers,54,03/08/1996,"Columbus, TX","6' 0""",205 lbs,Right/Right,Rice,2023,1,"2017: Rd 6, Pk 185 (DET)",15,11
+593,Austin,Hays,Austin Hays,9,07/05/1995,"Daytona Beach, FL","5' 11""",200 lbs,Right/Right,Jacksonville,2017,1,"2016: Rd 3, Pk 91 (BAL)",7,9
+594,Chase,Silseth,Chase Silseth,63,05/18/2000,"Farmington, NM","6' 0""",217 lbs,Right/Right,Arizona,2022,1,"2021: Rd 11, Pk 321 (LAA)",13,1
+595,Casey,Legumina,Casey Legumina,65,06/19/1997,"Dallas, TX","6' 2""",195 lbs,Right/Right,Gonzaga,2023,1,"2019: Rd 8, Pk 239 (MIN)",25,2
+596,Yordan,Alvarez,Yordan Alvarez,44,06/27/1997,"Las Tunas, Cuba","6' 5""",237 lbs,Left/Right,,2019,1,,11,9
+597,JJ,Bleday,JJ Bleday,33,11/10/1997,"Danville, PA","6' 1""",205 lbs,Left/Left,,2022,1,,20,10
+600,Jordan,Leasure,Jordan Leasure,49,08/15/1998,"Brandon, FL","6' 3""",220 lbs,Right/Right,,2024,1,,6,2
+601,Jesus,Sanchez,Jesus Sanchez,12,10/07/1997,"Higuey, Dominican Republic","6' 3""",222 lbs,Left/Right,,2020,1,,11,11
+602,Carmen,Mlodzinski,Carmen Mlodzinski,50,02/19/1999,"Hilton Head Island, SC","6' 2""",220 lbs,Right/Right,South Carolina,2023,1,,22,2
+604,Kyle,Nicolas,Kyle Nicolas,62,02/22/1999,"Massillon, OH","6' 4""",223 lbs,Right/Right,Ball State,2023,1,,22,2
+605,Ron,Marinaccio,Ron Marinaccio,97,07/01/1995,"Toms River, NJ","6' 2""",205 lbs,Right/Right,Delaware,2022,1,,23,2
+606,Nick,Lodolo,Nick Lodolo,40,02/05/1998,"La Verne, CA","6' 6""",216 lbs,Left/Left,TCU,2022,1,"2019: Rd 1, Pk 7 (CIN)",7,1
+607,Jose,Suarez,Jose Suarez,54,01/03/1998,"Naguanagua, Venezuela","5' 10""",225 lbs,Left/Left,,2019,1,,2,2
+608,Brandon,Marsh,Brandon Marsh,16,12/18/1997,"Buford, GA","6' 4""",215 lbs,Left/Right,,2021,1,"2016: Rd 2, Pk 60 (LAA)",21,9
+609,Kyle,Stowers,Kyle Stowers,28,01/02/1998,"El Cajon, CA","6' 2""",215 lbs,Left/Left,Stanford,2022,1,,15,9
+610,Samad,Taylor,Samad Taylor,12,07/11/1998,"Corona, CA","5' 8""",160 lbs,Right/Right,,2023,1,"2016: Rd 10, Pk 302 (CLE)",25,6
+612,Kenedy,Corona,Kenedy Corona,89,03/21/2000,"Maracaibo, Venezuela","5' 10""",189 lbs,Right/Right,,,1,,11,10
+613,Ryan,Zeferjahn,Ryan Zeferjahn,56,02/28/1998,"Topeka, KS","6' 5""",209 lbs,Right/Right,,2024,1,,13,2
+614,Johan,Rojas,Johan Rojas,18,08/14/2000,"San Francisco de Macoris, Dominican Republic","5' 11""",165 lbs,Right/Right,,2023,1,,21,10
+615,Randy,Arozarena,Randy Arozarena,56,02/28/1995,"Havana, Cuba","5' 11""",185 lbs,Right/Right,,2019,1,,25,9
+616,Lawrence,Butler,Lawrence Butler,4,07/10/2000,"Burlington, NJ","6' 3""",210 lbs,Left/Right,,2023,1,"2018: Rd 6, Pk 173 (OAK)",20,11
+618,Davis,Martin,Davis Martin,65,01/04/1997,"Abilene, TX","6' 2""",215 lbs,Left/Right,,2022,1,,6,1
+619,Keegan,Akin,Keegan Akin,45,04/01/1995,"Alma, MI","6' 0""",240 lbs,Left/Left,Western Michigan,2020,1,"2016: Rd 2, Pk 54 (BAL)",3,2
+624,Bryan,Baker,Bryan Baker,43,12/02/1994,"Fort Walton Beach, FL","6' 6""",235 lbs,Right/Right,,2021,1,,27,2
+625,Dominic,Canzone,Dominic Canzone,8,08/16/1997,"Cleveland, OH","5' 11""",190 lbs,Left/Right,Ohio State,2023,1,"2019: Rd 8, Pk 242 (ARI)",25,11
+628,Mauricio,Dubon,Mauricio Dubon,14,07/19/1994,"San Pedro Sula, Honduras","6' 0""",173 lbs,Right/Right,,2019,1,"2013: Rd 26, Pk 773 (BOS)",11,9
+629,Brent,Rooker,Brent Rooker,25,11/01/1994,"Germantown, TN","6' 3""",225 lbs,Right/Right,Mississippi State,2020,1,,20,9
+630,Dylan,Dodd,Dylan Dodd,46,06/06/1998,"Danville, IL","6' 2""",210 lbs,Left/Left,Southeast Missouri State,2023,1,"2021: Rd 3, Pk 96 (ATL)",2,1
+631,Logan,O'Hoppe,Logan O'Hoppe,14,02/09/2000,"West Islip, NY","6' 2""",185 lbs,Right/Right,,2022,1,"2018: Rd 23, Pk 677 (PHI)",13,4
+632,Sammy,Peralta,Sammy Peralta,67,05/10/1998,"Queens, NY","6' 2""",215 lbs,Left/Left,,2023,1,,16,2
+634,Esteury,Ruiz,Esteury Ruiz,1,02/15/1999,"Azua Province, Dominican Republic","6' 0""",169 lbs,Right/Right,,2022,1,,14,9
+635,Dennis,Santana,Dennis Santana,60,04/12/1996,"San Pedro de Macoris, Dominican Republic","6' 2""",190 lbs,Right/Right,,2018,1,,22,2
+636,Sam,Moll,Sam Moll,50,01/03/1992,"Lakeland, TN","5' 9""",190 lbs,Left/Left,Memphis,2017,1,"2013: Rd 3, Pk 77 (COL)",7,2
+638,Weston,Wilson,Weston Wilson,37,09/11/1994,"High Point, NC","6' 1""",215 lbs,Right/Right,Clemson,2023,1,"2016: Rd 17, Pk 501 (MIL)",21,9
+640,Bryce,Elder,Bryce Elder,55,05/19/1999,"Decatur, TX","6' 2""",220 lbs,Right/Right,Texas,2022,1,"2020: Rd 5, Pk 156 (ATL)",2,1
+642,Michael,Arias,Michael Arias,82,11/15/2001,"Santo Domingo, Dominican Republic","6' 0""",155 lbs,Right/Right,,,1,,19,1
+643,Yennier,Cano,Yennier Cano,78,03/09/1994,"Havana, Cuba","6' 4""",245 lbs,Right/Right,,2022,1,,3,2
+644,Jared,Shuster,Jared Shuster,51,08/03/1998,"New Bedford, MA","6' 3""",220 lbs,Left/Left,Wake Forest,2023,1,,20,2
+647,Paul,Skenes,Paul Skenes,30,05/29/2002,"Fullerton, CA","6' 6""",235 lbs,Right/Right,LSU,2024,1,"2023: Rd 1, Pk 1 (PIT)",22,1
+650,Chas,McCormick,Chas McCormick,20,04/19/1995,"West Chester, PA","6' 0""",208 lbs,Right/Left,Millersville,2021,1,"2017: Rd 21, Pk 631 (HOU)",11,9
+651,Luke,Raley,Luke Raley,20,09/19/1994,"Hinckley, OH","6' 4""",235 lbs,Left/Right,,2021,1,"2016: Rd 7, Pk 221 (LAD)",25,9
+652,Joey,Wentz,Joey Wentz,34,10/06/1997,"Lawrence, KS","6' 5""",220 lbs,Left/Left,,2022,1,"2016: Rd 1, Pk 40 (ATL)",2,2
+653,Gus,Varland,Gus Varland,37,11/06/1996,"Maplewood, MN","6' 1""",213 lbs,Left/Right,,2023,1,,1,2
+656,Javier,Assad,Javier Assad,72,07/30/1997,"Tijuana, Mexico","6' 1""",200 lbs,Right/Right,,2022,1,,5,1
+659,Connor,Phillips,Connor Phillips,34,05/04/2001,"Houston, TX","6' 2""",209 lbs,Right/Right,,2023,1,"2020: Rd 1, Pk 64 (SEA)",7,1
+660,Victor,Robles,Victor Robles,10,05/19/1997,"Santo Domingo, Dominican Republic","6' 0""",193 lbs,Right/Right,,2017,1,,25,10
+661,Joey,Bart,Joey Bart,14,12/15/1996,"Buford, GA","6' 2""",238 lbs,Right/Right,Georgia Tech,2020,1,"2018: Rd 1, Pk 2 (SF)",22,4
+665,Henry,Davis,Henry Davis,32,09/21/1999,"Bedford, NY","6' 0""",210 lbs,Right/Right,Louisville,2023,1,"2021: Rd 1, Pk 1 (PIT)",22,4
+668,Jake,Meyers,Jake Meyers,6,06/18/1996,"Omaha, NE","6' 0""",200 lbs,Right/Left,Nebraska,2021,1,"2017: Rd 13, Pk 391 (HOU)",11,10
+670,Zach,Neto,Zach Neto,9,01/31/2001,"Miami, FL","6' 0""",185 lbs,Right/Right,Campbell,2023,1,"2022: Rd 1, Pk 13 (LAA)",13,8
+672,Steven,Wilson,Steven Wilson,36,08/24/1994,"Littleton, CO","6' 3""",221 lbs,Right/Right,Santa Clara,2022,1,,6,2
+674,Kyren,Paris,Kyren Paris,19,11/11/2001,"Oakley, CA","6' 0""",180 lbs,Right/Right,,2023,1,,13,6
+675,Jimmy,Herget,Jimmy Herget,64,09/09/1993,"Tampa, FL","6' 3""",170 lbs,Right/Right,South Florida,2019,1,"2015: Rd 6, Pk 175 (CIN)",9,2
+676,Lyon,Richardson,Lyon Richardson,72,01/18/2000,"Jensen Beach, FL","6' 2""",207 lbs,Both/Right,,2023,1,"2018: Rd 2, Pk 47 (CIN)",7,1
+677,Julio,Rodriguez,Julio Rodriguez,44,12/29/2000,"Loma de Cabrera, Dominican Republic","6' 3""",228 lbs,Right/Right,,2022,1,,25,10
+679,Jose,Berrios,Jose Berrios,17,05/27/1994,"Bayamon, Puerto Rico","6' 0""",205 lbs,Right/Right,,2016,1,"2012: Rd 1, Pk 32 (MIN)",29,1
+680,Tsung-Che,Cheng,Tsung-Che Cheng,71,07/26/2001,"Pingtung County, Taiwan","5' 7""",173 lbs,Left/Right,,,1,,22,8
+682,Korey,Lee,Korey Lee,26,07/25/1998,"Escondido, CA","6' 2""",220 lbs,Right/Right,California,2022,1,,6,4
+683,Logan,Allen,Logan Allen,41,09/05/1998,"Altamonte Springs, FL","6' 0""",190 lbs,Right/Left,Florida International,2023,1,,8,1
+685,Dean,Kremer,Dean Kremer,64,01/07/1996,"Stockton, CA","6' 2""",210 lbs,Right/Right,,2020,1,"2016: Rd 14, Pk 431 (LAD)",3,1
+687,Jake,Bloss,Jake Bloss,39,06/23/2001,"Greensboro, NC","6' 3""",223 lbs,Right/Right,Georgetown,2024,1,,29,1
+688,Chuckie,Robinson,Chuckie Robinson,47,12/14/1994,"Danville, IL","5' 11""",215 lbs,Right/Right,Southern Miss,2022,1,"2016: Rd 21, Pk 637 (HOU)",2,4
+689,Porter,Hodge,Porter Hodge,37,02/21/2001,"Salt Lake City, UT","6' 4""",230 lbs,Right/Right,,2024,1,,5,2
+692,Pierce,Johnson,Pierce Johnson,38,05/10/1991,"Denver, CO","6' 2""",202 lbs,Right/Right,Missouri State,2017,1,"2012: Rd 1, Pk 43 (CHC)",2,2
+695,Tony,Santillan,Tony Santillan,64,04/15/1997,"Fort Worth, TX","6' 3""",285 lbs,Right/Right,,2021,1,"2015: Rd 2, Pk 49 (CIN)",7,2
+696,Billy,Cook,Billy Cook,28,01/07/1999,"Layton, UT","5' 11""",205 lbs,Right/Right,,2024,1,,22,5
+697,Mitch,Garver,Mitch Garver,18,01/15/1991,"Albuquerque, NM","6' 1""",220 lbs,Right/Right,New Mexico,2017,1,"2013: Rd 9, Pk 260 (MIN)",25,12
+699,Chayce,McDermott,Chayce McDermott,60,08/22/1998,"Anderson, IN","6' 3""",197 lbs,Left/Right,Ball State,2024,1,"2021: Rd 4, Pk 132 (HOU)",3,1
+700,Genesis,Cabrera,Genesis Cabrera,92,10/10/1996,"Santo Domingo, Dominican Republic","6' 2""",180 lbs,Left/Left,,2019,1,,17,2
+701,Nolan,Schanuel,Nolan Schanuel,18,02/14/2002,"Boca Raton, FL","6' 4""",220 lbs,Left/Right,Florida Atlantic,2023,1,"2023: Rd 1, Pk 11 (LAA)",13,5
+702,Gavin,Hollowell,Gavin Hollowell,46,11/04/1997,"Somerset, NJ","6' 7""",215 lbs,Right/Right,St. John's,2022,1,"2022: Rd 6, Pk 189 (COL)",5,2
+703,Dylan,Lee,Dylan Lee,52,08/01/1994,"Dinuba, CA","6' 3""",214 lbs,Left/Left,Fresno State,2021,1,,2,2
+704,Oneil,Cruz,Oneil Cruz,15,10/04/1998,"Nizao, Dominican Republic","6' 7""",215 lbs,Left/Right,,2021,1,,22,8
+706,Brent,Suter,Brent Suter,31,08/29/1989,"Chicago, IL","6' 4""",213 lbs,Left/Left,Harvard,2016,1,"2012: Rd 31, Pk 965 (MIL)",7,2
+707,Nick,Gonzales,Nick Gonzales,39,05/27/1999,"Vail, AZ","5' 9""",190 lbs,Right/Right,New Mexico State,2023,1,,22,6
+708,Tanner,Bibee,Tanner Bibee,28,03/05/1999,"Mission Viejo, CA","6' 2""",205 lbs,Right/Right,Cal State Fullerton,2023,1,,8,1
+709,Jorge,Alcala,Jorge Alcala,66,07/28/1995,"Bajos de Haina, Dominican Republic","6' 3""",205 lbs,Right/Right,,2019,1,,26,2
+710,Yosver,Zulueta,Yosver Zulueta,67,01/23/1998,"Remedios, Cuba","6' 1""",190 lbs,Right/Right,,2024,1,,7,2
+713,Shota,Imanaga,Shota Imanaga,18,09/01/1993,"Kitakyushu, Japan","5' 10""",175 lbs,Left/Left,,2024,1,,5,1
+714,Tristan,Gray,Tristan Gray,16,03/22/1996,"Houston, TX","6' 1""",215 lbs,Left/Right,Rice,2023,1,"2017: Rd 13, Pk 388 (PIT)",27,7
+716,Tyler,Stephenson,Tyler Stephenson,37,08/16/1996,"Atlanta, GA","6' 4""",225 lbs,Right/Right,,2020,1,"2015: Rd 1, Pk 11 (CIN)",7,4
+720,Joey,Cantillo,Joey Cantillo,54,12/18/1999,"Honolulu, HI","6' 4""",225 lbs,Left/Left,,2024,1,"2017: Rd 16, Pk 468 (SD)",8,1
+721,Bryan,Ramos,Bryan Ramos,44,03/12/2002,"Havana, Cuba","6' 2""",225 lbs,Right/Right,,2024,1,,6,7
+722,Ke'Bryan,Hayes,Ke'Bryan Hayes,13,01/28/1997,"Tomball, TX","5' 11""",195 lbs,Right/Right,,2020,1,"2015: Rd 1, Pk 32 (PIT)",7,7
+725,Gavin,Sheets,Gavin Sheets,32,04/23/1996,"Lutherville, MD","6' 5""",235 lbs,Left/Left,Wake Forest,2021,1,"2017: Rd 2, Pk 49 (CHW)",23,5
+726,Brandon,Eisert,Brandon Eisert,60,01/19/1998,"Portland, OR","6' 2""",205 lbs,Left/Left,Oregon State,2024,1,,6,2
+729,Cade,Povich,Cade Povich,37,04/12/2000,"Reno, NV","6' 3""",185 lbs,Left/Left,Nebraska,2024,1,,3,1
+730,Eric,Wagaman,Eric Wagaman,34,08/14/1997,"Mission Viejo, CA","6' 4""",210 lbs,Right/Right,,2024,1,,15,7
+733,Jack,Neely,Jack Neely,47,06/05/2000,"San Antonio, TX","6' 8""",245 lbs,Right/Right,,2024,1,,5,2
+736,Chris,Sale,Chris Sale,51,03/30/1989,"Lakeland, FL","6' 6""",180 lbs,Left/Left,Florida Gulf Coast,2010,1,"2010: Rd 1, Pk 13 (CHW)",2,1
+740,Jhoan,Duran,Jhoan Duran,59,01/08/1998,"Esperanza, Dominican Republic","6' 5""",230 lbs,Right/Right,,2022,1,,21,2
+741,Kevin,Gausman,Kevin Gausman,34,01/06/1991,"Centennial, CO","6' 2""",205 lbs,Left/Right,LSU,2013,1,"2012: Rd 1, Pk 4 (BAL)",29,1
+742,Braden,Shewmake,Braden Shewmake,17,11/19/1997,"Wylie, TX","6' 3""",200 lbs,Left/Right,,2023,1,,19,8
+743,Trevor,Rogers,Trevor Rogers,28,11/13/1997,"Carlsbad, NM","6' 5""",217 lbs,Left/Left,,2020,1,"2017: Rd 1, Pk 13 (MIA)",3,1
+744,Daniel,Palencia,Daniel Palencia,48,02/05/2000,"San Carlos, Venezuela","5' 11""",160 lbs,Right/Right,,2023,1,,5,2
+745,Elly,De La Cruz,Elly De La Cruz,44,01/11/2002,"Sabana Grande de Boya, Dominican Republic","6' 5""",200 lbs,Both/Right,,2023,1,,7,8
+747,Daniel,Espino,Daniel Espino,66,01/05/2001,"Panama City, Panama","6' 2""",225 lbs,Right/Right,,,1,,8,1
+750,David,Festa,David Festa,58,03/08/2000,"Verona, NJ","6' 6""",185 lbs,Right/Right,,2024,1,"2021: Rd 13, Pk 399 (MIN)",17,1
+751,Christian,Encarnacion-Strand,Christian Encarnacion-Strand,33,12/01/1999,"Walnut Creek, CA","6' 0""",224 lbs,Right/Right,Oklahoma State,2023,1,,7,5
+752,Liover,Peguero,Liover Peguero,31,12/31/2000,"Higuey, Dominican Republic","6' 1""",220 lbs,Right/Right,,2022,1,,22,8
+756,Kody,Funderburk,Kody Funderburk,55,11/27/1996,"Mesa, AZ","6' 4""",230 lbs,Left/Left,Dallas Baptist Unive,2023,1,,17,2
+758,Nate,Pearson,Nate Pearson,56,08/20/1996,"Odessa, FL","6' 6""",255 lbs,Right/Right,Central Florida CC,2020,1,"2017: Rd 1, Pk 28 (TOR)",11,2
+759,Colin,Selby,Colin Selby,60,10/24/1997,"Chesapeake, VA","6' 2""",220 lbs,Right/Right,,2023,1,,3,2
+760,Lenyn,Sosa,Lenyn Sosa,50,01/25/2000,"Puerto Ordaz, Venezuela","6' 0""",210 lbs,Right/Right,,2022,1,,6,7
+761,Ethan,Roberts,Ethan Roberts,39,07/04/1997,"Sparta, TN","5' 10""",180 lbs,Right/Right,Tennessee Tech,2022,1,,5,2
+762,Jared,Triolo,Jared Triolo,19,02/08/1998,"Nashua, NH","6' 3""",210 lbs,Right/Right,,2023,1,,22,7
+763,Brendon,Little,Brendon Little,54,08/11/1996,"Bryn Mawr, PA","6' 2""",195 lbs,Left/Left,Manatee CC (FL),2022,1,"2017: Rd 1, Pk 27 (CHC)",29,2
+764,Hunter,Gaddis,Hunter Gaddis,33,04/09/1998,"Canton, GA","6' 6""",260 lbs,Right/Right,Georgia State,2022,1,"2019: Rd 5, Pk 160 (CLE)",8,2
+765,Brent,Headrick,Brent Headrick,53,12/17/1997,"Braidwood, IL","6' 6""",235 lbs,Left/Left,,2023,1,,19,2
+769,Hurston,Waldrep,Hurston Waldrep,30,03/01/2002,"Cairo, GA","6' 2""",210 lbs,Right/Right,Florida,2024,1,"2023: Rd 1, Pk 24 (ATL)",2,1
+770,Mickey,Moniak,Mickey Moniak,16,05/13/1998,"Encinitas, CA","6' 2""",195 lbs,Left/Right,,2020,1,"2016: Rd 1, Pk 1 (PHI)",9,10
+771,Miguel,Vargas,Miguel Vargas,20,11/17/1999,"Havana, Cuba","6' 2""",205 lbs,Right/Right,,2022,1,,6,7
+772,Jonathan,India,Jonathan India,6,12/15/1996,"Coral Springs, FL","6' 0""",200 lbs,Right/Right,Florida,2021,1,"2018: Rd 1, Pk 5 (CIN)",12,6
+775,Andrew,Vaughn,Andrew Vaughn,25,04/03/1998,"Santa Rosa, CA","6' 0""",215 lbs,Right/Right,,2021,1,,16,5
+776,Albert,Suarez,Albert Suarez,49,10/08/1989,"San Felix, Venezuela","6' 3""",235 lbs,Right/Right,,2016,1,,3,1
+777,Ronny,Henriquez,Ronny Henriquez,31,06/20/2000,"Bonao, Dominican Republic","5' 10""",155 lbs,Right/Right,,2022,1,,15,2
+778,Easton,Lucas,Easton Lucas,62,09/23/1996,"Thousand Oaks, CA","6' 4""",180 lbs,Left/Left,Pepperdine,2023,1,"2019: Rd 14, Pk 411 (MIA)",29,2
+779,Allan,Winans,Allan Winans,72,08/10/1995,"Bakersfield, CA","6' 2""",165 lbs,Right/Right,Campbell,2023,1,,19,1
+780,Nick,Yorke,Nick Yorke,38,04/02/2002,"Newport Beach, CA","6' 0""",200 lbs,Right/Right,,2024,1,,22,6
+782,Jameson,Taillon,Jameson Taillon,50,11/18/1991,"Lakeland, FL","6' 5""",230 lbs,Right/Right,,2016,1,"2010: Rd 1, Pk 2 (PIT)",5,1
+783,Ji Hwan,Bae,Ji Hwan Bae,3,07/26/1999,"Daegu, South Korea","5' 11""",185 lbs,Left/Right,,2022,1,,22,10
+784,Noelvi,Marte,Noelvi Marte,16,10/16/2001,"Cotui, Dominican Republic","6' 0""",216 lbs,Right/Right,,2023,1,,7,7
+785,Jacob,Webb,Jacob Webb,71,08/15/1993,"Riverside, CA","6' 2""",210 lbs,Right/Right,,2019,1,,28,2
+786,Griffin,Jax,Griffin Jax,22,11/22/1994,"Phoenix, AZ","6' 2""",195 lbs,Right/Right,,2021,1,,27,2
+787,Bryce,Teodosio,Bryce Teodosio,22,06/18/1999,"Greenville, SC","6' 3""",220 lbs,Right/Left,,2024,1,,13,10
+788,Andrew,Benintendi,Andrew Benintendi,23,07/06/1994,"Cincinnati, OH","5' 9""",180 lbs,Left/Left,Arkansas,2016,1,"2015: Rd 1, Pk 7 (BOS)",6,9
+791,Matt,McLain,Matt McLain,9,08/06/1999,"Orange, CA","5' 8""",180 lbs,Right/Right,UCLA,2023,1,"2021: Rd 1, Pk 17 (CIN)",7,8
+794,Travis,d'Arnaud,Travis d'Arnaud,16,02/10/1989,"Long Beach, CA","6' 2""",210 lbs,Right/Right,,2013,1,"2007: Rd 1, Pk 37 (PHI)",13,4
+795,Tim,Herrin,Tim Herrin,29,10/08/1996,"Terre Haute, IN","6' 6""",230 lbs,Left/Left,Indiana,2023,1,"2018: Rd 29, Pk 883 (CLE)",8,2
+797,Will,Benson,Will Benson,30,06/16/1998,"Atlanta, GA","6' 5""",230 lbs,Left/Left,,2022,1,"2016: Rd 1, Pk 14 (CLE)",7,9
+798,Jordan,Wicks,Jordan Wicks,36,09/01/1999,"Conway, AR","6' 3""",220 lbs,Left/Left,Kansas State,2023,1,"2021: Rd 1, Pk 21 (CHC)",5,1
+799,Adam,Macko,Adam Macko,64,12/30/2000,"Bratislava, Slovakia","6' 0""",170 lbs,Left/Left,,,1,"2019: Rd 7, Pk 216 (SEA)",29,1
+800,Pablo,Lopez,Pablo Lopez,49,03/07/1996,"Cabimas, Venezuela","6' 4""",225 lbs,Left/Right,,2018,1,,17,1
+801,Blake,Dunn,Blake Dunn,76,09/05/1998,"Holland, MI","5' 10""",210 lbs,Right/Right,Western Michigan,2024,1,,7,9
+803,Taylor,Ward,Taylor Ward,3,12/14/1993,"Dayton, OH","6' 1""",200 lbs,Right/Right,Fresno State,2018,1,"2015: Rd 1, Pk 26 (LAA)",13,9
+807,Adley,Rutschman,Adley Rutschman,35,02/06/1998,"Portland, OR","6' 2""",230 lbs,Both/Right,Oregon State,2022,1,"2019: Rd 1, Pk 1 (BAL)",3,4
+810,Bryan,Reynolds,Bryan Reynolds,10,01/27/1995,"Baltimore, MD","6' 2""",205 lbs,Both/Right,Vanderbilt,2019,1,"2016: Rd 2, Pk 59 (SF)",22,9
+813,Hayden,Birdsong,Hayden Birdsong,60,08/30/2001,"Mattoon, IL","6' 4""",215 lbs,Right/Right,,2024,1,,24,1
+814,Tommy,Nance,Tommy Nance,45,03/19/1991,"Long Beach, CA","6' 6""",235 lbs,Right/Right,Cypress Coll. CA (J.C.),2021,1,,29,2
+815,Miguel,Amaya,Miguel Amaya,9,03/09/1999,"Herrera, Panama","6' 0""",230 lbs,Right/Right,,2023,1,,5,4
+818,TJ,Friedl,TJ Friedl,29,08/14/1995,"Sewickley, PA","5' 10""",180 lbs,Left/Left,,2021,1,,7,10
+819,Gunnar,Henderson,Gunnar Henderson,2,06/29/2001,"Montgomery, AL","6' 3""",220 lbs,Left/Right,,2022,1,,3,8
+821,Spencer,Bivens,Spencer Bivens,76,06/28/1994,"Virginia Beach, VA","6' 5""",205 lbs,Right/Right,,2024,1,,24,2
+823,Jack,Suwinski,Jack Suwinski,65,07/29/1998,"Chicago, IL","6' 2""",215 lbs,Left/Left,,2022,1,"2016: Rd 15, Pk 444 (SD)",22,10
+824,Eli,Morgan,Eli Morgan,49,05/13/1996,"Rancho Palos Verdes, CA","5' 10""",190 lbs,Right/Right,Gonzaga,2021,1,"2017: Rd 8, Pk 252 (CLE)",5,2
+825,Ozzie,Albies,Ozzie Albies,1,01/07/1997,"Willemstad, Curacao","5' 8""",165 lbs,Both/Right,,2017,1,,2,6
+826,Rece,Hinds,Rece Hinds,77,09/05/2000,"Niceville, FL","6' 4""",215 lbs,Right/Right,,2024,1,,7,11
+827,Nacho,Alvarez Jr.,Nacho Alvarez Jr.,17,04/11/2003,"Fontana, CA","5' 11""",190 lbs,Right/Right,,2024,1,,2,8
+829,Mason,Black,Mason Black,47,12/10/1999,"Scranton, PA","6' 3""",230 lbs,Right/Right,,2024,1,,24,1
+832,Bailey,Ober,Bailey Ober,17,07/12/1995,"Huntersville, NC","6' 9""",260 lbs,Right/Right,Charleston,2021,1,,17,1
+835,Erik,Sabrowski,Erik Sabrowski,62,10/31/1997,"Edmonton, AB","6' 4""",230 lbs,Right/Left,,2024,1,,8,2
+836,Jackson,Holliday,Jackson Holliday,7,12/04/2003,"Austin, TX","6' 0""",185 lbs,Left/Right,,2024,1,"2022: Rd 1, Pk 1 (BAL)",3,6
+837,Spencer,Steer,Spencer Steer,7,12/07/1997,"Long Beach, CA","5' 11""",185 lbs,Right/Right,,2022,1,,7,9
+841,Cade,Smith,Cade Smith,36,05/09/1999,"Vancouver, BC","6' 5""",230 lbs,Right/Right,,2024,1,,8,2
+842,Camilo,Doval,Camilo Doval,75,07/04/1997,"Yamasa, Dominican Republic","6' 2""",185 lbs,Right/Right,,2021,1,,19,2
+843,Cole,Sands,Cole Sands,44,07/17/1997,"Tallahassee, FL","6' 3""",215 lbs,Right/Right,Florida State,2022,1,,17,2
+844,Luis,Robert Jr.,Luis Robert Jr.,88,08/03/1997,"Ciego de Avila, Cuba","6' 2""",230 lbs,Right/Right,,2020,1,,6,10
+847,Michael,Busch,Michael Busch,29,11/09/1997,"Inver Grove Heights, MN","6' 1""",210 lbs,Left/Right,,2023,1,,5,5
+848,Coby,Mayo,Coby Mayo,16,12/10/2001,"Coral Springs, FL","6' 5""",230 lbs,Right/Right,,2024,1,"2020: Rd 4, Pk 103 (BAL)",3,7
+849,Yariel,Rodriguez,Yariel Rodriguez,29,03/10/1997,"Camaguey, Cuba","6' 0""",165 lbs,Right/Right,,2024,1,,29,1
+850,Shane,Baz,Shane Baz,11,06/17/1999,"Houston, TX","6' 2""",190 lbs,Right/Right,,2021,1,"2017: Rd 1, Pk 12 (PIT)",27,1
+851,Michael,Tonkin,Michael Tonkin,39,11/19/1989,"Glendale, CA","6' 7""",220 lbs,Right/Right,,2013,1,"2008: Rd 30, Pk 906 (MIN)",17,2
+852,Nico,Hoerner,Nico Hoerner,2,05/13/1997,"Oakland, CA","6' 1""",200 lbs,Right/Right,Stanford,2019,1,"2018: Rd 1, Pk 24 (CHC)",5,6
+853,Joey,Wiemer,Joey Wiemer,48,02/11/1999,"Sylvania, OH","6' 4""",226 lbs,Right/Right,Cincinnati,2023,1,"2020: Rd 4, Pk 121 (MIL)",15,9
+854,Kyle,Harrison,Kyle Harrison,45,08/12/2001,"San Jose, CA","6' 2""",200 lbs,Right/Left,,2023,1,,4,1
+856,Matt,Olson,Matt Olson,28,03/29/1994,"Atlanta, GA","6' 5""",225 lbs,Left/Right,,2016,1,"2012: Rd 1, Pk 47 (OAK)",2,5
+857,Miles,Mastrobuoni,Miles Mastrobuoni,20,10/31/1995,"San Ramon, CA","5' 10""",185 lbs,Left/Right,Nevada,2022,1,"2016: Rd 14, Pk 420 (TB)",25,8
+858,Ryan,Mountcastle,Ryan Mountcastle,6,02/18/1997,"Winter Springs, FL","6' 4""",220 lbs,Right/Right,,2020,1,"2015: Rd 1, Pk 36 (BAL)",3,5
+861,Jordan,Hicks,Jordan Hicks,12,09/06/1996,"Houston, TX","6' 2""",220 lbs,Right/Right,,2018,1,"2015: Rd 3, Pk 105 (STL)",4,1
+865,Zach,Brzykcy,Zach Brzykcy,66,07/12/1999,"Hickory, NC","6' 2""",208 lbs,Right/Right,,2024,1,,30,1
+867,Dillon,Tate,Dillon Tate,33,05/01/1994,"Harbor City, CA","6' 2""",190 lbs,Right/Right,UC Santa Barbara,2019,1,"2015: Rd 1, Pk 4 (TEX)",29,2
+868,Justin,Topa,Justin Topa,48,03/07/1991,"Binghamton, NY","6' 4""",200 lbs,Right/Right,,2020,1,,17,2
+869,Trevor,McDonald,Trevor McDonald,72,02/26/2001,"Mobile, AL","6' 2""",200 lbs,Right/Right,,2024,1,,24,1
+871,Tyler,Heineman,Tyler Heineman,55,06/19/1991,"Pacific Palisades, CA","5' 10""",190 lbs,Both/Right,UCLA,2019,1,"2012: Rd 8, Pk 249 (HOU)",29,4
+874,Michael,Harris II,Michael Harris II,23,03/07/2001,"DeKalb, GA","6' 0""",195 lbs,Left/Left,,2022,1,,2,10
+875,Jose,Ferrer,Jose Ferrer,47,03/03/2000,"Maimon, Dominican Republic","6' 1""",233 lbs,Left/Left,,2023,1,,30,2
+878,Taj,Bradley,Taj Bradley,45,03/20/2001,"Los Angeles, CA","6' 2""",190 lbs,Right/Right,,2023,1,,17,1
+879,Gavin,Williams,Gavin Williams,32,07/26/1999,"Fayetteville, NC","6' 6""",250 lbs,Left/Right,East Carolina,2023,1,"2021: Rd 1, Pk 23 (CLE)",8,1
+882,Louie,Varland,Louie Varland,37,12/09/1997,"Saint Paul, MN","6' 1""",205 lbs,Left/Right,Concordia-St. Paul,2022,1,"2019: Rd 15, Pk 449 (MIN)",29,1
+883,Isaac,Paredes,Isaac Paredes,17,02/18/1999,"Sonora, Mexico","5' 11""",213 lbs,Right/Right,,2020,1,,11,7
+884,Alejandro,Kirk,Alejandro Kirk,30,11/06/1998,"Tijuana, Mexico","5' 8""",245 lbs,Right/Right,,2020,1,,29,4
+888,Robert,Garcia,Robert Garcia,61,06/14/1996,"Manteca, CA","6' 4""",236 lbs,Right/Left,,2023,1,,28,2
+889,Garrett,Cleavinger,Garrett Cleavinger,60,04/23/1994,"Lawrence, KS","6' 1""",220 lbs,Right/Left,Oregon,2020,1,"2015: Rd 3, Pk 102 (BAL)",27,2
+890,Dansby,Swanson,Dansby Swanson,7,02/11/1994,"Kennesaw, GA","6' 1""",190 lbs,Right/Right,Vanderbilt,2016,1,"2015: Rd 1, Pk 1 (ARI)",5,8
+892,Addison,Barger,Addison Barger,47,11/12/1999,"Bellevue, WA","5' 11""",210 lbs,Left/Right,,2024,1,,29,7
+893,Bo,Naylor,Bo Naylor,23,02/21/2000,"Mississauga, ON","6' 0""",205 lbs,Left/Right,,2022,1,,8,4
+894,Robbie,Ray,Robbie Ray,23,10/01/1991,"Brentwood, TN","6' 2""",225 lbs,Left/Left,,2014,1,"2010: Rd 12, Pk 356 (WSH)",24,1
+895,Ramon,Urias,Ramon Urias,29,06/03/1994,"Sonora, Mexico","5' 10""",185 lbs,Right/Right,,2020,1,,11,7
+898,Luis,Vazquez,Luis Vazquez,12,10/10/1999,"Orocovis, Puerto Rico","6' 0""",165 lbs,Right/Right,,2024,1,"2017: Rd 14, Pk 435 (CHC)",3,8
+899,Yoniel,Curet,Yoniel Curet,58,11/03/2002,"San Pedro de Macoris, Dominican Republic","6' 2""",190 lbs,Right/Right,,,1,,27,1
+901,Jordan,Westburg,Jordan Westburg,11,02/18/1999,"New Braunfels, TX","6' 2""",210 lbs,Right/Right,Mississippi State,2023,1,,3,7
+903,MacKenzie,Gore,MacKenzie Gore,1,02/24/1999,"Wilmington, NC","6' 2""",193 lbs,Left/Left,,2022,1,"2017: Rd 1, Pk 3 (SD)",30,1
+905,Gabriel,Arias,Gabriel Arias,13,02/27/2000,"La Victoria, Venezuela","6' 1""",217 lbs,Right/Right,,2022,1,,8,7
+906,Ramon,Laureano,Ramon Laureano,18,07/15/1994,"Santo Domingo, FL","5' 11""",203 lbs,Right/Right,Northeastern Oklahoma A&M (J.C.),2018,1,"2014: Rd 16, Pk 466 (HOU)",23,11
+907,Kevin,Alcantara,Kevin Alcantara,13,07/12/2002,"Santo Domingo, Dominican Republic","6' 6""",188 lbs,Right/Right,,2024,1,,5,11
+911,Simeon,Woods Richardson,Simeon Woods Richardson,78,09/27/2000,"Sugar Land, TX","6' 3""",210 lbs,Right/Right,,2022,1,"2018: Rd 2, Pk 48 (NYM)",17,1
+913,Cole,Henry,Cole Henry,99,07/15/1999,"Florence, AL","6' 4""",200 lbs,Right/Right,LSU,,1,,30,1
+914,Pete,Fairbanks,Pete Fairbanks,29,12/16/1993,"Milwaukee, WI","6' 6""",225 lbs,Right/Right,Missouri,2019,1,"2015: Rd 9, Pk 258 (TEX)",27,2
+915,Juan,Brito,Juan Brito,74,09/24/2001,"Santo Domingo, Dominican Republic","6' 0""",202 lbs,Both/Right,,,1,,8,8
+916,Colton,Cowser,Colton Cowser,17,03/20/2000,"Houston, TX","6' 2""",220 lbs,Left/Right,Sam Houston,2023,1,"2021: Rd 1, Pk 5 (BAL)",3,9
+917,Eli,White,Eli White,36,06/26/1994,"Greenville, SC","6' 2""",195 lbs,Right/Right,Clemson,2020,1,"2016: Rd 11, Pk 322 (OAK)",2,9
+919,Ernie,Clement,Ernie Clement,28,03/22/1996,"Rochester, NY","6' 0""",170 lbs,Right/Right,Virginia,2021,1,"2017: Rd 4, Pk 132 (CLE)",29,7
+920,Cody,Bellinger,Cody Bellinger,24,07/13/1995,"Scottsdale, AZ","6' 4""",203 lbs,Left/Left,,2017,1,"2013: Rd 4, Pk 124 (LAD)",19,10
+922,Alexander,Canario,Alexander Canario,4,05/07/2000,"Monte Cristi Province, Dominican Republic","5' 11""",165 lbs,Right/Right,,2023,1,,22,9
+923,Kevin,Kelly,Kevin Kelly,49,11/28/1997,"Springfield, VA","6' 2""",200 lbs,Right/Right,,2023,1,,27,2
+926,Jake,Irvin,Jake Irvin,27,02/18/1997,"Bloomington, MN","6' 6""",234 lbs,Right/Right,Oklahoma,2023,1,"2018: Rd 4, Pk 131 (WSH)",30,1
+927,David,Fry,David Fry,6,11/20/1995,"Colleyville, TX","6' 0""",215 lbs,Right/Right,Northwestern State,2023,1,,8,5
+928,Landen,Roupp,Landen Roupp,65,09/10/1998,"Rocky Mount, NC","6' 2""",205 lbs,Right/Right,UNC Wilmington,2024,1,"2021: Rd 12, Pk 356 (SF)",24,2
+930,Heston,Kjerstad,Heston Kjerstad,13,02/12/1999,"Amarillo, TX","6' 3""",205 lbs,Left/Right,Arkansas,2023,1,,3,9
+934,Blake,Snell,Blake Snell,7,12/04/1992,"Seattle, WA","6' 4""",225 lbs,Left/Left,,2016,1,"2011: Rd 1, Pk 52 (TB)",14,1
+935,Pete,Crow-Armstrong,Pete Crow-Armstrong,52,03/25/2002,"Sherman Oaks, CA","5' 11""",184 lbs,Left/Left,,2023,1,,5,10
+939,Vladimir,Guerrero Jr.,Vladimir Guerrero Jr.,27,03/16/1999,"Montreal, PQ","6' 2""",245 lbs,Right/Right,,2019,1,,29,5
+941,Kai-Wei,Teng,Kai-Wei Teng,70,12/01/1998,"Taichung, Taiwan","6' 4""",260 lbs,Right/Right,,2024,1,,24,2
+943,Ryan,Jeffers,Ryan Jeffers,27,06/03/1997,"Raleigh, NC","6' 4""",235 lbs,Right/Right,UNC Wilmington,2020,1,"2018: Rd 2, Pk 59 (MIN)",17,4
+944,Andres,Gimenez,Andres Gimenez,0,09/04/1998,"Barquisimeto, Venezuela","5' 11""",161 lbs,Left/Right,,2020,1,,29,6
+946,Ryan,Walker,Ryan Walker,74,11/26/1995,"Arlington, WA","6' 2""",200 lbs,Right/Right,Washington State,2023,1,,24,2
+947,Kyle,Manzardo,Kyle Manzardo,9,07/18/2000,"Couer d'Alene, ID","5' 11""",205 lbs,Left/Right,Washington State,2024,1,"2021: Rd 2, Pk 63 (TB)",8,5
+949,Jacob,Lopez,Jacob Lopez,74,03/11/1998,"Granada Hills, CA","6' 4""",220 lbs,Left/Left,,2023,1,,20,2
+953,Jake,Bird,Jake Bird,59,12/04/1995,"Newhall, CA","6' 3""",200 lbs,Right/Right,UCLA,2022,1,,19,2
+954,Mitchell,Parker,Mitchell Parker,70,09/27/1999,"Albuquerque, NM","6' 4""",239 lbs,Left/Left,San Jacinto,2024,1,"2020: Rd 5, Pk 153 (WSH)",30,1
+956,Ian,Happ,Ian Happ,8,08/12/1994,"Pittsburgh, PA","6' 0""",205 lbs,Both/Right,Cincinnati,2017,1,"2015: Rd 1, Pk 9 (CHC)",5,9
+958,Bradley,Blalock,Bradley Blalock,64,12/25/2000,"Conyers, GA","6' 2""",213 lbs,Right/Right,,2024,1,,9,1
+959,Austin,Warren,Austin Warren,57,02/05/1996,"Fayetteville, NC","6' 0""",170 lbs,Right/Right,UNC Wilmington,2021,1,"2018: Rd 6, Pk 181 (LAA)",18,2
+960,Angel,Chivilli,Angel Chivilli,57,07/28/2002,"La Victoria, Dominican Republic","6' 2""",162 lbs,Right/Right,,2024,1,,9,2
+962,Spencer,Horwitz,Spencer Horwitz,48,11/14/1997,"Timonium, MD","5' 10""",190 lbs,Left/Right,Radford,2023,1,,22,5
+963,Tanner,Rainey,Tanner Rainey,21,12/25/1992,"Folsom, LA","6' 2""",247 lbs,Right/Right,West Alabama,2018,1,"2015: Rd 2, Pk 71 (CIN)",10,2
+964,Richard,Lovelady,Richard Lovelady,55,07/07/1995,"Hinesville, GA","6' 0""",185 lbs,Left/Left,Kennesaw State,2019,1,"2016: Rd 10, Pk 313 (KC)",18,2
+965,Jose,Ramirez,Jose Ramirez,11,09/17/1992,"Bani, Dominican Republic","5' 9""",190 lbs,Both/Right,,2013,1,,8,7
+966,Seiya,Suzuki,Seiya Suzuki,27,08/18/1994,"Tokyo, Japan","5' 11""",182 lbs,Right/Right,,2022,1,,5,11
+968,Orlando,Ribalta,Orlando Ribalta,64,03/05/1998,"Santa Clara, Cuba","6' 7""",245 lbs,Right/Right,,2024,1,,30,2
+970,Brayan,Rocchio,Brayan Rocchio,4,01/13/2001,"Caracas, Venezuela","5' 10""",170 lbs,Both/Right,,2023,1,,8,8
+971,Logan,Webb,Logan Webb,62,11/18/1996,"Rocklin, CA","6' 1""",220 lbs,Right/Right,,2019,1,"2014: Rd 4, Pk 118 (SF)",24,1
+972,Carlos,Correa,Carlos Correa,4,09/22/1994,"Ponce, Puerto Rico","6' 4""",220 lbs,Right/Right,,2015,1,"2012: Rd 1, Pk 1 (HOU)",11,8
+974,Leo,Jimenez,Leo Jimenez,49,05/17/2001,"Chitre, Panama","5' 10""",215 lbs,Right/Right,,2024,1,,29,8
+975,Mike,Tauchman,Mike Tauchman,40,12/03/1990,"Palatine, IL","6' 1""",220 lbs,Left/Left,Bradley,2017,1,"2013: Rd 10, Pk 289 (COL)",6,11
+977,Patrick,Bailey,Patrick Bailey,14,05/29/1999,"Greensboro, NC","6' 0""",210 lbs,Both/Right,NC State,2023,1,,24,4
+978,Mason,Montgomery,Mason Montgomery,48,06/17/2000,"Austin, TX","6' 2""",195 lbs,Left/Left,Texas Tech,2024,1,,27,2
+979,Ryan,Feltner,Ryan Feltner,18,09/02/1996,"Orlando, FL","6' 4""",190 lbs,Right/Right,Ohio State,2021,1,,9,1
+980,Kyle,Farmer,Kyle Farmer,12,08/17/1990,"Atlanta, GA","6' 0""",205 lbs,Right/Right,Georgia,2017,1,"2013: Rd 8, Pk 244 (LAD)",9,6
+981,Jonathan,Bowlan,Jonathan Bowlan,62,12/01/1996,"Arlington, TN","6' 6""",240 lbs,Right/Right,Memphis,2023,1,"2018: Rd 2, Pk 58 (KC)",12,1
+982,Kyle,Freeland,Kyle Freeland,21,05/14/1993,"Denver, CO","6' 4""",204 lbs,Left/Left,Evansville,2017,1,"2014: Rd 1, Pk 8 (COL)",9,1
+983,Daniel,Schneemann,Daniel Schneemann,10,01/23/1997,"San Diego, CA","6' 0""",185 lbs,Left/Right,,2024,1,,8,8
+987,Steven,Cruz,Steven Cruz,64,06/15/1999,"Tenares, Dominican Republic","6' 7""",225 lbs,Right/Right,,2023,1,,12,2
+988,Marc,Church,Marc Church,68,03/30/2001,"Atlanta, GA","6' 3""",189 lbs,Right/Right,,2024,1,,28,2
+992,Ryan,Pepiot,Ryan Pepiot,44,08/21/1997,"Indianapolis, IN","6' 3""",215 lbs,Right/Right,Butler,2022,1,"2019: Rd 3, Pk 102 (LAD)",27,1
+993,Roansy,Contreras,Roansy Contreras,57,11/07/1999,"Yamasa, Dominican Republic","6' 1""",205 lbs,Right/Right,,2021,1,,9,2
+994,Steward,Berroa,Steward Berroa,37,06/05/1999,"Santo Domingo, Dominican Republic","5' 9""",178 lbs,Both/Right,,2024,1,,16,11
+995,Edouard,Julien,Edouard Julien,47,04/30/1999,"Quebec City, PQ","6' 0""",195 lbs,Left/Right,Auburn,2023,1,,17,6
+997,Jackson,Rutledge,Jackson Rutledge,79,04/01/1999,"Fenton, MO","6' 8""",241 lbs,Right/Right,,2023,1,,30,1
+999,Jonatan,Clase,Jonatan Clase,8,05/23/2002,"Santo Domingo, Dominican Republic","5' 10""",150 lbs,Both/Right,,2024,1,,29,9
+1000,Brooks,Lee,Brooks Lee,72,02/14/2001,"San Luis Obispo, CA","6' 1""",205 lbs,Both/Right,Cal Poly,2024,1,"2022: Rd 1, Pk 8 (MIN)",17,8
+1001,Lucas,Erceg,Lucas Erceg,60,05/01/1995,"San Jose, CA","6' 2""",214 lbs,Left/Right,Menlo,2023,1,"2016: Rd 2, Pk 46 (MIL)",12,2
+1004,Tyler,Freeman,Tyler Freeman,2,05/21/1999,"Rancho Cucamonga, CA","6' 0""",190 lbs,Right/Right,,2022,1,"2017: Rd 2, Pk 71 (CLE)",9,10
+1005,Drew,Rasmussen,Drew Rasmussen,57,07/27/1995,"Puyallup, WA","6' 1""",211 lbs,Right/Right,Oregon State,2020,1,,27,2
+1006,Matt,Chapman,Matt Chapman,26,04/28/1993,"Victorville, CA","6' 0""",215 lbs,Right/Right,Cal State Fullerton,2017,1,"2014: Rd 1, Pk 25 (OAK)",24,7
+1007,Steven,Kwan,Steven Kwan,38,09/05/1997,"Los Gatos, CA","5' 9""",170 lbs,Left/Left,Oregon State,2022,1,,8,9
+1008,Joey,Loperfido,Joey Loperfido,9,05/11/1999,"Philadelphia, PA","6' 3""",220 lbs,Left/Right,,2024,1,,29,9
+1010,Royce,Lewis,Royce Lewis,23,06/05/1999,"Aliso Viejo, CA","6' 2""",200 lbs,Right/Right,,2022,1,"2017: Rd 1, Pk 1 (MIN)",17,7
+1011,Jose,Corniell,Jose Corniell,87,06/22/2003,"Santo Domingo, Dominican Republic","6' 3""",165 lbs,Right/Right,,,1,,28,1
+1012,Tanner,Gordon,Tanner Gordon,29,10/26/1997,"Champaign, IL","6' 5""",215 lbs,Left/Right,Indiana,2024,1,,9,1
+1015,Seth,Halvorsen,Seth Halvorsen,54,02/18/2000,"Chicago, IL","6' 2""",225 lbs,Right/Right,,2024,1,,9,2
+1017,Jacob,deGrom,Jacob deGrom,48,06/19/1988,"DeLand, FL","6' 4""",180 lbs,Left/Right,Stetson,2014,1,"2010: Rd 9, Pk 272 (NYM)",28,1
+1018,Angel,Martinez,Angel Martinez,1,01/27/2002,"Santo Domingo, Dominican Republic","5' 11""",200 lbs,Both/Right,,2024,1,,8,10
+1020,Jose,Miranda,Jose Miranda,64,06/29/1998,"Manati, Puerto Rico","6' 2""",210 lbs,Right/Right,,2022,1,"2016: Rd 2, Pk 73 (MIN)",17,7
+1021,Jhonkensy,Noel,Jhonkensy Noel,43,07/15/2001,"San Pedro de Macoris, Dominican Republic","6' 3""",250 lbs,Right/Right,,2024,1,,8,11
+1022,Jaden,Hill,Jaden Hill,0,12/22/1999,"Ashdown, AR","6' 4""",234 lbs,Right/Right,LSU,2024,1,"2021: Rd 2, Pk 44 (COL)",9,2
+1024,Nathan,Lukes,Nathan Lukes,38,07/12/1994,"Sacramento, CA","5' 11""",180 lbs,Left/Right,Sacramento State,2023,1,"2015: Rd 7, Pk 214 (CLE)",29,9
+1025,Jeffrey,Springs,Jeffrey Springs,59,09/20/1992,"Belmont, NC","6' 3""",218 lbs,Left/Left,App State,2018,1,"2015: Rd 30, Pk 888 (TEX)",20,1
+1028,Byron,Buxton,Byron Buxton,25,12/18/1993,"Baxley, GA","6' 2""",190 lbs,Right/Right,,2015,1,"2012: Rd 1, Pk 2 (MIN)",17,10
+1029,Sam,Long,Sam Long,73,07/08/1995,"Fair Oaks, CA","6' 1""",185 lbs,Left/Left,Sacramento State,2021,1,,12,2
+1030,Johnathan,Rodriguez,Johnathan Rodriguez,30,11/04/1999,"Toa Baja, Puerto Rico","6' 2""",224 lbs,Right/Right,,2024,1,"2017: Rd 3, Pk 102 (CLE)",8,11
+1035,Seth,Lugo,Seth Lugo,67,11/17/1989,"Shreveport, LA","6' 4""",225 lbs,Right/Right,Centenary (LA),2016,1,"2011: Rd 34, Pk 1,032 (NYM)",12,1
+1037,Michael,Helman,Michael Helman,92,05/23/1996,"Lincoln, NE","6' 0""",195 lbs,Right/Right,,2024,1,,28,10
+1038,Riley,Adams,Riley Adams,15,06/26/1996,"Encinitas, CA","6' 4""",263 lbs,Right/Right,San Diego,2021,1,"2017: Rd 3, Pk 99 (TOR)",30,4
+1039,Daniel,Lynch IV,Daniel Lynch IV,41,11/17/1996,"Richmond, VA","6' 6""",200 lbs,Left/Left,Virginia,2021,1,,12,2
+1040,Davis,Schneider,Davis Schneider,36,01/26/1999,"Berlin, NJ","5' 9""",190 lbs,Right/Right,,2023,1,,29,9
+1042,Justin,Sterner,Justin Sterner,28,08/29/1996,"La Jolla, CA","6' 1""",215 lbs,Right/Right,BYU,2024,1,,20,2
+1043,George,Springer,George Springer,4,09/19/1989,"New Britain, CT","6' 3""",220 lbs,Right/Right,UConn,2014,1,"2011: Rd 1, Pk 11 (HOU)",29,11
+1044,Matt,Festa,Matt Festa,63,03/11/1993,"Brooklyn, NY","6' 1""",195 lbs,Right/Right,East Stroudsburg,2018,1,"2016: Rd 7, Pk 207 (SEA)",8,2
+1045,Tyler,Kinley,Tyler Kinley,40,01/31/1991,"Plantation, FL","6' 4""",220 lbs,Right/Right,Barry University,2018,1,"2013: Rd 16, Pk 472 (MIA)",2,2
+1046,Aaron,Ashby,Aaron Ashby,26,05/24/1998,"Kansas City, MO","6' 1""",188 lbs,Right/Left,Crowder,2021,1,"2018: Rd 4, Pk 125 (MIL)",16,2
+1049,DaShawn,Keirsey Jr.,DaShawn Keirsey Jr.,89,05/13/1997,"San Diego, CA","6' 1""",195 lbs,Left/Left,,2024,1,,17,10
+1051,Cole,Sulser,Cole Sulser,71,03/12/1990,"Santa Ysabel, CA","6' 1""",190 lbs,Right/Right,Dartmouth,2019,1,"2013: Rd 25, Pk 741 (CLE)",27,2
+1054,Trevor,Larnach,Trevor Larnach,9,02/26/1997,"Walnut Creek, CA","6' 4""",223 lbs,Left/Right,,2021,1,,17,9
+1056,DL,Hall,DL Hall,37,09/19/1998,"Valdosta, GA","6' 2""",203 lbs,Left/Left,,2022,1,"2017: Rd 1, Pk 21 (BAL)",16,1
+1058,Jacob,Latz,Jacob Latz,67,04/08/1996,"Lemont, IL","6' 2""",185 lbs,Right/Left,LSU,2021,1,,28,2
+1059,George,Valera,George Valera,76,11/13/2000,"Queens, NY","5' 11""",195 lbs,Left/Left,,,1,,8,11
+1061,Justin,Lawrence,Justin Lawrence,61,11/25/1994,"Panama City, Panama","6' 3""",213 lbs,Right/Right,,2021,1,"2015: Rd 12, Pk 347 (COL)",22,2
+1062,Edwin,Uceta,Edwin Uceta,63,01/09/1998,"Sabaneta, Dominican Republic","6' 0""",155 lbs,Right/Right,,2021,1,,27,2
+1063,Juan,Mejia,Juan Mejia,55,07/04/2000,"Santo Domingo, Dominican Republic","6' 3""",200 lbs,Right/Right,,,1,,9,2
+1064,Anthony,Molina,Anthony Molina,43,01/12/2002,"San Joaquin, Venezuela","6' 1""",170 lbs,Right/Right,,2024,1,,9,2
+1065,Austin,Martin,Austin Martin,82,03/23/1999,"DeLand, FL","5' 11""",185 lbs,Right/Right,Vanderbilt,2024,1,,17,10
+1069,Emmanuel,Rodriguez,Emmanuel Rodriguez,87,02/28/2003,"Santiago, Dominican Republic","5' 11""",210 lbs,Left/Left,,,1,,17,10
+1070,Bryan,Hudson,Bryan Hudson,52,05/08/1997,"Godfrey, IL","6' 8""",220 lbs,Left/Left,,2023,1,,6,2
+1071,Luis,Peralta,Luis Peralta,41,01/06/2001,"Moca, Dominican Republic","5' 11""",170 lbs,Left/Left,,2024,1,,9,2
+1072,Matt,Wallner,Matt Wallner,38,12/12/1997,"Forest Lake, MN","6' 4""",220 lbs,Left/Right,,2022,1,,17,11
+1075,Anthony,Banda,Anthony Banda,43,08/10/1993,"Corpus Christi, TX","6' 2""",221 lbs,Left/Left,San Jacinto,2017,1,"2012: Rd 10, Pk 335 (MIL)",14,2
+1077,Jared,Koenig,Jared Koenig,35,01/24/1994,"Aptos, CA","6' 5""",235 lbs,Right/Left,,2022,1,"2014: Rd 35, Pk 1,038 (CHW)",16,2
+1078,Ben,Casparius,Ben Casparius,78,02/11/1999,"Westport, CT","6' 2""",215 lbs,Right/Right,UConn,2024,1,,14,2
+1098,Teoscar,Hernandez,Teoscar Hernandez,37,10/15/1992,"Cotui, Dominican Republic","6' 2""",215 lbs,Right/Right,,2016,1,,14,9
+1106,Juan,Soto,Juan Soto,22,10/25/1998,"Santo Domingo, Dominican Republic","6' 2""",224 lbs,Left/Left,,2018,1,,18,9
+1114,Jack,Flaherty,Jack Flaherty,0,10/15/1995,"Burbank, CA","6' 4""",225 lbs,Right/Right,,2017,1,"2014: Rd 1, Pk 34 (STL)",10,1
+1120,Blake,Treinen,Blake Treinen,49,06/30/1988,"Wichita, KS","6' 5""",225 lbs,Right/Right,South Dakota State,2014,1,"2011: Rd 7, Pk 226 (OAK)",14,2
+1123,Clay,Holmes,Clay Holmes,35,03/27/1993,"Dothan, WV","6' 5""",245 lbs,Right/Right,,2018,1,"2011: Rd 9, Pk 272 (PIT)",18,2
+1259,Anthony,Santander,Anthony Santander,25,10/19/1994,"Margarita Island, Venezuela","6' 2""",230 lbs,Both/Right,,2017,1,,29,11
+1311,Jorge,Mateo,Jorge Mateo,3,06/23/1995,"Santo Domingo, Dominican Republic","6' 1""",200 lbs,Right/Right,,2020,1,,3,6
+1318,Alex,Bregman,Alex Bregman,2,03/30/1994,"Albuquerque, NM","6' 0""",190 lbs,Right/Right,LSU,2016,1,"2015: Rd 1, Pk 2 (HOU)",4,7
+1347,Willy,Adames,Willy Adames,27,09/02/1995,"Santiago, Dominican Republic","6' 1""",219 lbs,Right/Right,,2018,1,,24,8
+1350,Carson,Kelly,Carson Kelly,18,07/14/1994,"Chicago, IL","6' 2""",212 lbs,Right/Right,,2016,1,"2012: Rd 2, Pk 86 (STL)",5,4
+1397,Elias,Diaz,Elias Diaz,15,11/17/1990,"Maracaibo, Venezuela","6' 1""",223 lbs,Right/Right,,2015,1,,23,4
+1445,Randal,Grichuk,Randal Grichuk,15,08/13/1991,"Rosenberg, TX","6' 2""",216 lbs,Right/Right,,2014,1,"2009: Rd 1, Pk 24 (LAA)",12,11
+1459,James,Outman,James Outman,33,05/14/1997,"Redwood City, CA","6' 2""",215 lbs,Left/Right,Sacramento State,2022,1,"2018: Rd 7, Pk 224 (LAD)",17,10
+1464,Danny,Jansen,Danny Jansen,28,04/15/1995,"Elmhurst, NY","6' 2""",215 lbs,Right/Right,,2018,1,"2013: Rd 16, Pk 475 (TOR)",16,4
+1480,Jorge,Alfaro,Jorge Alfaro,32,06/11/1993,"Sincelejo, Colombia","6' 2""",249 lbs,Right/Right,,2016,1,,30,4
+1490,Kyle,Bradish,Kyle Bradish,38,09/12/1996,"Peoria, AZ","6' 3""",215 lbs,Right/Right,New Mexico State,2022,1,,3,1
+1501,Jo,Adell,Jo Adell,7,04/08/1999,"Shelby, NC","6' 3""",215 lbs,Right/Right,,2020,1,"2017: Rd 1, Pk 10 (LAA)",13,11
+1503,Andrew,Kittredge,Andrew Kittredge,27,03/17/1990,"Spokane, MO","6' 1""",230 lbs,Right/Right,Washington,2017,1,"2008: Rd 45, Pk 1,360 (SEA)",5,2
+1521,Daulton,Varsho,Daulton Varsho,25,07/02/1996,"Marshfield, WI","5' 8""",207 lbs,Left/Right,Milwaukee,2020,1,"2017: Rd 2, Pk 68 (ARI)",29,10
+1529,Jorge,Polanco,Jorge Polanco,7,07/05/1993,"San Pedro de Macoris, Dominican Republic","5' 11""",208 lbs,Both/Right,,2014,1,,25,6
+1534,Taylor,Trammell,Taylor Trammell,33,09/13/1997,"Powder Springs, GA","6' 2""",220 lbs,Left/Left,,2021,1,,11,9
+1545,Lance,McCullers Jr.,Lance McCullers Jr.,43,10/02/1993,"Tampa, FL","6' 1""",200 lbs,Left/Right,,2015,1,"2012: Rd 1, Pk 41 (HOU)",11,1
+1568,Cristian,Javier,Cristian Javier,53,03/26/1997,"Santo Domingo, Dominican Republic","6' 1""",210 lbs,Right/Right,,2020,1,,11,1
+1635,Pete,Alonso,Pete Alonso,20,12/07/1994,"Tampa, KS","6' 3""",245 lbs,Right/Right,Florida,2019,1,"2016: Rd 2, Pk 64 (NYM)",18,5
+1638,Carlos,Estevez,Carlos Estevez,53,12/28/1992,"Santo Domingo, Dominican Republic","6' 6""",277 lbs,Right/Right,,2016,1,,12,2
+1718,Jurickson,Profar,Jurickson Profar,10,02/20/1993,"Willemstad, Curacao","6' 0""",184 lbs,Both/Right,,2012,1,,2,7
+1725,Harrison,Bader,Harrison Bader,44,06/03/1994,"Bronxville, NY","6' 0""",210 lbs,Right/Right,Florida,2017,1,"2015: Rd 3, Pk 100 (STL)",21,10
+1727,Yusei,Kikuchi,Yusei Kikuchi,16,06/17/1991,"Iwate, Japan","6' 0""",210 lbs,Left/Left,,2019,1,,13,1
+1786,Jose,Urquidy,Jose Urquidy,65,05/01/1995,"Sinaloa, Mexico","6' 0""",215 lbs,Right/Right,,2019,1,,10,1
+1835,Ronald,Acuna Jr.,Ronald Acuna Jr.,13,12/18/1997,"La Guaira, Venezuela","6' 0""",205 lbs,Right/Right,,2018,1,,2,11
+1865,Tyler,Glasnow,Tyler Glasnow,31,08/23/1993,"Newhall, CA","6' 8""",225 lbs,Left/Right,,2016,1,"2011: Rd 5, Pk 152 (PIT)",14,1
+1886,Austin,Hedges,Austin Hedges,27,08/18/1992,"San Juan Capistrano, CA","6' 1""",220 lbs,Right/Right,,2015,1,"2011: Rd 2, Pk 82 (SD)",8,4
+1918,Javier,Baez,Javier Baez,28,12/01/1992,"Bayamon, Puerto Rico","6' 0""",190 lbs,Right/Right,,2014,1,"2011: Rd 1, Pk 9 (CHC)",10,8
+1929,Christian,Walker,Christian Walker,53,03/28/1991,"Norristown, GA","6' 0""",208 lbs,Right/Right,South Carolina,2014,1,"2012: Rd 4, Pk 132 (BAL)",11,5
+1954,Dauri,Moreta,Dauri Moreta,36,04/15/1996,"Comendador, Dominican Republic","6' 2""",185 lbs,Right/Right,,2021,1,,22,2
+1956,Christian,Yelich,Christian Yelich,22,12/05/1991,"Thousand Oaks, CA","6' 3""",206 lbs,Left/Right,,2013,1,"2010: Rd 1, Pk 23 (FLA)",16,9
+2007,Yohan,Ramirez,Yohan Ramirez,48,05/06/1995,"Villa Mella, Dominican Republic","6' 4""",212 lbs,Right/Right,,2020,1,,22,2
+2090,Taylor,Clarke,Taylor Clarke,32,05/13/1993,"Ashburn, MO","6' 4""",210 lbs,Right/Right,Charleston,2019,1,"2015: Rd 3, Pk 76 (ARI)",12,2
+2102,Reese,McGuire,Reese McGuire,3,03/02/1995,"Seattle, WA","6' 0""",233 lbs,Left/Right,,2018,1,"2013: Rd 1, Pk 14 (PIT)",5,4
+2137,Ryan,Noda,Ryan Noda,49,03/30/1996,"Volo, IL","6' 1""",217 lbs,Left/Left,Cincinnati,2023,1,"2017: Rd 15, Pk 459 (TOR)",3,5
+2191,Martin,Perez,Martin Perez,54,04/04/1991,"Guanare, Venezuela","6' 0""",200 lbs,Left/Left,,2012,1,,6,1
+2286,Matt,Brash,Matt Brash,47,05/12/1998,"Kingston, ON","6' 1""",173 lbs,Right/Right,,2022,1,"2019: Rd 4, Pk 113 (SD)",25,2
+2288,Tyler,O'Neill,Tyler O'Neill,17,06/22/1995,"Burnaby, BC","5' 11""",200 lbs,Right/Right,,2018,1,"2013: Rd 3, Pk 85 (SEA)",3,9
+2293,Michael,Lorenzen,Michael Lorenzen,24,01/04/1992,"Anaheim, CA","6' 3""",217 lbs,Right/Right,Cal State Fullerton,2015,1,"2013: Rd 1, Pk 38 (CIN)",12,1
+2306,Justin,Turner,Justin Turner,2,11/23/1984,"Long Beach, NJ","5' 11""",208 lbs,Right/Right,Cal State Fullerton,2009,1,"2006: Rd 7, Pk 204 (CIN)",5,7
+2415,Paul,Sewald,Paul Sewald,38,05/26/1990,"Las Vegas, NM","6' 3""",219 lbs,Right/Right,San Diego,2017,1,"2012: Rd 10, Pk 320 (NYM)",10,2
+2544,Corey,Seager,Corey Seager,5,04/27/1994,"Charlotte, NC","6' 4""",215 lbs,Left/Right,,2015,1,"2012: Rd 1, Pk 18 (LAD)",28,8
+2775,Sebastian,Rivero,Sebastian Rivero,80,11/16/1998,"Maracay, Venezuela","6' 1""",210 lbs,Right/Right,,2021,1,,13,4
+2786,Cade,Cavalli,Cade Cavalli,9,08/14/1998,"Tulsa, OK","6' 4""",223 lbs,Right/Right,Oklahoma,2022,1,,30,1
+2833,Steven,Okert,Steven Okert,16,07/09/1991,"Riverside, ND","6' 2""",202 lbs,Left/Left,Oklahoma,2016,1,"2012: Rd 4, Pk 148 (SF)",11,2
+2898,Tanner,Scott,Tanner Scott,66,07/22/1994,"Warren, OR","6' 0""",235 lbs,Right/Left,Howard Coll. TX (J.C.),2017,1,"2014: Rd 6, Pk 181 (BAL)",14,2
+2919,Andrew,Knizner,Andrew Knizner,12,02/03/1995,"Glen Allen, AL","6' 0""",225 lbs,Right/Right,NC State,2019,1,"2016: Rd 7, Pk 226 (STL)",24,4
+2940,Scott,Barlow,Scott Barlow,58,12/18/1992,"New London, CT","6' 3""",210 lbs,Right/Right,,2018,1,"2011: Rd 6, Pk 194 (LAD)",7,2
+2954,Myles,Straw,Myles Straw,7,10/17/1994,"Garden Grove, CA","5' 8""",178 lbs,Right/Right,St. John's River State CC,2018,1,"2015: Rd 12, Pk 349 (HOU)",29,10
+3030,Shane,Bieber,Shane Bieber,57,05/31/1995,"Orange, VA","6' 3""",200 lbs,Right/Right,UC Santa Barbara,2018,1,"2016: Rd 4, Pk 122 (CLE)",29,1
+3087,Sandy,Alcantara,Sandy Alcantara,22,09/07/1995,"Azua Province, Dominican Republic","6' 5""",200 lbs,Right/Right,,2017,1,,15,1
+3142,Jose,Quintana,Jose Quintana,62,01/24/1989,"Arjona, Colombia","6' 1""",220 lbs,Right/Left,,2012,1,,16,1
+3155,Kyle,Nelson,Kyle Nelson,24,07/08/1996,"San Francisco, CA","6' 1""",175 lbs,Left/Left,UC Santa Barbara,2020,1,,1,2
+3162,John,Curtiss,John Curtiss,37,04/05/1993,"Dallas, WI","6' 5""",220 lbs,Right/Right,Texas,2017,1,"2014: Rd 6, Pk 170 (MIN)",1,2
+3198,Brandon,Woodruff,Brandon Woodruff,53,02/10/1993,"Tupelo, MS","6' 4""",244 lbs,Left/Right,Mississippi State,2017,1,"2014: Rd 11, Pk 326 (MIL)",16,1
+3224,Matthew,Boyd,Matthew Boyd,16,02/02/1991,"Mercer Island, WA","6' 3""",223 lbs,Left/Left,Oregon State,2015,1,"2013: Rd 6, Pk 175 (TOR)",5,1
+3284,Alex,Jackson,Alex Jackson,28,12/25/1995,"San Diego, CA","6' 2""",238 lbs,Right/Right,,2019,1,"2014: Rd 1, Pk 6 (SEA)",3,4
+3362,Graham,Ashcraft,Graham Ashcraft,51,02/11/1998,"Huntsville, AL","6' 2""",248 lbs,Left/Right,Mississippi State,2022,1,,7,1
+3373,Kyle,Higashioka,Kyle Higashioka,20,04/20/1990,"Huntington Beach, CA","6' 1""",202 lbs,Right/Right,,2017,1,"2008: Rd 7, Pk 230 (NYY)",28,4
+3403,Mike,Trout,Mike Trout,27,08/07/1991,"Vineland, NJ","6' 2""",235 lbs,Right/Right,,2011,1,"2009: Rd 1, Pk 25 (LAA)",13,10
+3435,Joe,Ryan,Joe Ryan,41,06/05/1996,"San Francisco, CA","6' 2""",205 lbs,Right/Right,Cal State Northridge,2021,1,,17,1
+3505,Tyler,Wells,Tyler Wells,68,08/26/1994,"Tulsa, OK","6' 8""",260 lbs,Right/Right,,2021,1,,3,1
+3618,Jonathan,Loaisiga,Jonathan Loaisiga,43,11/02/1994,"Managua, Nicaragua","5' 11""",165 lbs,Right/Right,,2018,1,,19,2
+3620,Tim,Hill,Tim Hill,54,02/10/1990,"Mission Hills, KS","6' 4""",210 lbs,Right/Left,Bacone College,2018,1,"2014: Rd 32, Pk 963 (KC)",19,2
+3638,Aroldis,Chapman,Aroldis Chapman,45,02/28/1988,"Holguin, Cuba","6' 4""",235 lbs,Left/Left,,2010,1,,4,2
+3778,Lucas,Giolito,Lucas Giolito,54,07/14/1994,"Santa Monica, CA","6' 6""",245 lbs,Right/Right,,2016,1,"2012: Rd 1, Pk 16 (WSH)",4,1
+3816,Luis,Severino,Luis Severino,40,02/20/1994,"Sabana de la Mar, Dominican Republic","6' 2""",218 lbs,Right/Right,,2015,1,,20,1
+3875,Robert,Stephenson,Robert Stephenson,24,02/24/1993,"Martinez, CA","6' 3""",205 lbs,Right/Right,,2016,1,"2011: Rd 1, Pk 27 (CIN)",13,2
+4048,Dom,Nunez,Dom Nunez,30,01/17/1995,"Elk Grove, CA","5' 8""",212 lbs,Left/Right,,2019,1,"2013: Rd 6, Pk 169 (COL)",8,4
+4299,Anthony,Misiewicz,Anthony Misiewicz,58,11/01/1994,"Detroit, TX","6' 1""",196 lbs,Right/Left,Michigan State,2020,1,"2015: Rd 18, Pk 545 (SEA)",17,2
+4452,Jeff,Hoffman,Jeff Hoffman,23,01/08/1993,"Latham, KS","6' 5""",235 lbs,Right/Right,East Carolina,2016,1,"2014: Rd 1, Pk 9 (TOR)",29,2
+4470,Yohel,Pozo,Yohel Pozo,32,06/14/1997,"Maracaibo, Venezuela","5' 10""",201 lbs,Right/Right,,2021,1,,26,4
+4480,Ben,Rice,Ben Rice,93,02/22/1999,"Cohasset, MA","6' 1""",215 lbs,Left/Right,,2024,1,,19,5
+4519,Alek,Manoah,Alek Manoah,6,01/09/1998,"Homestead, FL","6' 6""",285 lbs,Right/Right,West Virginia,2021,1,,2,1
+4565,Jose,Soriano,Jose Soriano,59,10/20/1998,"Santo Domingo, Dominican Republic","6' 3""",220 lbs,Right/Right,,2023,1,,13,1
+4574,Billy,McKinney,Billy McKinney,29,08/23/1994,"Dallas, WI","6' 0""",205 lbs,Left/Left,,2018,1,"2013: Rd 1, Pk 24 (OAK)",28,9
+4624,Michael,Soroka,Michael Soroka,40,08/04/1997,"Calgary, AB","6' 5""",250 lbs,Right/Right,,2018,1,"2015: Rd 1, Pk 28 (ATL)",5,2
+4655,Bryce,Jarvis,Bryce Jarvis,40,12/26/1997,"Lexington, KY","6' 2""",195 lbs,Left/Right,Duke,2023,1,,1,2
+4657,Jahmai,Jones,Jahmai Jones,14,08/04/1997,"Roswell, GA","5' 11""",210 lbs,Right/Right,,2020,1,"2015: Rd 2, Pk 70 (LAA)",10,10
+4662,Brooks,Raley,Brooks Raley,25,06/29/1988,"San Antonio, NM","6' 3""",200 lbs,Left/Left,Texas A&M,2012,1,"2009: Rd 6, Pk 200 (CHC)",18,2
+4674,Garrett,Whitlock,Garrett Whitlock,22,06/11/1996,"Snellville, GA","6' 5""",222 lbs,Right/Right,UAB,2021,1,,4,1
+4676,Yerry,de los Santos,Yerry de los Santos,73,12/12/1997,"Santa Barbara de Samana, Dominican Republic","6' 2""",210 lbs,Right/Right,,2022,1,,19,2
+4686,Hunter,Stratton,Hunter Stratton,63,11/17/1996,"Bristol, TN","6' 4""",225 lbs,Right/Right,San Diego State,2023,1,,2,2
+4755,Ian,Hamilton,Ian Hamilton,71,06/16/1995,"Dover, NH","6' 1""",200 lbs,Right/Right,Washington State,2018,1,"2016: Rd 11, Pk 326 (CHW)",19,2
+4775,Oswald,Peraza,Oswald Peraza,91,06/15/2000,"Barquisimeto, Venezuela","5' 11""",200 lbs,Right/Right,,2022,1,,13,7
+4786,Josh,Walker,Josh Walker,91,12/01/1994,"Otisville, NY","6' 6""",225 lbs,Left/Left,New Haven,2023,1,"2017: Rd 37, Pk 1,117 (NYM)",3,2
+4800,Scott,Effross,Scott Effross,59,12/28/1993,"Twinsburg, OH","6' 2""",202 lbs,Right/Right,,2021,1,"2015: Rd 15, Pk 443 (CHC)",19,2
+4812,Keaton,Winn,Keaton Winn,67,02/20/1998,"Ollie, IA","6' 4""",238 lbs,Right/Right,,2023,1,,24,1
+4829,Bennett,Sousa,Bennett Sousa,62,04/06/1995,"North Palm Beach, FL","6' 3""",220 lbs,Left/Left,,2022,1,,11,2
+4841,Jung Hoo,Lee,Jung Hoo Lee,51,08/20/1998,"Nagoya, Japan","6' 1""",192 lbs,Left/Right,,2024,1,,24,10
+4849,Jovani,Moran,Jovani Moran,71,04/24/1997,"Mayaguez, Puerto Rico","6' 1""",167 lbs,Left/Left,,2021,1,,4,2
+4932,Thomas,Hatch,Thomas Hatch,38,09/29/1994,"Tulsa, OK","6' 1""",195 lbs,Right/Right,Oklahoma State,2020,1,"2016: Rd 3, Pk 104 (CHC)",17,2
+4990,Johan,Oviedo,Johan Oviedo,24,03/02/1998,"Havana, Cuba","6' 5""",245 lbs,Right/Right,,2020,1,,22,1
+5071,Austin,Cox,Austin Cox,53,03/28/1997,"Macon, GA","6' 4""",235 lbs,Left/Left,Mercer,2023,1,"2018: Rd 5, Pk 152 (KC)",2,2
+5084,Jackson,Kowar,Jackson Kowar,37,10/04/1996,"Weddington, NC","6' 5""",200 lbs,Right/Right,,2021,1,,25,2
+5113,Jesus,Luzardo,Jesus Luzardo,44,09/30/1997,"Lima, FL","6' 0""",218 lbs,Left/Left,,2019,1,"2016: Rd 3, Pk 94 (WSH)",21,1
+5130,Will,Wagner,Will Wagner,7,07/29/1998,"Houston, TX","5' 11""",210 lbs,Left/Right,Liberty,2024,1,,23,6
+5161,Nick,Pivetta,Nick Pivetta,37,02/14/1993,"Victoria, BC","6' 5""",210 lbs,Right/Right,New Mexico Junior College,2017,1,"2013: Rd 4, Pk 136 (WSH)",23,1
+5288,Bobby,Miller,Bobby Miller,28,04/05/1999,"Elk Grove Village, IL","6' 5""",220 lbs,Left/Right,Louisville,2023,1,,14,1
+5319,Rico,Garcia,Rico Garcia,52,01/10/1994,"Honolulu, HI","5' 9""",201 lbs,Right/Right,Hawaii Pacific,2019,1,"2016: Rd 30, Pk 890 (COL)",3,2
+5349,Janson,Junk,Janson Junk,60,01/15/1996,"Federal Way, WA","6' 2""",197 lbs,Right/Right,,2021,1,,15,2
+5437,Eric,Lauer,Eric Lauer,92,06/03/1995,"Elyria, OH","6' 3""",209 lbs,Right/Left,Kent State,2018,1,"2016: Rd 1, Pk 25 (SD)",29,1
+5439,Max,Fried,Max Fried,54,01/18/1994,"Santa Monica, CA","6' 4""",190 lbs,Left/Left,,2017,1,"2012: Rd 1, Pk 7 (SD)",19,1
+5460,Emmet,Sheehan,Emmet Sheehan,80,11/15/1999,"New York, NY","6' 5""",220 lbs,Right/Right,Boston College,2023,1,,14,1
+5525,Brock,Stewart,Brock Stewart,61,10/03/1991,"Normal, IL","6' 3""",220 lbs,Left/Right,Illinois State,2016,1,"2014: Rd 6, Pk 189 (LAD)",14,2
+5624,Michael,Kelly,Michael Kelly,47,09/06/1992,"Boynton Beach, FL","6' 4""",185 lbs,Right/Right,,2022,1,"2011: Rd 1, Pk 48 (SD)",20,2
+5668,Justin,Wrobleski,Justin Wrobleski,70,07/14/2000,"Hoffman Estates, IL","6' 1""",194 lbs,Left/Left,Oklahoma State,2024,1,,14,1
+5693,Konnor,Pilkington,Konnor Pilkington,45,09/12/1997,"Pascagoula, MS","6' 3""",240 lbs,Left/Left,Mississippi State,2022,1,"2018: Rd 3, Pk 81 (CHW)",30,1
+5705,Reiver,Sanmartin,Reiver Sanmartin,52,04/15/1996,"Cartagena, Colombia","6' 2""",160 lbs,Left/Left,,2021,1,,7,2
+5718,Jason,Alexander,Jason Alexander,51,03/01/1993,"Windsor, CA","6' 2""",227 lbs,Right/Right,,2022,1,,11,1
+5729,Spencer,Strider,Spencer Strider,99,10/28/1998,"Columbus, OH","6' 0""",195 lbs,Right/Right,Clemson,2021,1,"2020: Rd 4, Pk 126 (ATL)",2,1
+5730,Jose,Castillo,Jose Castillo,66,01/10/1996,"Valencia, Venezuela","6' 6""",252 lbs,Left/Left,,2018,1,,3,2
+5778,Jesse,Scholtens,Jesse Scholtens,62,04/06/1994,"Fairfield, CA","6' 4""",240 lbs,Right/Right,,2023,1,,27,2
+5795,J.P.,France,J.P. France,68,04/04/1995,"New Orleans, LA","6' 0""",198 lbs,Right/Right,Mississippi State,2023,1,"2022: Rd 14, Pk 432 (HOU)",11,1
+5818,JT,Brubaker,JT Brubaker,34,11/17/1993,"Springfield, OH","6' 3""",180 lbs,Right/Right,,2020,1,"2015: Rd 6, Pk 187 (PIT)",24,1
+5841,Chris,Murphy,Chris Murphy,72,06/05/1998,"Mission Hills, CA","6' 1""",186 lbs,Left/Left,San Diego,2023,1,,4,2
+5864,Nate,Eaton,Nate Eaton,18,12/22/1996,"Chester, VA","5' 11""",200 lbs,Right/Right,,2022,1,,4,11
+5874,Eury,Perez,Eury Perez,39,04/15/2003,"Santiago, Dominican Republic","6' 8""",220 lbs,Right/Right,,2023,1,,15,1
+5950,Casey,Kelly,Casey Kelly,84,10/04/1989,"Sarasota, FL","6' 3""",215 lbs,Right/Right,,2012,1,"2008: Rd 1, Pk 30 (BOS)",1,1
+6003,Justin,Bruihl,Justin Bruihl,56,06/26/1997,"Petaluma, CA","6' 2""",215 lbs,Left/Left,,2021,1,,29,2
+6091,Hunter,Feduccia,Hunter Feduccia,67,06/05/1997,"Lake Charles, LA","6' 1""",215 lbs,Left/Right,LSU,2024,1,"2018: Rd 12, Pk 374 (LAD)",27,4
+6169,Daniel,Johnson,Daniel Johnson,53,07/11/1995,"Vallejo, CA","5' 10""",200 lbs,Left/Left,New Mexico State,2020,1,"2016: Rd 5, Pk 154 (WSH)",3,10
+6201,Brandon,Waddell,Brandon Waddell,70,06/03/1994,"Houston, TX","6' 3""",180 lbs,Left/Left,Virginia,2020,1,"2015: Rd 5, Pk 157 (PIT)",18,2
+6208,Edgardo,Henriquez,Edgardo Henriquez,60,06/24/2002,"Cumaná, Venezuela","6' 4""",200 lbs,Right/Right,,2024,1,,14,1
+6218,Clayton,Beeter,Clayton Beeter,85,10/09/1998,"Fort Worth, TX","6' 2""",220 lbs,Right/Right,Texas Tech,2024,1,"2020: Rd 2, Pk 66 (LAD)",30,2
+6223,Everson,Pereira,Everson Pereira,80,04/10/2001,"Cabudare, Venezuela","5' 11""",191 lbs,Right/Right,,2023,1,,27,10
+6259,Rob,Zastryzny,Rob Zastryzny,58,03/26/1992,"Edmonton, AB","6' 3""",205 lbs,Right/Left,Missouri,2016,1,"2013: Rd 2, Pk 41 (CHC)",16,2
+6274,Will,Warren,Will Warren,98,06/16/1999,"Brandon, MS","6' 2""",175 lbs,Right/Right,,2024,1,,19,1
+6308,Andrew,Saalfrank,Andrew Saalfrank,27,08/18/1997,"Fort Wayne, IN","6' 3""",205 lbs,Left/Left,,2023,1,,1,2
+6342,Ronny,Mauricio,Ronny Mauricio,10,04/04/2001,"San Pedro de Macoris, Dominican Republic","6' 3""",166 lbs,Both/Right,,2023,1,,18,8
+6360,Ben,Brown,Ben Brown,32,09/09/1999,"East Setauket, NY","6' 6""",210 lbs,Right/Right,,2024,1,"2017: Rd 33, Pk 983 (PHI)",5,1
+6361,Roddery,Munoz,Roddery Munoz,71,04/14/2000,"Santo Domingo, Dominican Republic","6' 2""",210 lbs,Right/Right,,2024,1,,26,1
+6432,Luke,Little,Luke Little,43,08/30/2000,"Charlotte, NC","6' 8""",220 lbs,Left/Left,San Jacinto,2023,1,,5,2
+6434,Matt,Krook,Matt Krook,66,10/21/1994,"Hillsborough, CA","6' 4""",225 lbs,Left/Left,Oregon,2023,1,,8,2
+6465,Sawyer,Gipson-Long,Sawyer Gipson-Long,66,12/12/1997,"Lithia Springs, GA","6' 4""",225 lbs,Right/Right,Mercer,2023,1,"2022: Rd 6, Pk 179 (MIN)",10,1
+6568,Jared,Young,Jared Young,25,07/09/1995,"Prince George, BC","6' 0""",200 lbs,Left/Right,Old Dominion,2022,1,"2017: Rd 15, Pk 465 (CHC)",18,5
+6578,Dietrich,Enns,Dietrich Enns,75,05/16/1991,"Frankfort, IL","6' 1""",210 lbs,Left/Left,Central Michigan,2017,1,"2012: Rd 19, Pk 607 (NYY)",3,2
+6629,Jose,Espada,Jose Espada,40,02/22/1997,"Ponce, Puerto Rico","6' 0""",170 lbs,Right/Right,,2023,1,,3,2
+6650,Yoendrys,Gomez,Yoendrys Gomez,92,10/15/1999,"Nirgua, Venezuela","6' 3""",212 lbs,Right/Right,,2023,1,,6,2
+6654,Caleb,Boushley,Caleb Boushley,73,10/01/1993,"Hortonville, WI","6' 3""",190 lbs,Right/Right,,2023,1,,27,2
+6703,Stephen,Kolek,Stephen Kolek,32,04/18/1997,"Houston, TX","6' 3""",210 lbs,Right/Right,,2024,1,,12,2
+6706,Drey,Jameson,Drey Jameson,99,08/17/1997,"Greenfield, IN","6' 0""",165 lbs,Right/Right,Ball State,2022,1,,1,2
+6962,Alan,Rangel,Alan Rangel,79,08/21/1997,"Hermosillo, Mexico","6' 2""",170 lbs,Right/Right,,,1,,21,1
+7177,Robert,Gasser,Robert Gasser,54,05/31/1999,"El Dorado Hills, CA","6' 0""",192 lbs,Left/Left,Houston,2024,1,"2022: Rd 2, Pk 71 (SD)",16,1
+7324,J.C.,Escarra,J.C. Escarra,79,04/24/1995,"Hialeah, FL","6' 2""",205 lbs,Left/Right,Florida International,,1,"2017: Rd 15, Pk 458 (BAL)",19,4
+7603,Cole,Winn,Cole Winn,60,11/25/1999,"Longmont, CO","6' 2""",190 lbs,Right/Right,,2024,1,"2018: Rd 1, Pk 15 (TEX)",28,2
+7625,Domingo,Gonzalez,Domingo Gonzalez,95,09/27/1999,"San Francisco de Macoris, Dominican Republic","6' 0""",185 lbs,Right/Right,,,1,,25,1
+7639,Blas,Castano,Blas Castano,86,09/08/1998,"Esperanza, Dominican Republic","5' 10""",162 lbs,Right/Right,,,1,,25,1
+7670,Carlos,Narvaez,Carlos Narvaez,94,11/26/1998,"Maracay, Venezuela","5' 11""",190 lbs,Right/Right,,2024,1,,4,4
+7693,Christian,Roa,Christian Roa,86,04/02/1999,"Houston, TX","6' 4""",220 lbs,Right/Right,Texas A&M,,1,,15,1
+7756,Elvin,Rodriguez,Elvin Rodriguez,88,03/31/1998,"San Cristobal, Dominican Republic","6' 3""",160 lbs,Right/Right,,2022,1,,1,1
+8437,Joey,Gerber,Joey Gerber,62,05/03/1997,"Maple Grove, MN","6' 4""",212 lbs,Right/Right,,2020,1,"2018: Rd 8, Pk 238 (OAK)",27,2
+8866,Garrett,Acton,Garrett Acton,67,06/15/1998,"Naperville, IL","6' 2""",215 lbs,Left/Right,Illinois,2023,1,"2016: Rd 35, Pk 1,046 (CHW)",27,2
+10073,Connor,Kaiser,Connor Kaiser,90,11/20/1996,"Shawnee Mission, KS","6' 3""",195 lbs,Right/Right,Vanderbilt,2023,1,"2018: Rd 3, Pk 86 (PIT)",1,8
+10158,Julian,Fernandez,Julian Fernandez,35,12/05/1995,"Boca Chica, Dominican Republic","6' 6""",230 lbs,Right/Right,,2021,1,,30,2
+10283,Easton,McGee,Easton McGee,73,12/26/1997,"Hopkinsville, KY","6' 6""",205 lbs,Right/Right,,2022,1,,16,1
+10677,Kyle,Hart,Kyle Hart,22,11/23/1992,"Cincinnati, OH","6' 5""",200 lbs,Left/Left,Indiana,2020,1,"2016: Rd 19, Pk 568 (BOS)",23,2
+11481,Brian,Navarreto,Brian Navarreto,66,12/29/1994,"Bayamon, Puerto Rico","6' 2""",233 lbs,Right/Right,,2020,1,"2013: Rd 6, Pk 170 (MIN)",15,4
+11745,Zac,Veen,Zac Veen,13,12/12/2001,"Port Orange, FL","6' 3""",190 lbs,Left/Right,,,1,,9,11
+11819,Caleb,Durbin,Caleb Durbin,63,02/22/2000,"Lake Forest, IL","5' 7""",183 lbs,Right/Right,,,1,,16,6
+12163,Liam,Hicks,Liam Hicks,34,06/02/1999,"Toronto, ON","5' 9""",185 lbs,Left/Right,,,1,,15,4
+12453,Matthew,Lugo,Matthew Lugo,15,05/09/2001,"Manati, Puerto Rico","6' 0""",190 lbs,Right/Right,,,1,,13,9
+12728,Mike,Vasil,Mike Vasil,70,03/19/2000,"Boston, MA","6' 5""",225 lbs,Left/Right,Virginia,,1,,6,1
+12806,Jorbit,Vivas,Jorbit Vivas,90,03/09/2001,"Puerto Cabello, Venezuela","5' 9""",171 lbs,Left/Right,,,1,,19,6
+12896,Robert,Hassell III,Robert Hassell III,57,08/15/2001,"Franklin, TN","6' 1""",186 lbs,Left/Left,,,1,,30,10
+12949,Jake,Mangum,Jake Mangum,28,03/08/1996,"Flowood, MS","6' 0""",179 lbs,Both/Left,,,1,,27,10
+12961,Jack,Dreyer,Jack Dreyer,86,02/27/1999,"Salt Lake City, UT","6' 2""",205 lbs,Right/Left,,,1,,14,2
+15738,Roki,Sasaki,Roki Sasaki,11,11/03/2001,,"6' 2""",187 lbs,Right/Right,,,1,,14,1
+17211,Matt,Shaw,Matt Shaw,6,11/06/2001,"Springfield, MA","5' 10""",185 lbs,Right/Right,Maryland,,1,"2023: Rd 1, Pk 13 (CHC)",5,6
+114368,Drake,Baldwin,Drake Baldwin,30,03/28/2001,"Madison, WI","6' 0""",210 lbs,Left/Right,Missouri State,,1,,2,4
+203988,Ryan,Johnson,Ryan Johnson,81,08/05/2002,"Dallas, TX","6' 6""",215 lbs,Both/Right,,,1,,13,1
+223389,Shane,Smith,Shane Smith,64,04/04/2000,"Danvers, MA","6' 3""",240 lbs,Right/Right,,,1,,6,2
+226502,Christian,Koss,Christian Koss,50,01/27/1998,"Riverside, CA","6' 1""",186 lbs,Right/Right,UC Irvine,,1,,24,8
+228464,Brad,Lord,Brad Lord,61,02/14/2000,"Tallahassee, FL","6' 3""",210 lbs,Right/Right,South Florida,,1,"2022: Rd 18, Pk 531 (WSH)",30,1
+239874,Kristian,Campbell,Kristian Campbell,28,06/28/2002,"Chattanooga, TN","6' 3""",191 lbs,Right/Right,,,1,,4,9
+239887,Cam,Smith,Cam Smith,90,02/22/2003,"Lake Worth, FL","6' 3""",224 lbs,Right/Right,Florida State,,1,"2024: Rd 1, Pk 14 (CHC)",11,7
+240469,Omar,Cruz,Omar Cruz,60,01/26/1999,"Hermosillo, Mexico","6' 0""",210 lbs,Left/Left,,,1,,23,1
+240474,Chad,Patrick,Chad Patrick,39,08/14/1998,"Crown Point, IN","6' 1""",217 lbs,Right/Right,,,1,,16,1
+240932,Hayden,Senger,Hayden Senger,30,04/03/1997,"Hamilton, OH","6' 1""",210 lbs,Right/Right,Miami (OH),,1,,18,4
+241414,Max,Muncy,Max Muncy,10,08/25/2002,"Camarillo, CA","6' 1""",180 lbs,Right/Right,,,1,"2021: Rd 1, Pk 25 (OAK)",20,8
+292312,Mason,Fluharty,Mason Fluharty,85,08/13/2001,"Lewes, DE","6' 2""",215 lbs,Right/Left,Liberty,,1,,29,2
+312232,Tyler,Tolbert,Tyler Tolbert,2,01/27/1998,"Birmingham, AL","5' 11""",160 lbs,Right/Right,,,1,,12,8
+334196,Thomas,Harrington,Thomas Harrington,78,07/12/2001,"Sanford, NC","6' 2""",185 lbs,Right/Right,Campbell,,1,"2022: Rd 1, Pk 36 (PIT)",22,1
+407585,Tim,Tawa,Tim Tawa,87,04/07/1999,"West Linn, OR","5' 11""",196 lbs,Right/Right,Stanford,,1,,1,6
+425499,Grant,Wolfram,Grant Wolfram,73,12/12/1996,"Holland, MI","6' 7""",240 lbs,Left/Left,Central Michigan,,1,,3,1
+426080,Chase,Dollander,Chase Dollander,32,10/26/2001,"Evans, GA","6' 2""",200 lbs,Right/Right,Tennessee,,1,"2023: Rd 1, Pk 9 (COL)",9,1
+426098,Michael,Darrell-Hicks,Michael Darrell-Hicks,61,11/13/1997,"Parkersburg, WV","6' 5""",220 lbs,Right/Right,,,1,,22,2
+448672,Logan,VanWey,Logan VanWey,64,02/14/1999,"Joplin, MO","6' 2""",205 lbs,Right/Right,,,1,,11,1
+519799,Chase,Meidroth,Chase Meidroth,85,07/23/2001,"Torrance, CA","5' 10""",190 lbs,Right/Right,,,1,,6,7
+557124,Ben,Williamson,Ben Williamson,9,11/05/2000,"Fairfax, VA","6' 0""",210 lbs,Right/Right,William & Mary,,1,,25,7
+580905,Braxton,Fulford,Braxton Fulford,37,12/09/1998,"Lubbock, TX","5' 10""",190 lbs,Right/Right,Texas Tech,,1,,9,4
+611649,Matt,Svanson,Matt Svanson,49,01/31/1999,"Lake Zurich, IL","6' 5""",235 lbs,Right/Right,Lehigh,,1,,26,2
+612305,Justin,Hagenman,Justin Hagenman,51,10/07/1996,"Voorhees, NJ","6' 3""",205 lbs,Right/Right,Penn State,,1,,18,2
+630595,Edgar,Quero,Edgar Quero,7,04/06/2003,"Cienfuegos, Cuba","5' 10""",205 lbs,Both/Right,,,1,,6,4
+653217,Chandler,Simpson,Chandler Simpson,14,11/18/2000,"Atlanta, GA","5' 11""",170 lbs,Left/Right,,,1,,27,8
+654344,Luke,Keaschall,Luke Keaschall,15,08/15/2002,"Watsonville, CA","6' 0""",190 lbs,Right/Right,San Francisco,,1,,17,6
+668631,Juan,Morillo,Juan Morillo,67,03/19/1999,"Maracaibo, Venezuela","6' 1""",150 lbs,Right/Right,,,1,,1,2
+686128,Paxton,Schultz,Paxton Schultz,65,01/05/1998,"Orem, UT","6' 3""",205 lbs,Left/Right,Utah Valley,,1,,29,2
+686815,Sauryn,Lao,Sauryn Lao,78,08/14/1999,"Barahona, Dominican Republic","6' 2""",182 lbs,Right/Right,,,1,,30,2
+686844,Cade,Gibson,Cade Gibson,58,02/18/1998,"Ruston, LA","6' 2""",195 lbs,Left/Left,,,1,,15,2
+686851,Andry,Lara,Andry Lara,72,01/06/2003,"Coro, Venezuela","6' 4""",180 lbs,Right/Right,,,1,,30,1
+689316,Zachary,Agnos,Zachary Agnos,36,08/15/2000,"Haymarket, VA","6' 0""",210 lbs,Right/Right,,,1,"2022: Rd 10, Pk 296 (COL)",9,2
+707951,Zak,Kent,Zak Kent,61,02/24/1998,"Henrico, VA","6' 3""",208 lbs,Right/Right,,,1,,8,1
+710707,Craig,Yoho,Craig Yoho,91,10/23/1999,"Fishers, IN","6' 2""",235 lbs,Right/Right,Indiana,,1,,16,2
+726983,Chase,Lee,Chase Lee,65,08/13/1998,"Birmingham, AL","6' 0""",170 lbs,Right/Right,Alabama,,1,,10,2
+727043,Nathan,Wiles,Nathan Wiles,71,07/02/1998,"Overland Park, KS","6' 4""",228 lbs,Right/Right,,,1,,2,1
+747286,Nick,Kurtz,Nick Kurtz,16,03/12/2003,"Lancaster, PA","6' 5""",240 lbs,Left/Left,Wake Forest,,1,"2024: Rd 1, Pk 4 (OAK)",20,5
+784012,Ryan,Bergert,Ryan Bergert,38,03/08/2000,"Canton, OH","6' 1""",210 lbs,Right/Right,,,1,,12,1
+797627,Doug,Nikhazy,Doug Nikhazy,65,08/11/1999,"Burlington, NC","6' 0""",210 lbs,Left/Left,Ole Miss,,1,"2021: Rd 2, Pk 58 (CLE)",8,1
+800316,Jose,Fermin,Jose Fermin,68,11/28/2001,"Payita, Dominican Republic","6' 3""",242 lbs,Right/Right,,,1,,13,2
+818219,Logan,Evans,Logan Evans,73,06/05/2001,"Ann Arbor, MI","6' 4""",215 lbs,Right/Right,,,1,,25,1
+819402,David,Morgan,David Morgan,66,10/26/1999,"Mission Viejo, CA","6' 0""",185 lbs,Right/Right,,,1,,23,2
+838314,Kade,Strowd,Kade Strowd,57,09/17/1997,"Fort Worth, TX","6' 2""",200 lbs,Right/Right,,,1,,3,2
+841863,Maverick,Handley,Maverick Handley,98,03/10/1998,"Denver, CO","5' 9""",210 lbs,Right/Right,,,1,,3,4
+870109,Noah,Cameron,Noah Cameron,65,07/17/1999,"Saint Joseph, MO","6' 3""",220 lbs,Left/Left,Central Arkansas,,1,,12,1
+875128,Rhylan,Thomas,Rhylan Thomas,31,04/15/2000,"Ventura, CA","5' 10""",170 lbs,Left/Left,,,1,,25,9
+877145,Chase,Petty,Chase Petty,61,04/04/2003,"Camden, NJ","6' 1""",190 lbs,Right/Right,,,1,"2021: Rd 1, Pk 26 (MIN)",7,1
+891642,Luis,Mey,Luis Mey,62,06/24/2001,"San Pedro de Macoris, Dominican Republic","6' 5""",235 lbs,Right/Right,,,1,,7,1
+914751,Blaine,Crim,Blaine Crim,13,06/17/1997,"Mobile, AL","5' 10""",200 lbs,Right/Right,,,1,,9,5
+933897,Hyeseong,Kim,Hyeseong Kim,6,01/27/1999,,"5' 10""",175 lbs,Left/Right,,,1,,14,6
+947389,Blade,Tidwell,Blade Tidwell,94,06/08/2001,"Columbia, TN","6' 4""",207 lbs,Right/Right,Tennessee,,1,,24,2
+1010432,Braydon,Fisher,Braydon Fisher,63,07/26/2000,"League City, TX","6' 4""",180 lbs,Right/Right,,,1,"2018: Rd 4, Pk 134 (LAD)",29,1
+1047362,Elvis,Alvarado,Elvis Alvarado,80,02/23/1999,"Sabaneta, Dominican Republic","6' 4""",183 lbs,Right/Right,,,1,,20,2
+1064651,Cade,Horton,Cade Horton,22,08/20/2001,"Oklahoma City, OK","6' 1""",211 lbs,Right/Right,Oklahoma,,1,"2022: Rd 1, Pk 7 (CHC)",5,1
+1064717,Timothy,Elko,Timothy Elko,30,12/27/1998,"Wichita, KS","6' 3""",250 lbs,Right/Right,,,1,,6,5
+1080689,Ryan,Rolison,Ryan Rolison,91,07/11/1997,"Jackson, TN","6' 2""",213 lbs,Right/Left,,,1,,9,1
+1122760,Moises,Ballesteros,Moises Ballesteros,25,11/08/2003,"Los Teques, Venezuela","5' 8""",195 lbs,Left/Right,,,1,,5,4
+1133611,Colton,Gordon,Colton Gordon,61,12/20/1998,"St. Petersburg, FL","6' 4""",225 lbs,Left/Left,,,1,,11,1
+1139596,Dalton,Rushing,Dalton Rushing,68,02/21/2001,"Memphis, TN","5' 11""",220 lbs,Left/Right,Louisville,,1,,14,4
+1179275,Carson,Palmquist,Carson Palmquist,45,10/17/2000,"Fort Myers, FL","6' 3""",185 lbs,Left/Left,Miami,,1,,9,1
+1179526,Ryan,Fitzgerald,Ryan Fitzgerald,53,06/17/1994,"Hinsdale, IL","5' 10""",186 lbs,Left/Right,Creighton,,1,,17,7
+1210255,Mick,Abel,Mick Abel,73,08/18/2001,"Portland, OR","6' 5""",190 lbs,Right/Right,,,1,,17,1
+1210634,Carson,McCusker,Carson McCusker,60,05/22/1998,"Sparks, NV","6' 8""",250 lbs,Right/Right,Oklahoma State,,1,"2017: Rd 26, Pk 774 (MIL)",17,9
+1305539,Daylen,Lile,Daylen Lile,51,11/30/2002,"Louisville, KY","5' 11""",195 lbs,Left/Right,,,1,"2021: Rd 2, Pk 47 (WSH)",30,10
+1308344,Willie,MacIver,Willie MacIver,65,10/28/1996,"Pleasant Hill, CA","6' 2""",205 lbs,Right/Right,Washington,,1,,20,4
+1308530,Denzel,Clarke,Denzel Clarke,1,05/01/2000,"Toronto, ON","6' 4""",220 lbs,Right/Right,Cal State Northridge,,1,"2021: Rd 4, Pk 127 (OAK)",20,10
+1327002,Nic,Enright,Nic Enright,94,01/08/1997,"Richmond, VA","6' 3""",205 lbs,Right/Right,Virginia Tech,,1,"2019: Rd 20, Pk 610 (CLE)",8,2
+1328626,Yaramil,Hiraldo,Yaramil Hiraldo,76,12/31/1995,"Santiago, Dominican Republic","6' 1""",180 lbs,Right/Right,,,1,,3,2
+1343031,Alejandro,Osuna,Alejandro Osuna,19,10/10/2002,"Ahome, Mexico","5' 9""",185 lbs,Left/Left,,,1,,28,11
+1402028,Andrew,Hoffmann,Andrew Hoffmann,54,02/02/2000,"Joliet, IL","6' 5""",210 lbs,Right/Right,,,1,"2022: Rd 12, Pk 367 (ATL)",1,2
+1438743,Jack,Winkler,Jack Winkler,63,11/04/1998,"Littleton, CO","6' 1""",185 lbs,Right/Right,,,1,,15,8
+1438763,Heriberto,Hernandez,Heriberto Hernandez,64,12/16/1999,"Bonao, Dominican Republic","6' 0""",195 lbs,Right/Right,,,1,,15,11
+1440575,Dylan,Smith,Dylan Smith,58,05/28/2000,"Huntsville, AL","6' 2""",180 lbs,Right/Right,Alabama,,1,,10,2
+1441293,Bradgley,Rodriguez,Bradgley Rodriguez,72,11/16/2003,"Petare, Venezuela","6' 1""",160 lbs,Right/Right,,,1,,23,1
+1456169,Cole,Young,Cole Young,2,07/29/2003,"Pittsburgh, PA","5' 11""",180 lbs,Left/Right,,,1,"2022: Rd 1, Pk 21 (SEA)",25,8
+1473222,Jacob,Melton,Jacob Melton,31,09/07/2000,"Medford, OR","6' 3""",208 lbs,Left/Left,Oregon State,,1,,11,10
+1496602,Jac,Caglianone,Jac Caglianone,14,02/09/2003,"Tampa, FL","6' 5""",250 lbs,Left/Left,Florida,,1,"2024: Rd 1, Pk 6 (KC)",12,5
+1566992,Travis,Adams,Travis Adams,82,01/19/2000,"Palm Springs, CA","6' 1""",197 lbs,Right/Right,,,1,,17,1
+1567927,Kyle,Teel,Kyle Teel,89,02/15/2002,"Ridgewood, NJ","6' 0""",210 lbs,Left/Right,Virginia,,1,"2023: Rd 1, Pk 14 (BOS)",6,4
+1570367,Ryan,Ritter,Ryan Ritter,8,11/10/2000,"Evergreen Park, IL","6' 1""",200 lbs,Right/Right,,,1,,9,8
+1585051,Otto,Kemp,Otto Kemp,4,09/09/1999,"Fullerton, CA","5' 11""",185 lbs,Right/Right,,,1,,21,7
+1602862,Ian,Seymour,Ian Seymour,61,12/13/1998,"Madison, CT","6' 0""",215 lbs,Left/Left,Virginia Tech,,1,,27,1
+1604727,Kyle,Backhus,Kyle Backhus,43,01/31/1998,"New Waverly, TX","6' 4""",185 lbs,Left/Left,Sam Houston,,1,,1,2
+1626562,Roman,Anthony,Roman Anthony,48,05/13/2004,"West Palm Beach, FL","6' 3""",200 lbs,Left/Right,,,1,,4,10
+1645455,Grant,Taylor,Grant Taylor,81,05/20/2002,"Florence, AL","6' 3""",230 lbs,Right/Right,,,1,,6,2
+1662313,Will,Robertson,Will Robertson,98,12/26/1997,"Loose Creek, MO","6' 1""",215 lbs,Left/Left,,,1,,22,9
+1680889,Jacob,Misiorowski,Jacob Misiorowski,33,04/03/2002,"Blue Springs, MO","6' 7""",197 lbs,Right/Right,,,1,,16,1
+1681573,Andre,Granillo,Andre Granillo,65,05/12/2000,"Hemet, CA","6' 4""",250 lbs,Right/Right,,,1,,26,2
+1701171,Christian,Moore,Christian Moore,4,10/21/2002,"Brooklyn, NY","6' 0""",210 lbs,Right/Right,Tennessee,,1,"2024: Rd 1, Pk 8 (LAA)",13,6
+1756734,Brady,House,Brady House,55,06/04/2003,"Winder, GA","6' 4""",208 lbs,Right/Right,,,1,"2021: Rd 1, Pk 11 (WSH)",30,7
+1809499,Jayvien,Sandridge,Jayvien Sandridge,88,02/11/1999,"Hagerstown, MD","6' 5""",220 lbs,Left/Left,,,1,,19,2
+1816932,Jack,Little,Jack Little,81,01/10/1998,"Louisville, KY","6' 4""",190 lbs,Left/Right,Stanford,,1,,22,2
+1828637,Didier,Fuentes,Didier Fuentes,36,06/17/2005,"Tolu Sucre, Colombia","6' 0""",170 lbs,Right/Right,,,1,,2,1
+1847716,Paul,Gervase,Paul Gervase,82,05/23/2000,"Cary, NC","6' 10""",230 lbs,Right/Right,LSU,,1,,14,2
+1867296,Jack,Perkins,Jack Perkins,69,12/26/1999,"Kokomo, IN","6' 1""",220 lbs,Right/Right,Indiana,,1,,20,1
+1892443,John,Rave,John Rave,26,12/30/1997,"Canton, IL","5' 11""",194 lbs,Left/Left,,2025,1,,12,11
+1905390,Chase,Burns,Chase Burns,28,01/16/2003,"Naples, TN","6' 3""",210 lbs,Right/Right,Tennessee,,1,"2024: Rd 1, Pk 2 (CIN)",7,1
+1926928,Jonathan,Pintaro,Jonathan Pintaro,91,11/07/1997,,"6' 2""",235 lbs,Right/Right,,,1,,18,1
+1962774,Carson,Seymour,Carson Seymour,77,12/16/1998,"Poway, CA","6' 6""",255 lbs,Right/Right,Kansas State,,1,,24,2
+1980699,Joe,Rock,Joe Rock,68,07/29/2000,"Sewickley, PA","6' 6""",220 lbs,Left/Left,Ohio,,1,"2021: Rd 2, Pk 8 (COL)",27,1
+1982482,Juan,Burgos,Juan Burgos,90,12/22/1999,"Santiago, Dominican Republic","6' 0""",185 lbs,Right/Right,,,1,,1,2
+2019722,Colby,Thomas,Colby Thomas,32,01/26/2001,"Valdosta, GA","5' 10""",190 lbs,Right/Right,,,1,,20,11
+2038663,Samuel,Benschoter,Samuel Benschoter,48,03/17/1998,"Ann Arbor, MI","6' 3""",215 lbs,Right/Right,,,1,,7,2
+2038913,Anthony,Seigler,Anthony Seigler,83,06/20/1999,"Fort Defiance, AZ","5' 10""",192 lbs,Both/null,,,1,,16,6
+2053271,Eduarniel,Nunez,Eduarniel Nunez,79,06/07/1999,"Santa Barbara de Samana, Dominican Republic","6' 2""",170 lbs,Right/Right,,,1,,20,2
+2094850,Colson,Montgomery,Colson Montgomery,12,02/27/2002,"Holland, IN","6' 3""",230 lbs,Left/Right,,,1,"2021: Rd 1, Pk 22 (CHW)",6,8
+2113767,Lazaro,Estrada,Lazaro Estrada,60,04/24/1999,,"5' 10""",180 lbs,Right/Right,,,1,,29,13
+2128037,Will,Wilson,Will Wilson,7,07/21/1998,"Kings Mountain, NC","5' 10""",184 lbs,Right/Right,,2025,1,,8,7
+2168770,Alejandro,Carrillo,Alejandro Carrillo,22,06/06/1997,"Paramount, CA","6' 2""",220 lbs,Right/Right,,,1,,18,2
+2169378,Cam,Devanney,Cam Devanney,99,04/13/1997,"Nashua, NH","6' 1""",195 lbs,Right/Right,,,1,,22,8
+2183925,Cam,Schlittler,Cam Schlittler,76,02/05/2001,"Walpole, MA","6' 6""",210 lbs,Right/Right,,,1,,19,1
+2224240,Brice,Matthews,Brice Matthews,28,03/16/2002,"Houston, TX","5' 11""",190 lbs,Right/Right,Nebraska,,1,"2023: Rd 1, Pk 28 (HOU)",11,8
+2359490,Cody,Freeman,Cody Freeman,75,01/05/2001,"Pomona, CA","5' 8""",180 lbs,Right/Right,,,1,,28,7
+2412719,Brandyn,Garcia,Brandyn Garcia,86,05/27/2000,"Newport, RI","6' 4""",235 lbs,Left/Left,,,1,,1,2
+2415167,AJ,Blubaugh,AJ Blubaugh,69,07/04/2000,"Mansfield, OH","6' 2""",190 lbs,Right/Right,Milwaukee,2025,1,,11,1
+2419430,Troy,Melton,Troy Melton,,12/03/2000,,"6' 4""",210 lbs,Right/Right,,,1,,10,1
+2432721,Carlos,Cortes,Carlos Cortes,31,06/30/1997,"Orlando, FL","5' 7""",197 lbs,Left/null,,,1,,20,9
+2490184,Jeremiah,Jackson,Jeremiah Jackson,82,03/26/2000,"Antioch, TN","5' 11""",165 lbs,Right/Right,,,1,"2018: Rd 2, Pk 57 (LAA)",3,6
+2505662,Warming,Bernabel,Warming Bernabel,25,06/06/2002,"Bani, Dominican Republic","6' 1""",180 lbs,Right/Right,,,1,,9,8
+2546258,Carson,Whisenhunt,Carson Whisenhunt,88,10/20/2000,"Winston-Salem, NC","6' 3""",214 lbs,Left/Left,East Carolina,,1,,24,1
+2563272,Alex,Freeland,Alex Freeland,76,08/24/2001,"Louisville, KY","6' 0""",200 lbs,Both/Right,,,1,,14,8
+2563833,Troy,Johnston,Troy Johnston,75,06/22/1997,"Tacoma, WA","5' 11""",205 lbs,Left/Left,Gonzaga,,1,,15,9
+2565427,Pierson,Ohl,Pierson Ohl,62,09/10/1999,"Moorpark, CA","6' 1""",180 lbs,Right/Right,Grand Canyon,,1,,17,1
+2583678,Luis,Curvelo,Luis Curvelo,81,10/21/2000,"Higuerote, Venezuela","6' 1""",170 lbs,Right/Right,,,1,,28,2
+2618564,Jakob,Marsee,Jakob Marsee,87,06/28/2001,"Dearborn, MI","6' 0""",180 lbs,Left/Left,Central Michigan,,1,,15,10
+2619575,Luis,Morales,Luis Morales,93,09/24/2002,"Antilla, Cuba","6' 3""",190 lbs,Right/Right,,,1,,20,1
+2635808,CJ,Kayfus,CJ Kayfus,63,10/28/2001,"Boca Raton, FL","6' 0""",192 lbs,Left/Left,Miami,,1,,8,5
+2674453,Dominic,Hamel,Dominic Hamel,93,03/02/1999,"Chandler, AZ","6' 2""",206 lbs,Right/Right,Dallas Baptist,,1,"2021: Rd 3, Pk 81 (NYM)",28,1
+2693566,P.J.,Poulin,P.J. Poulin,90,07/25/1996,"Marion, MA","6' 1""",195 lbs,Right/Left,UConn,,1,"2018: Rd 11, Pk 336 (COL)",30,2
+2694785,Cam,Sanders,Cam Sanders,94,12/09/1996,"Thibodaux, LA","6' 2""",175 lbs,Right/Right,,,1,,22,1
+2751277,Justin,Dean,Justin Dean,75,12/06/1996,"Mauldin, SC","5' 8""",185 lbs,Right/Right,Lenoir-Rhyne,,1,,14,10
+2751889,Kyle,Karros,Kyle Karros,80,07/26/2002,"Los Angeles, CA","6' 5""",220 lbs,Right/Right,,,1,,9,7
+2752091,Tristan,Peters,Tristan Peters,73,02/29/2000,"Winkler, MB","6' 0""",180 lbs,Left/Right,,,1,,27,9
+2752861,Drew,Gilbert,Drew Gilbert,89,09/27/2000,"Stillwater, MN","5' 9""",195 lbs,Left/Left,Tennessee,,1,"2022: Rd 1, Pk 28 (HOU)",24,10
+2809623,Luinder,Avila,Luinder Avila,86,08/21/2001,"Caracas, Venezuela","6' 3""",195 lbs,Right/Right,,,1,,12,1
+2863156,Owen,Caissie,Owen Caissie,19,07/08/2002,"Burlington, ON","6' 3""",190 lbs,Left/Right,,,1,,5,11
+2897264,Bob,Seymour,Bob Seymour,41,10/07/1998,"Saint John, IN","6' 3""",250 lbs,Left/Right,Wake Forest,,1,,27,5
+2897629,Dylan,Beavers,Dylan Beavers,92,08/11/2001,"San Luis Obispo, CA","6' 5""",206 lbs,Left/Right,California,,1,"2022: Rd 1, Pk 33 (BAL)",3,11
+2899770,Nolan,McLean,Nolan McLean,13,07/24/2001,"Garner, NC","6' 3""",225 lbs,Right/Right,Oklahoma State,,1,"2023: Rd 3, Pk 91 (NYM)",18,1
+2916046,Sam,Basallo,Sam Basallo,72,08/13/2004,"Santo Domingo, Dominican Republic","6' 4""",180 lbs,Left/Right,,,1,,3,4
+2917341,Nathan,Church,Nathan Church,83,07/12/2000,"Newport Beach, CA","5' 10""",180 lbs,Left/Left,UC Irvine,,1,,26,9
+2938435,Maximo,Acosta,Maximo Acosta,24,10/29/2002,"Caracas, Venezuela","5' 11""",187 lbs,Right/Right,,,1,,15,8
+2938634,Nolan,Hoffman,Nolan Hoffman,72,08/09/1997,"Lincoln, NE","6' 4""",190 lbs,Right/Right,Texas A&M,,1,,21,2
+2974908,Will,Banfield,Will Banfield,87,11/18/1999,"Lawrenceville, GA","6' 0""",215 lbs,Right/Right,,,1,,7,4
+2975881,Parker,Messick,Parker Messick,77,10/26/2000,"Plant City, FL","6' 0""",225 lbs,Left/Left,Florida State,,1,,8,1
+2994425,Joel,Peguero,Joel Peguero,63,05/05/1997,"Santo Domingo, Dominican Republic","5' 11""",194 lbs,Right/Right,,,1,,24,1
+2997652,Jhostynxon,Garcia,Jhostynxon Garcia,91,12/11/2002,"San Fernando de Apure, Venezuela","6' 0""",163 lbs,Right/Right,,,1,,4,10
+2999174,Carson,Williams,Carson Williams,65,06/25/2003,"San Diego, CA","6' 2""",180 lbs,Right/Right,,,1,"2021: Rd 1, Pk 28 (TB)",27,8
+3013378,Drew,Sommers,Drew Sommers,51,08/14/2000,"Hoffman Estates, IL","6' 3""",250 lbs,Left/Left,,,1,,10,2
+3015008,Bubba,Chandler,Bubba Chandler,57,09/14/2002,"Lawrenceville, GA","6' 3""",218 lbs,Both/Right,,,1,"2021: Rd 3, Pk 72 (PIT)",22,1
+3045284,McCade,Brown,McCade Brown,33,05/15/2000,"Normal, IL","6' 6""",225 lbs,Right/Right,Indiana,,1,"2021: Rd 3, Pk 79 (COL)",9,1
+3108434,Taylor,Rashi,Taylor Steven Rashi,36,01/15/1996,"Torrance, CA","6' 4""",220 lbs,Right/Right,,,1,,1,2
+3142502,Jonah,Tong,Jonah Tong,21,06/19/2003,"Markham, ON","6' 1""",180 lbs,Right/Right,,,1,,18,1
+3143201,Payton,Tolle,Payton Tolle,70,11/01/2002,"Stillwater, OK","6' 6""",250 lbs,Left/Left,Wichita State,,1,,4,1
+3143565,Jimmy,Crooks,Jimmy Crooks,72,07/19/2001,"Euless, TX","6' 0""",230 lbs,Left/Right,,,1,,26,4
+3143667,Cesar,Prieto,Cesar Prieto,82,05/10/1999,"Cienfuegos, Cuba","5' 9""",195 lbs,Left/Right,,,1,,26,6
+3195512,Rolddy,Munoz,Rolddy Munoz,74,04/14/2000,"Santo Domingo, Dominican Republic","6' 2""",183 lbs,Right/Right,,,1,,2,2
+3196074,Sal,Stewart,Sal Stewart,84,12/07/2003,"Miami, FL","6' 1""",215 lbs,Right/Right,,,1,"2022: Rd 1, Pk 32 (CIN)",7,7
+3196131,Andrew,Alvarez,Andrew Alvarez,41,06/13/1999,"Anaheim, CA","6' 3""",215 lbs,Left/Left,Cal Poly,,1,,30,1
+3197111,Harry,Ford,Harry Ford,72,02/21/2003,"Atlanta, GA","5' 10""",200 lbs,Right/Right,,,1,"2021: Rd 1, Pk 12 (SEA)",25,4
+3197739,Mitch,Farris,Mitch Farris,56,02/14/2001,"Charlotte, NC","6' 2""",187 lbs,Left/Left,,,1,,13,1
+3219020,Hayden,Harris,Hayden Harris,97,03/02/1999,"Augusta, GA","6' 0""",186 lbs,Left/Left,Georgia Southern,,1,,2,1
+3242842,Jayden,Murray,Jayden Murray,72,04/11/1997,"Vernal, UT","6' 1""",190 lbs,Right/Right,,,1,,11,1
+3315628,Brandon,Sproat,Brandon Sproat,91,09/17/2000,"Pensacola, FL","6' 3""",215 lbs,Right/Right,Florida,,1,,18,1
+3340980,Nick,Raquet,Nick Raquet,84,12/12/1995,"Boalsburg, PA","6' 0""",215 lbs,Right/Left,,,1,"2017: Rd 3, Pk 103 (WSH)",26,1
+3363426,Connelly,Early,Connelly Early,71,04/03/2002,"Midlothian, VA","6' 3""",195 lbs,Left/Left,Virginia,,1,"2023: Rd 5, Pk 151 (BOS)",4,1
+3420022,Cody,Laweryson,Cody Laweryson,16,05/10/1998,"Bingham, ME","6' 4""",205 lbs,Left/Right,Maine,,1,,17,2
+3421043,Zachary,Cole,Zachary Cole,96,08/04/2000,"Ozark, MO","6' 2""",190 lbs,Left/Right,,,1,,11,13
+3443137,Denzer,Guzman,Denzer Guzman,92,02/08/2004,"San Pedro de Macoris, Dominican Republic","6' 1""",180 lbs,Right/Right,,,1,,13,8
+3456041,Carson,Ragsdale,Carson Ragsdale,78,05/25/1998,"Wesley Chapel, FL","6' 8""",235 lbs,Right/Right,South Florida,,1,,3,2
+3479275,Trey,Yesavage,Trey Yesavage,39,07/28/2003,"Pottstown, PA","6' 4""",225 lbs,Right/Right,East Carolina,,1,"2024: Rd 1, Pk 20 (TOR)",29,1
+3481087,Bryce,Eldridge,Bryce Eldridge,78,10/20/2004,"Fairfax, VA","6' 7""",240 lbs,Left/Right,,,1,"2023: Rd 1, Pk 16 (SF)",24,5
+3498125,Rafael,Flores,Rafael Flores,82,11/07/2000,"Anaheim, CA","6' 4""",232 lbs,Right/Right,,,1,,22,4
+3502421,Rafael,Lantigua,Rafael Lantigua,83,04/28/1998,"Puerto Plata, Dominican Republic","5' 7""",153 lbs,Right/Right,,,1,,21,6
+3519099,Cole,Wilcox,Cole Wilcox,87,07/14/1999,"Chattanooga, TN","6' 5""",232 lbs,Right/Right,Georgia,,1,,27,2
+3536571,Philip,Abner,Philip Abner,50,05/05/2002,"Charlotte, NC","6' 1""",230 lbs,Left/Left,Florida,,1,,1,2
+3556302,Jhancarlos,Lara,Jhancarlos Lara,,01/15/2003,,"6' 3""",190 lbs,Right/Right,,,1,,2,2
+3576277,Petey,Halpin,Petey Halpin,89,05/26/2002,"San Mateo, CA","5' 11""",200 lbs,Left/Right,,,1,"2020: Rd 3, Pk 95 (CLE)",8,10
+3597369,Austin,Pope,Austin Pope,66,10/26/1998,"White Plains, NY","6' 3""",210 lbs,Right/Right,,,1,,1,2
+3637030,Hunter,Barco,Hunter Barco,45,12/15/2000,"Jacksonville, FL","6' 4""",235 lbs,Left/Left,Florida,,1,"2022: Rd 2, Pk 44 (PIT)",22,1
+3719881,Dylan,Ross,Dylan Ross,50,09/01/2000,"Statesboro, GA","6' 5""",251 lbs,Right/Right,,,1,,18,2
+3762886,Henry,Baez,Henry Baez,36,10/12/2002,"San Cristóbal, Dominican Republic","6' 3""",175 lbs,Right/Right,,,1,,20,1
+3763872,Tyler,Mattison,Tyler Mattison,59,09/05/1999,"Fort Ann, NY","6' 4""",235 lbs,Right/Right,Bryant,,1,"2021: Rd 4, Pk 104 (DET)",10,1
+3764073,Winston,Santos,Winston Santos,84,04/15/2002,"Payita, Dominican Republic","6' 0""",160 lbs,Right/Right,,,1,,28,1
+3764081,Emiliano,Teodo,Emiliano Teodo,82,02/14/2001,"Barahona, Dominican Republic","6' 1""",165 lbs,Right/Right,,,1,,28,1
+3764103,Marco,Raya,Marco Raya,85,08/07/2002,"Laredo, TX","6' 1""",170 lbs,Right/Right,,,1,,17,1
+3764242,Dax,Fulton,Dax Fulton,90,10/16/2001,"Weatherford, OK","6' 7""",245 lbs,Left/Left,,,1,"2020: Rd 2, Pk 40 (MIA)",15,1
+3764303,Carlos,Rodriguez,Carlos Rodriguez,71,12/07/2000,"Valencia, Venezuela","5' 10""",186 lbs,Left/Left,,,1,,2,11
+3764402,Franco,Aleman,Franco Aleman,92,06/26/2000,"Yaguajay, FL","6' 6""",235 lbs,Right/Right,Florida,,1,,8,2
+3764500,Deyvison,De Los Santos,Deyvison De Los Santos,65,06/21/2003,"Santo Domingo, Dominican Republic","6' 1""",185 lbs,Right/Right,,,1,,15,7
+3764534,Eric,Cerantola,Eric Cerantola,87,05/02/2000,"Montreal, PQ","6' 5""",225 lbs,Right/Right,Mississippi State,,1,,12,2
+3764581,Jared,Serna,Jared Serna,68,06/01/2002,"Guaymas, Mexico","5' 7""",174 lbs,Right/Right,,,1,,15,8
+3764624,Ben,Cowles,Ben Cowles,2,02/15/2000,"Rochester, NY","6' 1""",180 lbs,Right/Right,Maryland,,1,,6,7
+3764838,Tink,Hence,Tink Hence,30,08/06/2002,"Pine Bluff, AR","6' 1""",195 lbs,Right/Right,,,1,"2020: Rd 2, Pk 63 (STL)",26,2
+3765024,Tekoah,Roby,Tekoah Roby,38,09/18/2001,"Asheville, NC","6' 1""",210 lbs,Right/Right,,,1,"2020: Rd 3, Pk 86 (TEX)",26,1
+3765292,Matt,Koperniak,Matt Koperniak,29,02/08/1998,"London, England","6' 0""",208 lbs,Left/Right,,,1,,26,9
+3765782,Jesus,Rodriguez,Jesus Rodriguez,97,04/23/2002,"La Victoria, Venezuela","5' 10""",208 lbs,Right/Right,,,1,,24,4
+3765976,Jean,Cabrera,Jean Cabrera,79,10/20/2001,"Maracay, Venezuela","6' 0""",145 lbs,Right/Right,,,1,,21,1
+3765985,Moises,Chace,Moises Chace,75,06/09/2003,"La Guaira, Venezuela","6' 1""",213 lbs,Right/Right,,,1,,21,1
+3781026,Chase,DeLauter,Chase DeLauter,79,10/08/2001,"Frederick, MD","6' 3""",235 lbs,Left/Left,James Madison,,1,"2022: Rd 1, Pk 16 (CLE)",8,11

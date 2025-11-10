@@ -28,8 +28,8 @@ wheels/
 *.laccdb
 *.mdb
 
-# CSV Data (will add manually after extraction)
-csv_data/*.csv
+# CSV Data (extracted from API - committed for project submission)
+# csv_data/*.csv
 
 # IDE
 .vscode/
