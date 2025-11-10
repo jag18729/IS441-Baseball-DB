@@ -2,6 +2,11 @@
 
 **Moneyball Approach to MLB Player Scouting**
 
+**Team Members:**
+- Rafael Garcia
+- Josh Schmeltzer
+- Brandon Helmuth
+
 ## Project Overview
 
 This project implements a Microsoft Access database for MLB team scouting using the "Moneyball" philosophy - leveraging statistical analysis to identify undervalued players within budget constraints.

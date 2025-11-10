@@ -3,7 +3,7 @@
 
 **Project Goal**: Create a scouting database using the Moneyball approach to identify undervalued MLB talent within budget constraints.
 
-**Team Members**: [Add names here]
+**Team Members**: Rafael Garcia, Josh Schmeltzer, Brandon Helmuth
 **Date**: November 8, 2025
 **Data Source**: Ball Don't Lie MLB API (https://mlb.balldontlie.io/)
 
